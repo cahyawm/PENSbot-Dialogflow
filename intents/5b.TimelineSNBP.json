@@ -1,0 +1,61 @@
+{
+  "id": "4324ea2e-7bee-4c0b-8f27-e027273a41f6",
+  "name": "5b.TimelineSNBP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9a624d42-7a60-452e-83aa-59a8140d7316",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7840ff51-d8d2-48bd-857d-82c20c287ee6",
+          "name": "JalurPendaftaran",
+          "required": false,
+          "dataType": "@JalurPendaftaran",
+          "value": "$JalurPendaftaran",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

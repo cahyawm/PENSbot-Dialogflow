@@ -1,0 +1,320 @@
+[
+  {
+    "id": "2db13ec5-de3a-4be7-b31b-a7244d41e06b",
+    "data": [
+      {
+        "text": "broadcasting",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4ffc0bf2-2191-4827-92d2-a27c5e08c5c4",
+    "data": [
+      {
+        "text": "hal yang dilakuin di ",
+        "userDefined": false
+      },
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "81215c4f-a227-4151-ba1b-29902b155b76",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "prodi MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "265d4cc2-6223-4ca6-bb93-71793d2da564",
+    "data": [
+      {
+        "text": "program studi MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "63248f13-668b-4c26-8bb9-129d8a2b1123",
+    "data": [
+      {
+        "text": "prodi MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3150ff41-d802-4950-ae73-b60b57a5d07a",
+    "data": [
+      {
+        "text": "jelaskan apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a7df5c67-c9c5-48d1-8ed1-415ffc6eddc0",
+    "data": [
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "31f54611-3bc3-4c85-b10a-9d1f08e4d761",
+    "data": [
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9ab00030-4044-41dc-8db8-0c38bdb740ac",
+    "data": [
+      {
+        "text": "spill tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fd3dc679-08f9-455c-8bc4-b98eaf09e70c",
+    "data": [
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cf1bad05-9522-45b6-bd92-dcf8b929212f",
+    "data": [
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " masuk ",
+        "userDefined": false
+      },
+      {
+        "text": "departemen",
+        "userDefined": false
+      },
+      {
+        "text": " apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "04f2895a-28bd-41f2-8187-68ac0348bfb2",
+    "data": [
+      {
+        "text": "apa yang dilakukan di ",
+        "userDefined": false
+      },
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e6a149b5-e9a5-442b-9c19-f49a52fef2de",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "41b9d3c0-d763-45f2-bfe1-fc0ec1f0d26a",
+    "data": [
+      {
+        "text": "Multimedia Broadcasting",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f1d3f26b-e7e8-488e-855c-ec2209dbef0f",
+    "data": [
+      {
+        "text": "program studi Teknologi Multimedia Broadcasting",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4b37da99-852c-4677-a332-fe9ae7e2012a",
+    "data": [
+      {
+        "text": "prodi Teknologi Multimedia Broadcasting",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "076e7e55-c02d-416e-8f5c-199313571b2f",
+    "data": [
+      {
+        "text": "Teknologi Multimedia Broadcasting",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dd456be5-d0ed-4033-839f-9bf263a9de72",
+    "data": [
+      {
+        "text": "MMB",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

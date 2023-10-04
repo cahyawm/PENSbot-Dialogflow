@@ -1,0 +1,55 @@
+{
+  "id": "f8950ba2-ee6d-4003-985c-5721abfa6b90",
+  "name": "8u.Tari",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8uTari-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8c9835b9-cd17-4f81-8632-d91f255644f0",
+          "name": "UKM",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$UKM",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Tari merupakan suatu wadah seni yang bertujuan untuk melestarikan seni budaya serta menghimpun dan menyalurkan minat dan bakat dari mahasiswa dalam bidang seni sehingga nantinya dapat bermanfaat. Melalui visinya “mewujudkan dan melestarikan seni dan budaya” UKM Kesenian Daerah menjadi satu-satunya UKM yang bergerak dalam pelestarian seni khususnya sni tari yang ada di Politeknik Elektronika Negeri Surabaya. UKM tari berada di bawah naungan BEM PENS. UKM seni tari memiliki misi yaitu meningkatkan meningkatkan kualitas dan kuantitas kader yang memiliki intelektual dan loyalitas dalam bidang seni tari, serta berperan aktif dalam kegiatan kesenian daerah dalam pengabdian pada masyarakat. Anggota UKM Tari merupakan himpunan mahasiswa yang masih aktif di Politeknik Elektronika Negeri Surabaya. UKM Tari memiliki banyak program-program unggulan yang nantinya dapat menjadi pembelajaran skill dan edukatif bagi mahasiswa selain pengetahuan inti yang didapatkan dari perkuliahan. Program tersebut meliputi lomba-lomba, pelatihan dan pembinaan, sosial dan masih banyak yang lainnya. Pelaksanaan program kerja ini yaitu dalam kurun waktu kepengurusan tiap tahunnya.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM Tari silahkan hubungi wa.me/6281559865115 (Mbak Tsabitah)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

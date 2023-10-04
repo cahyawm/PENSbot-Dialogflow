@@ -1,0 +1,36 @@
+{
+  "id": "d2f4e718-53ec-4d89-b034-46676bb425a2",
+  "parentId": "b7f5b330-2dbd-4250-82de-44857cc2f6b2",
+  "rootParentId": "b7f5b330-2dbd-4250-82de-44857cc2f6b2",
+  "name": "9n.UKKI - no",
+  "auto": true,
+  "contexts": [
+    "9nUKKI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "9nUKKI.9nUKKI-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

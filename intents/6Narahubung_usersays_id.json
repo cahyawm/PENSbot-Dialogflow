@@ -1,0 +1,759 @@
+[
+  {
+    "id": "414aaa0f-c5d2-437f-aaee-15239103acfb",
+    "data": [
+      {
+        "text": "IG",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "93446950-fe84-4089-b9c0-30c89339e35e",
+    "data": [
+      {
+        "text": "instagram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9d6c3081-0115-4334-81ea-9ad9dfcc04c6",
+    "data": [
+      {
+        "text": "beri",
+        "userDefined": false
+      },
+      {
+        "text": " saya nomor telepon untuk menanya keperluan pendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "159b0624-c6c3-4583-8dad-09f60f7ddc65",
+    "data": [
+      {
+        "text": "kalau mau nanya nanya kemana ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6ac9c80a-423d-41d6-95f8-39499dbda4d6",
+    "data": [
+      {
+        "text": "kontak ",
+        "userDefined": false
+      },
+      {
+        "text": "humas",
+        "userDefined": false
+      },
+      {
+        "text": " yang bisa dihubungi mana yaa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "becc01d6-11a1-4d62-bd62-617404a5073c",
+    "data": [
+      {
+        "text": "website PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4a0658be-cf87-4ff0-95a8-295189439096",
+    "data": [
+      {
+        "text": "link website",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4913d254-e64b-4377-a4f4-f90d26b25844",
+    "data": [
+      {
+        "text": "media sosial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "96a1dd03-5261-4d95-8fc9-9c50e782ab0f",
+    "data": [
+      {
+        "text": "WA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a6b4beed-d775-4494-bd74-bc63c620a81d",
+    "data": [
+      {
+        "text": "Whatsapp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "72d641de-d17d-4a5b-8be7-54d71fdcd798",
+    "data": [
+      {
+        "text": "telepon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e21f6659-bd0b-490a-8c3a-a0e7baf26bd3",
+    "data": [
+      {
+        "text": "nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "451f9d21-5c2f-4ef9-b8cd-4fb73905e6a2",
+    "data": [
+      {
+        "text": "nomor hp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "db4dabbd-0858-4cc1-9fed-004b68ee9216",
+    "data": [
+      {
+        "text": "nomor telepon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ef8e741d-17b2-4e7e-ab83-41f185bee4e0",
+    "data": [
+      {
+        "text": "phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6fdf07e6-0e1e-4335-9f1f-77eb45b6b83b",
+    "data": [
+      {
+        "text": "email pens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a8cc050a-170f-4a95-9a62-50295fb82dd9",
+    "data": [
+      {
+        "text": "email address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2ea139aa-c00f-4c01-9bde-610a0339c1a8",
+    "data": [
+      {
+        "text": "kontak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5a706fd9-079c-4b72-8e5b-fa12e8d08d13",
+    "data": [
+      {
+        "text": "person contact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b4e3e218-4f18-4ef4-8667-f3e091e3418f",
+    "data": [
+      {
+        "text": "PC",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "84094f3a-d195-4b85-9c50-c6fb3749592f",
+    "data": [
+      {
+        "text": "CP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a9f44428-a9eb-4ea1-8ad1-7e52e723c484",
+    "data": [
+      {
+        "text": "Contact person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5cda9be7-a075-47f9-ba02-b33225f5782b",
+    "data": [
+      {
+        "text": "narahubung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "71e1ced4-3e9e-447f-a162-9317195202f3",
+    "data": [
+      {
+        "text": "6.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " Narahubung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "350e48a3-9413-4dd1-8eea-41bc63d681c4",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9b143206-f403-4bd9-ba16-f966ce3fa341",
+    "data": [
+      {
+        "text": "nomor 6",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4001ebd6-2f62-448d-86bc-434a8142e242",
+    "data": [
+      {
+        "text": "no six",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4d96f9bf-222e-4d5b-9065-8ed708b49b73",
+    "data": [
+      {
+        "text": "number six",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "379d26b3-941a-48ca-b556-1e3b298f33cc",
+    "data": [
+      {
+        "text": "six",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "05c7c7af-3438-47e4-8628-b6182011ea05",
+    "data": [
+      {
+        "text": "6.0",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "eca1877a-6dcf-4201-8326-e8483131f8a1",
+    "data": [
+      {
+        "text": "6,0",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4d521355-ad63-43ac-84be-af6bd45a9739",
+    "data": [
+      {
+        "text": "6,",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a0786332-9475-472b-966e-12611e4735b6",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d34f0b48-7fd9-4df0-843f-51c060247597",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3a77babc-e6db-4085-9f1a-2d721ccafdd0",
+    "data": [
+      {
+        "text": "instagramnya pens ",
+        "userDefined": false
+      },
+      {
+        "text": "apa",
+        "userDefined": false
+      },
+      {
+        "text": " yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5a7eb9a1-3007-44ff-98a7-73e735e64cae",
+    "data": [
+      {
+        "text": "Info CP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "68335d6f-2b45-479b-8a4c-541ab822073c",
+    "data": [
+      {
+        "text": "berikan nomor telepon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ceac7206-d50d-4fa3-818e-8ed4aff16774",
+    "data": [
+      {
+        "text": "adakah nomor yang bisa dihubungi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fa1ad909-980a-4830-a4d3-049bceb07d54",
+    "data": [
+      {
+        "text": "Bolehkah saya ",
+        "userDefined": false
+      },
+      {
+        "text": "minta",
+        "userDefined": false
+      },
+      {
+        "text": " nomor yang bisa dihubungi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8b5ab3b4-91dd-4cdb-8514-49e88b01e5a5",
+    "data": [
+      {
+        "text": "enammm",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "49054d3e-8cd6-4208-9d86-2dab9f17c1a9",
+    "data": [
+      {
+        "text": "enam",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "618baa4d-be7f-4159-a37f-d54886bbf359",
+    "data": [
+      {
+        "text": "6:",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0c0fc6b4-6b1f-4d00-9cfb-36721f2c7494",
+    "data": [
+      {
+        "text": "Info narahubung dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8ad91a1f-5f5b-494f-b2e0-0d66589d4eb0",
+    "data": [
+      {
+        "text": "link website pens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "324a890e-77f0-4b36-aa89-56b0f37a6891",
+    "data": [
+      {
+        "text": "informasi media sosial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3fb466f2-fba4-4102-b0aa-ab23616bdfcd",
+    "data": [
+      {
+        "text": "nomor whatsapp yang bisa dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b9c18a6b-ab5c-4f55-a72e-c63f5743a582",
+    "data": [
+      {
+        "text": "informasi kontak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a100fc4d-b1b1-4723-b574-8b7d71eb03e8",
+    "data": [
+      {
+        "text": "nomor yang bisa dihubungi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0422c18d-7852-414b-b6b3-49b69ccb63a5",
+    "data": [
+      {
+        "text": "informasi contact person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8d508962-76d3-4d1c-b3af-a6d645170298",
+    "data": [
+      {
+        "text": "informasi lebih lanjut hubungi ke siapa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "95679e46-f35f-47cb-8b80-ccf0edeb5306",
+    "data": [
+      {
+        "text": "infrormasi lebih lanjut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b70af088-170d-4ef3-b9c2-e21ff76b86b5",
+    "data": [
+      {
+        "text": "nama website pens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "90a1be49-42d3-4357-afd9-e986957ac266",
+    "data": [
+      {
+        "text": "Informasi narahubung",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

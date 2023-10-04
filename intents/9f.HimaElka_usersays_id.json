@@ -1,0 +1,123 @@
+[
+  {
+    "id": "6561928b-c9e4-4909-ab2d-f3088b99f945",
+    "data": [
+      {
+        "text": "tujuan ",
+        "userDefined": false
+      },
+      {
+        "text": "hima elka",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7b8ea86d-0336-43d6-a3fc-1372a8871483",
+    "data": [
+      {
+        "text": "visi misi ",
+        "userDefined": false
+      },
+      {
+        "text": "hima elka",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "02e5502e-6b6a-4166-9016-72b01c3c74d0",
+    "data": [
+      {
+        "text": "HIMA ELKA",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "60c0bfd4-6c48-43bd-ae16-905164f70499",
+    "data": [
+      {
+        "text": "apasih ",
+        "userDefined": false
+      },
+      {
+        "text": "HIMA ELKA",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5575b68b-c20d-46b9-8cbb-1eaa574b5d76",
+    "data": [
+      {
+        "text": "HIMA ELKA",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6235d850-155a-480b-ab5a-ae038d7dbb83",
+    "data": [
+      {
+        "text": "HIMA elektronika",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "33a3f0bd-b05d-4b3d-bdf7-1e7ca229b447",
+    "data": [
+      {
+        "text": "Himpunan Mahasiswa Teknik Elektro",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

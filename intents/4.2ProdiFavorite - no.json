@@ -1,0 +1,36 @@
+{
+  "id": "347fcac2-c200-4d96-939d-bcea2c976295",
+  "parentId": "da5857ab-bbda-474a-9b58-c0b822d0ad7a",
+  "rootParentId": "da5857ab-bbda-474a-9b58-c0b822d0ad7a",
+  "name": "4.2ProdiFavorite - no",
+  "auto": true,
+  "contexts": [
+    "42ProdiFavorite-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "42ProdiFavorite.42ProdiFavorite-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

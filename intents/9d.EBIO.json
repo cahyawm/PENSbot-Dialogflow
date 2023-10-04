@@ -1,0 +1,55 @@
+{
+  "id": "5a3ae36c-bacb-46ca-b877-f8f2bf7e336f",
+  "name": "9d.EBIO",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9dEBIO-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "43d23c8a-28c2-4670-87dd-f335fef9dd86",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "EBIO (EEPIS Bidikmisi Organization) adalah sebuah lembaga swadaya mahasiswa Bidikmisi di Politeknik Elektronika Negeri Surabaya.\n\nApakah jawaban PENSbot cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

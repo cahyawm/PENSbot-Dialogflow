@@ -1,0 +1,197 @@
+[
+  {
+    "id": "247d91d4-af23-4a98-a3a0-3f173918868a",
+    "data": [
+      {
+        "text": "aviasi",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5d23e5d4-a854-42b5-9440-1932bc5eb4ab",
+    "data": [
+      {
+        "text": "dirgantara",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " plis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "625179b0-8995-4d53-a282-706c05ab5460",
+    "data": [
+      {
+        "text": "pelaksanaan ",
+        "userDefined": false
+      },
+      {
+        "text": "dirgantara",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " kapan ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "082fa943-ea76-4fce-b0a0-a6a368c3d539",
+    "data": [
+      {
+        "text": "penasaran sama ",
+        "userDefined": false
+      },
+      {
+        "text": "dirgantara",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9488e044-f951-48cb-af76-5775707b3bae",
+    "data": [
+      {
+        "text": "keaviasian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7076e8f5-d7f7-4ca7-a66f-abe85e891add",
+    "data": [
+      {
+        "text": "dirgantara",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "985c6bd7-cf50-4f35-bded-53d0720b73b7",
+    "data": [
+      {
+        "text": "kasih informasi tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "dirgantara",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "143457f7-85d8-4ee8-ae61-999e64eb5df1",
+    "data": [
+      {
+        "text": "UKM Dirgantara",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2459cca9-84c1-4492-bffc-48203e2e97ae",
+    "data": [
+      {
+        "text": "kedirgantaraan",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cb1bc25e-2928-420e-8beb-df4ba157fdac",
+    "data": [
+      {
+        "text": "dirgantara",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": true
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9e8d38bd-c918-49c1-94fe-b8378adf226a",
+    "data": [
+      {
+        "text": "DIRGANTARA",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

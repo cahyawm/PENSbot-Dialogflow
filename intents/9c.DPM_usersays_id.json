@@ -1,0 +1,116 @@
+[
+  {
+    "id": "1cc5f08e-6093-4bec-a99f-5b897d21c0f2",
+    "data": [
+      {
+        "text": "Informasi tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "DPM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "12354fcc-f7c9-44ec-b89d-f320796dffb5",
+    "data": [
+      {
+        "text": "DPM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "253a2780-f650-4ca2-8a64-3d9a5f75d946",
+    "data": [
+      {
+        "text": "apa yang dimaksud dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "DPM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e9852546-acc0-4735-9e99-49d66b5bb77f",
+    "data": [
+      {
+        "text": "jelaskan apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "DPM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bfd480a7-e447-4844-94bb-2ccbcc66f0ea",
+    "data": [
+      {
+        "text": "DPM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "30cd1c6b-18b9-4bfd-9fd5-3e6f2e2ac6a9",
+    "data": [
+      {
+        "text": "Apa sih ",
+        "userDefined": false
+      },
+      {
+        "text": "DPM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

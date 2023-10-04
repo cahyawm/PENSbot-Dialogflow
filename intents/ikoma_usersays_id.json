@@ -1,0 +1,142 @@
+[
+  {
+    "id": "e809c496-7d0f-404e-b0ad-529fa89d7445",
+    "data": [
+      {
+        "text": "Apa saja yang termasuk dalam biaya ",
+        "userDefined": false
+      },
+      {
+        "text": "IKOMA",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4d62239d-fd65-4f43-b7ee-9f7c49b677b7",
+    "data": [
+      {
+        "text": "Berapa biaya ",
+        "userDefined": false
+      },
+      {
+        "text": "IKOMA",
+        "userDefined": false
+      },
+      {
+        "text": " yang harus dibayar setiap semester?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "18735d0c-c414-4078-9418-56f02d3edf3f",
+    "data": [
+      {
+        "text": "kasih informasi tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "IKOMA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0a01378b-dc21-4f2e-a6c0-493295f1a27e",
+    "data": [
+      {
+        "text": "Kepanjangan ",
+        "userDefined": false
+      },
+      {
+        "text": "IKOMA",
+        "userDefined": false
+      },
+      {
+        "text": " apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "99ff7c5e-ddc7-4979-aae2-3671f0f2b70b",
+    "data": [
+      {
+        "text": "ikoma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "868a7037-97ff-4f5a-901c-a550c37bda7c",
+    "data": [
+      {
+        "text": "Apa maksud dari ikoma?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "39340422-dbd2-4a68-a398-4d55c86318d4",
+    "data": [
+      {
+        "text": "Apa yang dimaksud dengan IKOMA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bf036b29-efad-4393-a9b5-f84ff3674995",
+    "data": [
+      {
+        "text": "Apakah ",
+        "userDefined": false
+      },
+      {
+        "text": "IKOMA",
+        "userDefined": true
+      },
+      {
+        "text": " itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

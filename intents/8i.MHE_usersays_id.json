@@ -1,0 +1,154 @@
+[
+  {
+    "id": "22685491-8185-4090-9921-d1531f3f0985",
+    "data": [
+      {
+        "text": "MHE",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pliss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4a88284c-a06a-4a49-b139-775ceff171bf",
+    "data": [
+      {
+        "text": "kepo",
+        "userDefined": false
+      },
+      {
+        "text": " sama ",
+        "userDefined": false
+      },
+      {
+        "text": "MHE",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "420b7472-99ca-44ea-8ca4-533323099d96",
+    "data": [
+      {
+        "text": "MHE",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " yaitu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b411d396-720e-4494-b337-691383dff383",
+    "data": [
+      {
+        "text": "jelaskan apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "MHE",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2100deca-431a-466b-8538-2e89f8b73757",
+    "data": [
+      {
+        "text": "MHE",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6c72390c-2e4a-446b-b30b-fa35d380fc01",
+    "data": [
+      {
+        "text": "MHE",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "21c8a776-027e-4250-8b87-c2686738e811",
+    "data": [
+      {
+        "text": "Mobil Hemat Energi",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "67370ee4-6e3d-4b83-ba80-517da032b6f4",
+    "data": [
+      {
+        "text": "MHE",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

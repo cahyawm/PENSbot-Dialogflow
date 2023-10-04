@@ -1,0 +1,36 @@
+{
+  "id": "36c9a57a-9476-4cae-93b1-fb668301460a",
+  "parentId": "33908054-0c63-4469-b076-a5b87dee2e7d",
+  "rootParentId": "33908054-0c63-4469-b076-a5b87dee2e7d",
+  "name": "8i.MHE - no",
+  "auto": true,
+  "contexts": [
+    "8iMHE-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8iMHE.8iMHE-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

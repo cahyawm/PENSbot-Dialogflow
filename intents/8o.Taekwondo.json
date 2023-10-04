@@ -1,0 +1,55 @@
+{
+  "id": "199a8598-ed76-4a71-8653-59ce62914c87",
+  "name": "8o.Taekwondo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8oTaekwondo-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6beae38e-85da-4b1f-b383-7f44db07b1a8",
+          "name": "UKM",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$UKM",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Pada prinsipnya Unit Kegiatan Mahasiswa Taekwondo merupakan salah satu unit kegiatan di lingkungan Politeknik Elektronika Negeri SUrabaya yang berfungsi sebagai penampung dan penyalur aspirasi kegiatan mahasiswa di bidang minat bela diri taekwondo.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM Taekwondo silahkan hubungi wa.me/6285694210089 (Mas Haidar)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

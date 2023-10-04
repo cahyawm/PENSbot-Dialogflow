@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1868e39c-bc9f-4d1b-b8e2-dafcdd805c68",
+    "data": [
+      {
+        "text": "jalur rapot",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "754597f9-57d7-4c23-9631-2656688bcd30",
+    "data": [
+      {
+        "text": "seleksi ",
+        "userDefined": false
+      },
+      {
+        "text": "jalur rapot",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "47afe9f7-da54-40ab-8590-9e7ecb5e5d33",
+    "data": [
+      {
+        "text": "jalur raport",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d24dc515-3fae-4505-b1c8-75db5ce328a3",
+    "data": [
+      {
+        "text": "jalur ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c965f877-e14c-40e3-893d-fe334a0f7a6d",
+    "data": [
+      {
+        "text": "Jalur pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6f11ac25-718b-4c07-b093-7ac368505ec4",
+    "data": [
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "309e8cd6-0722-431f-90f2-26749750dd7a",
+    "data": [
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "23f5e1a5-3302-42d6-9d12-61e529e830e8",
+    "data": [
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "911f605f-48f6-4e3b-a98a-0b95476f43eb",
+    "data": [
+      {
+        "text": "Jelaskan apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0b0a7cb7-7e64-4ce4-8519-9dfad00c9933",
+    "data": [
+      {
+        "text": "seputar ",
+        "userDefined": false
+      },
+      {
+        "text": "Seleksi Nasional Berdasarkan Prestasi",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d2d0176c-0a0b-49f9-83b3-efdf32707d1d",
+    "data": [
+      {
+        "text": "Seleksi Nasional Berbasis Prestasi",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "596c3418-1d31-4283-a4f7-aae24e24aeb5",
+    "data": [
+      {
+        "text": "Seleksi Nasional Berdasarkan Prestasi",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5c70078b-1d22-4d87-9a83-056bf885ec05",
+    "data": [
+      {
+        "text": "info ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "671b9ee9-85e3-478d-8a3c-4d84ff23f2d2",
+    "data": [
+      {
+        "text": "kasih tau info ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " terbaru dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e6986bc4-c3fe-4860-8b36-eff31d85820b",
+    "data": [
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

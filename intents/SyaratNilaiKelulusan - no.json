@@ -1,0 +1,36 @@
+{
+  "id": "b3ee1c08-ea71-42a5-a198-edbee3588799",
+  "parentId": "2104acb2-7ac4-4da6-b48c-59bb666d552e",
+  "rootParentId": "2104acb2-7ac4-4da6-b48c-59bb666d552e",
+  "name": "SyaratNilaiKelulusan - no",
+  "auto": true,
+  "contexts": [
+    "SyaratNilaiKelulusan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SyaratNilaiKelulusan.SyaratNilaiKelulusan-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

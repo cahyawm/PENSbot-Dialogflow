@@ -1,0 +1,114 @@
+[
+  {
+    "id": "5a127e9e-85a0-4d7e-96d3-128560f65a40",
+    "data": [
+      {
+        "text": "Berapa nilai minimum yang dibutuhkan untuk masuk di ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "755381f0-2f37-4cb7-80e0-a1191a761079",
+    "data": [
+      {
+        "text": "ketentuan diterima SIMANDIRI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "03051e32-336a-41c3-90f3-c285da19becb",
+    "data": [
+      {
+        "text": "Syarat lolos SIMANDIRI",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fde49b58-66af-4fcb-942f-6cac41adb8a1",
+    "data": [
+      {
+        "text": "Syarat lolos SNBT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c02c58db-1b8d-4e2d-a512-3552e2022653",
+    "data": [
+      {
+        "text": "Syarat lolos SNBP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8862badc-5cb3-4dd5-97f7-62bfa00520b6",
+    "data": [
+      {
+        "text": "Syarat lolos di PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "877332a1-f2e8-46a6-b324-a38df7882a5a",
+    "data": [
+      {
+        "text": "Syarat nilai masuk ke PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9fde1ccc-9e0f-4f8c-bfd2-373c420174be",
+    "data": [
+      {
+        "text": "berapa nilai agar bisa lulus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

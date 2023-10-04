@@ -1,0 +1,55 @@
+{
+  "id": "902bca6e-3baa-4fee-bcf7-48acb84a759f",
+  "name": "8p.TEKKES",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8pTEKKES-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "78d05dc0-f3aa-4ec4-9a9d-e4c4f88d4bd9",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM TEKKES adalah UKM yang bergerak dalam pengembangan keilmuan dibidang teknologi untuk mendukung dibidang kesehatan dimana dengan kemajuan dan perkembangan IPTEK bisa mendukung pengembangan dibidang kesehatan sehingga bisa menghasilkan sesuatu yang tepat guna dan bermanfaat dibidang kesehatan tersebut.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM TEKKES silahkan hubungi wa.me/6281803434366 (Mas Alwi)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

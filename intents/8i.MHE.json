@@ -1,0 +1,55 @@
+{
+  "id": "33908054-0c63-4469-b076-a5b87dee2e7d",
+  "name": "8i.MHE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8iMHE-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "299740d9-56b0-4bdc-a99e-ef07fc9f7e2c",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM MHE merupakan Unit Kegiatan Mahasiswa yang berada di bawah naungan Lembaga Minat Bakat, untuk UKM MHE sendiri yaitu bergerak di bidang mobil hemat energi yang mempelajari dari segi kontrol, segi aerodinamis, serta material mekanik yang digunakan. Didalam UKM MHE terdapat beberapa divisi mulai dari Divisi Electric, Divisi Mechanic, Divisi Design.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM MHE silahkan hubungi wa.me/6281290415920 (Mas Fathan)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

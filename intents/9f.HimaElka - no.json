@@ -1,0 +1,36 @@
+{
+  "id": "bc498eb7-35cc-458b-9d36-502c200e46cd",
+  "parentId": "338333a7-f4bd-4033-8544-b7acc65e84f1",
+  "rootParentId": "338333a7-f4bd-4033-8544-b7acc65e84f1",
+  "name": "9f.HimaElka - no",
+  "auto": true,
+  "contexts": [
+    "9fHimaElka-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "9fHimaElka.9fHimaElka-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

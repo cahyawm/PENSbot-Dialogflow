@@ -1,0 +1,323 @@
+[
+  {
+    "id": "2efc2dc3-305d-4ef0-8fa0-95a5da4b920a",
+    "data": [
+      {
+        "text": "teknologi rekayasa internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f24d65a0-5d0b-4fdc-9312-686367601995",
+    "data": [
+      {
+        "text": "teknik teknologi internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ba93ce2e-bc4f-448f-9610-852c2268b1d1",
+    "data": [
+      {
+        "text": "sarjana terapan teknologi internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "afa1c8c4-ea28-40b1-9a22-b92222044139",
+    "data": [
+      {
+        "text": "teknologi internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fff85c19-21a5-4a3a-a9fa-528f7e9be7df",
+    "data": [
+      {
+        "text": "TRI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " yaitu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ebb33e7d-d57d-4005-b46e-c9c256698531",
+    "data": [
+      {
+        "text": "TRI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e001ccdb-762c-48c4-8f1a-3de0a72d0653",
+    "data": [
+      {
+        "text": "teknik rekayasa internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja tuh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2bcf2e0e-04bc-4a74-9c63-7a64b2214b3a",
+    "data": [
+      {
+        "text": "aku gatau soal ",
+        "userDefined": false
+      },
+      {
+        "text": "TRI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": ", kasih tau dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c81bd386-9796-4b44-978b-d5eed4732b87",
+    "data": [
+      {
+        "text": "TRI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      },
+      {
+        "text": " apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "876407ba-2d88-4018-9ffd-06da295da6c6",
+    "data": [
+      {
+        "text": "TRI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "05eaed9e-96e2-4c41-82ee-4769a981d4dd",
+    "data": [
+      {
+        "text": "program studi TRI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "410ecea0-a629-4877-b808-43d2bf3de227",
+    "data": [
+      {
+        "text": "program studi rekayasa internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "aeafcb1e-4dd4-4d4e-a50f-274501fa0dc0",
+    "data": [
+      {
+        "text": "program studi Teknik Rekayasa Internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b0d09583-b07d-45b3-a1aa-c1bd32d34c5b",
+    "data": [
+      {
+        "text": "prodi Teknik Rekayasa Internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ec339b01-6c9f-4d94-87bc-a56bf7adc8d2",
+    "data": [
+      {
+        "text": "prodi TRI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cb5b1b2e-6981-4b80-bacb-072cd40fe3c4",
+    "data": [
+      {
+        "text": "prodi rekayasa internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "63aa8a23-c7ee-4640-a3a4-81b1263f0e1c",
+    "data": [
+      {
+        "text": "Rekayasa internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "edf00763-01e8-4d30-a30e-bd37caf6e4e7",
+    "data": [
+      {
+        "text": "TRI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a843c676-d8d0-41fe-9c33-6798b8988eae",
+    "data": [
+      {
+        "text": "Teknik Rekayasa Internet",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

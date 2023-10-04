@@ -1,0 +1,36 @@
+{
+  "id": "2b65e4c8-dd6f-49f2-abbb-7e48d57b053e",
+  "parentId": "fe3ce59b-29af-4e17-b049-419eb603b067",
+  "rootParentId": "fe3ce59b-29af-4e17-b049-419eb603b067",
+  "name": "8n.Roboholic - no",
+  "auto": true,
+  "contexts": [
+    "8nRoboholic-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8nRoboholic.8nRoboholic-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

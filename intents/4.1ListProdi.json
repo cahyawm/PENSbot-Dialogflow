@@ -1,0 +1,50 @@
+{
+  "id": "4f492caf-dd09-4c7e-b8ac-fce75138f961",
+  "name": "4.1ListProdi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f8505b50-93a2-4f09-9e69-2af94f777067",
+          "name": "ProgramStudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$ProgramStudi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Berikut adalah 12 Program Studi yang ada di PENS antara lain : Teknik Elektronika, Teknik Elektro Industri, Teknik Telekomunikasi, Teknik Rekayasa Internet, Teknik Mekatronika, Sistem Pembangkit Energi, Teknik Informatika, Teknik Komputer, Sains Data Terapan, Game Teknologi, Teknologi Multimedia Broadcasting, dan Teknik Rekayasa Multimedia.\n\nProgram Studi apa yang ingin kamu ketahui?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

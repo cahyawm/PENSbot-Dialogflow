@@ -1,0 +1,55 @@
+{
+  "id": "da5857ab-bbda-474a-9b58-c0b822d0ad7a",
+  "name": "4.2ProdiFavorite",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "42ProdiFavorite-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4628c74e-11e6-4d7e-99ab-f4132ca35cb4",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! Untuk tahun ini program studi yang paling digemari adalah Teknik Informatika, Teknik Elektronika, dan Teknik Elektro Industri.\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

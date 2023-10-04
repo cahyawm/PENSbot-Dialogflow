@@ -1,0 +1,36 @@
+{
+  "id": "5e73ec05-9a6b-4da1-a91d-359691806f8d",
+  "parentId": "7b3e5401-90dc-4a02-a694-7fbbe0be4e35",
+  "rootParentId": "7b3e5401-90dc-4a02-a694-7fbbe0be4e35",
+  "name": "3a.kuota-pendaftaran - yes",
+  "auto": true,
+  "contexts": [
+    "3akuota-pendaftaran-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3akuota-pendaftaran.3akuota-pendaftaran-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1e3bb1f1-f01e-44d5-84e4-605230df3a76",
+    "data": [
+      {
+        "text": "hari pelaksanaan ",
+        "userDefined": false
+      },
+      {
+        "text": "Basket",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "776e9edd-5bf8-424a-952a-14872f35abb3",
+    "data": [
+      {
+        "text": "Inpoin ",
+        "userDefined": false
+      },
+      {
+        "text": "UKM Basket",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a3a47eae-64c3-43b6-855e-9b289a9a3310",
+    "data": [
+      {
+        "text": "basket",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d1f67275-37f2-4115-8713-829b49ccef4e",
+    "data": [
+      {
+        "text": "UKM BASKET",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

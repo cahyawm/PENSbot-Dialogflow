@@ -1,0 +1,55 @@
+{
+  "id": "0677d1e1-75a9-4cdd-8c32-d3442c74bb81",
+  "name": "8q.Musik",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8qMusik-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3dec7457-062b-41e3-995b-afccf49d5a27",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Musik adalah jenis UKM yang bergerak di bidang seni musik terutama. UKM ini hanya mengikuti kegiatan-kegiatan yang ada guna menyalurkan minat dan bakat mahasiswa. UKM musik dapat mengembangkan bakat dan minat di lingkungan Politeknik Elektronika Negeri Surabaya. Kegiatan dari UKM musik antara lain melaksanakan latihan secara rutin serta mengikuti kompetisi-kompetisi musik dalam skala regional dan nasional.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM Musik silahkan hubungi wa.me/6285608746121 (Mas Irfan)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

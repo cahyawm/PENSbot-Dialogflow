@@ -1,0 +1,36 @@
+{
+  "id": "e305bd0a-2869-4ffb-89ef-d527ee067e10",
+  "parentId": "69877590-252c-4aa9-b89f-e4132e527506",
+  "rootParentId": "69877590-252c-4aa9-b89f-e4132e527506",
+  "name": "9i.HimaTelkom - no",
+  "auto": true,
+  "contexts": [
+    "9iHimaTelkom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "9iHimaTelkom.9iHimaTelkom-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

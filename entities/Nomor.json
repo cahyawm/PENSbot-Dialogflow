@@ -1,0 +1,9 @@
+{
+  "id": "375ffc89-cf8a-4679-850a-c90691bd7fc1",
+  "name": "Nomor",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

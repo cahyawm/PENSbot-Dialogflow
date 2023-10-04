@@ -1,0 +1,36 @@
+{
+  "id": "e8f49ff9-3bed-4828-99fd-5f8583543478",
+  "parentId": "e3a0e251-a2a4-4196-8970-7653027f511b",
+  "rootParentId": "e3a0e251-a2a4-4196-8970-7653027f511b",
+  "name": "8b.Dirgantara - no",
+  "auto": true,
+  "contexts": [
+    "8bDirgantara-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8bDirgantara.8bDirgantara-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

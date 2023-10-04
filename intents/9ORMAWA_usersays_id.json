@@ -1,0 +1,296 @@
+[
+  {
+    "id": "85e967f6-5fd2-4fcf-9a4e-416b4bd744cb",
+    "data": [
+      {
+        "text": "no 9",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e1269cd4-9c5e-40f9-982c-ffc8125d27d6",
+    "data": [
+      {
+        "text": "sembilan,",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5e0998e7-2e72-46de-ba47-2d4c19cef103",
+    "data": [
+      {
+        "text": "nine",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bd3a3369-23ab-4105-8adf-397931756c00",
+    "data": [
+      {
+        "text": "9.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bbcbaed3-e588-48b0-9189-817ff5bb666f",
+    "data": [
+      {
+        "text": "sembilan",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1f1ff09e-e61e-46c5-84ef-9bd3f08c7cfb",
+    "data": [
+      {
+        "text": "number 9",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "38ec30f7-1cbc-456e-ae44-21b553de0f5d",
+    "data": [
+      {
+        "text": "ORMAWA PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "811e8862-71fd-43a8-bc6b-d99d8aff7658",
+    "data": [
+      {
+        "text": "ormawa organisasi mahasiswa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c81c1de4-9a5d-4527-95d8-caaaa1b733cb",
+    "data": [
+      {
+        "text": "Organisasi Mahasiswa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0deaaf3a-b370-41a2-8370-26ab3160ccbc",
+    "data": [
+      {
+        "text": "number nine",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6b21a6df-4571-4d71-b5fb-4be8e79e9cf3",
+    "data": [
+      {
+        "text": "9.0",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a95e4579-f866-4ee1-9fec-848b4ed6df51",
+    "data": [
+      {
+        "text": "9,0",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "42614b44-052b-42cf-9be2-425b4900d9e9",
+    "data": [
+      {
+        "text": "9",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " ORMAWA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dd9949a7-f84c-4aa8-8636-9a8dadccdac6",
+    "data": [
+      {
+        "text": "9",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": ". ORMAWA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "245a0ada-86a4-4324-9b23-7cf7a6c6d641",
+    "data": [
+      {
+        "text": "9,",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a948430e-9346-43f2-a43d-851a5390f693",
+    "data": [
+      {
+        "text": "9",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "82482d49-adcf-4e53-b656-24f1f191eccf",
+    "data": [
+      {
+        "text": "ORMAWA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e941a2e5-f2dd-4042-88d2-aebe39f7ea8b",
+    "data": [
+      {
+        "text": "Organisasi mahasiswa yang ada di PENS apa aja sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4bcaf252-92e7-4e4f-87dd-e1fa72ea75b4",
+    "data": [
+      {
+        "text": "Informasi organisasi yang ada di PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4e3d83fb-94d1-467c-a48a-3f4096caa6f7",
+    "data": [
+      {
+        "text": "Organisasi Mahasiswa PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

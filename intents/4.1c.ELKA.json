@@ -1,0 +1,55 @@
+{
+  "id": "c0a16902-e9c3-4105-b9c2-bc42f1b4e7d9",
+  "name": "4.1c.ELKA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41cELKA-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0a24e43d-40d5-45dc-b254-485ee2db9c31",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi Teknik Elektronika terdiri dari D3 dan D4 yang masing-masing memiliki akreditasi A.\n\nTeknik elektronika (Electronic Engineering) adalah subdisiplin teknik elektro (Electrical Engineering) yang muncul pada awal abad ke-20 dan mempunyai ciri dengan penggunaan tambahan komponen aktif seperti perangkat semikonduktor untuk memperkuat dan mengontrol aliran arus listrik. Sebelumnya teknik elektro hanya menggunakan perangkat pasif seperti saklar mekanik, resistor, induktor dan kapasitor.\n\nTeknik elektronika mencakup bidang-bidang seperti: elektronik analog, elektronik digital, elektronik konsumen, sistem embedded dan elektronika daya. Teknik elektronika juga terlibat dalam banyak bidang terkait, misalnya solid state physics, teknik radio, telekomunikasi, sistem kontrol, pemrosesan sinyal, teknik sistem, teknik komputer, teknik instrumentasi, kontrol tenaga listrik, robotika.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "c580021b-2444-4806-b62c-68f4ce880704",
+  "name": "8v.Basket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8vBasket-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b69108eb-ee04-4b7a-b1f9-92747bfba7ec",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Basket dibentuk sebagai wadah untuk menampung minat dan bakat mahasiswa Politeknik Elektronika Negeri Surabaya khususnya di bidang olahraga basket UKM ini bukan hanya sebagai sarana penyalur hobi basket, namun mendorong mahasiswa untuk berprestasi di bidang olahraga basket baik di tingkat regional maupun nasional.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM Basket silahkan hubungi wa.me/6288801761927 (Mas Dimas)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

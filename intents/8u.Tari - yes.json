@@ -1,0 +1,36 @@
+{
+  "id": "8dd7d714-5633-4bf3-bc51-b3a243685110",
+  "parentId": "f8950ba2-ee6d-4003-985c-5721abfa6b90",
+  "rootParentId": "f8950ba2-ee6d-4003-985c-5721abfa6b90",
+  "name": "8u.Tari - yes",
+  "auto": true,
+  "contexts": [
+    "8uTari-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8uTari.8uTari-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

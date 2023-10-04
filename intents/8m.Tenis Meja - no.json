@@ -1,0 +1,36 @@
+{
+  "id": "78bb9d2b-a190-4cf3-bd3d-d7de23854663",
+  "parentId": "5ece506a-977f-479d-896c-da4bf0f2be5d",
+  "rootParentId": "5ece506a-977f-479d-896c-da4bf0f2be5d",
+  "name": "8m.Tenis Meja - no",
+  "auto": true,
+  "contexts": [
+    "8mTenisMeja-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8mTenisMeja.8mTenisMeja-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

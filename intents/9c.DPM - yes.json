@@ -1,0 +1,36 @@
+{
+  "id": "48c7e82b-f7ef-44eb-916f-fdd873e16ba2",
+  "parentId": "2d794f0d-c485-4afb-b304-0760d1faf9ec",
+  "rootParentId": "2d794f0d-c485-4afb-b304-0760d1faf9ec",
+  "name": "9c.DPM - yes",
+  "auto": true,
+  "contexts": [
+    "9cDPM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "9cDPM.9cDPM-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

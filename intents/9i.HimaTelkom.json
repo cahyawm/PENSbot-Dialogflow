@@ -1,0 +1,55 @@
+{
+  "id": "69877590-252c-4aa9-b89f-e4132e527506",
+  "name": "9i.HimaTelkom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9iHimaTelkom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ff67a493-6277-4981-bb15-6056c6df4cd5",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Himpunan Mahasiswa Telekomunikasi Politeknik Elektronika Negeri Surabaya yang bisa disebut HIMA TELKOM PENS didirikan pada tahun 1991 dan berkedudukan pada program studi Teknik Telekomunikasi PENS. HIMA TELKOM terdiri dari mahasiswa Teknik Telekomunikasi dan Teknologi Rekayasa Internet.\n\nHIMA TELKOM bertujuan untuk mewujudkan dan membina rasa kekeluargaan antar seluruh civitas akademika PENS, sebagai wadah pengembangan potensi, kecendekiawanan, kemandirian, profesionalisme, rasa tanggung jawab sosial dan kebangsaan dari mahasiswa serta menjadi organisasi yang bermanfaat bagi masyarakat."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

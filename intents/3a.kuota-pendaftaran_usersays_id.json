@@ -1,0 +1,209 @@
+[
+  {
+    "id": "58bfa795-e775-403f-ae81-beab5fd4c772",
+    "data": [
+      {
+        "text": "3a. Kuota Pendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "511c8ad8-2d09-4af9-9e2b-71afa3d7ece7",
+    "data": [
+      {
+        "text": "kuota pendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d3f69a89-00fe-46cf-a759-8cfeb1256540",
+    "data": [
+      {
+        "text": "3a.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b9c13cd1-53b6-4d4a-b1ad-d84ff3c04b8c",
+    "data": [
+      {
+        "text": "tiga a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1442b237-bdcd-45b7-9ba5-76401de5ff76",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      },
+      {
+        "text": " a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7ce33383-6df8-436b-b0c5-4d51fd02eeb3",
+    "data": [
+      {
+        "text": "3a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "67d2c65b-fc9d-4978-8cdd-cce990d914e8",
+    "data": [
+      {
+        "text": "mahasiswa yang diterima ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      },
+      {
+        "text": " pertahun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f0c07e2f-52f4-4ea5-834a-7b5caa0ee154",
+    "data": [
+      {
+        "text": "yang diterima per kelas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7f0ae22d-d538-48a0-bec9-4eab28155517",
+    "data": [
+      {
+        "text": "isi kelas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2517d715-3bac-4923-8100-2c0c5d46bf7c",
+    "data": [
+      {
+        "text": "setiap kelas berapa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1a5c2408-417d-4d67-a291-22e9a33c6622",
+    "data": [
+      {
+        "text": "berapa banyak yang diterima dipens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a4a672af-931f-4194-b95a-aba1e35bcdf9",
+    "data": [
+      {
+        "text": "berapa sih total diterima di PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a2915c58-aea2-4b51-bee6-633191c1abac",
+    "data": [
+      {
+        "text": "setiap jurusan diambil berapa orang",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5835ca35-343d-4add-9459-beedd129611a",
+    "data": [
+      {
+        "text": "Jumlah mahasiswa yang diterima berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b2fcc3d3-5b57-496a-a1d8-aad01aada228",
+    "data": [
+      {
+        "text": "Berapa kuota mahasiswa yang diterima?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

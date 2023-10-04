@@ -1,0 +1,55 @@
+{
+  "id": "5edbdd61-bdda-4272-8bf7-8ae52016b47b",
+  "name": "4.1i.MEKA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41iMEKA-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b9357f10-b5c4-4056-a0d9-31a6e18bb7d8",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi Teknik Mekatronika berakreditasi \"\"Unggul\"\".\n\nIstilah MEKATRONIKA merupakan terjemahan dari “mechatronics”, gabungan dari kata mechanics dan electronics. Mekatronika adalah suatu ilmu yang mengkombinasikan secara sinergis rekayasa mekanika, elektronika, dan kontrol. Istilah ini dicetuskan pertama kali oleh Tetsuro Mori dari Yasakawa Electric Company, Jepang pada tahun 1969. Semenjak tahun 1982, perusahaan tersebut telah memutuskan untuk melepas haknya atas kata mechatronics, sehingga sejak saat itu pula kata tersebut dipakai secara luas.\nPada awal perkembangannya, mekatronika hanya mencakup unsur mekanika dan elektronika saja. Dengan ditemukannya mikroprosesor pada tahun 1980an, keilmuan mekatronika menjadi lebih maju dan berkembang. Mekatronika kemudian didukung oleh disiplin ilmu lain diantaranya: embedded system yang memberikan nuansa hardware programming yang menghubungkan mekanik dan elektronik, juga control system yang memberikan kecerdasan buatan kepada sistem tersebut. \n\nProgram Studi D4 Teknik Mekatronika berada di bawah Departemen Teknik Mekanika dan Energi. Program studi ini merupakan program pendidikan Sarjana Rekayasa Terapan dengan perbandingan jam kuliah teori dan praktikum 55%:45% yang diselenggarakan di empat laboratorium berkualitas.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

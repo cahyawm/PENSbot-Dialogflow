@@ -1,0 +1,229 @@
+[
+  {
+    "id": "84eece98-ea06-43fe-af93-2ef0c47ef512",
+    "data": [
+      {
+        "text": "kepanjangan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "meka",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a964b4d7-a83f-44e6-8a6e-e8a7f13e8f55",
+    "data": [
+      {
+        "text": "apa yang dikerjakan di ",
+        "userDefined": false
+      },
+      {
+        "text": "meka",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c8800d69-5e4f-4f86-8819-3ccc7736607e",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "MEKA",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b5e9c7c3-0057-44dc-902b-97e9401758a8",
+    "data": [
+      {
+        "text": "MEKA",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6a6869df-c22c-46ed-ac40-48c92118b810",
+    "data": [
+      {
+        "text": "mau nanya ",
+        "userDefined": false
+      },
+      {
+        "text": "MEKA",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "18520d42-65bf-493c-bd6b-e644fdabf691",
+    "data": [
+      {
+        "text": "program studi teknik mekatronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "61df9000-17ad-4003-9731-ca68f0b0fead",
+    "data": [
+      {
+        "text": "program studi meka",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0ea98db7-1cc2-48b3-826a-67773282e1d6",
+    "data": [
+      {
+        "text": "prodi teknik mekatronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d07f8687-0409-4e40-9179-4a5a4ed22f95",
+    "data": [
+      {
+        "text": "prodi meka",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9cd681be-87cd-4cdd-b39a-48b46983b37b",
+    "data": [
+      {
+        "text": "prodi mekatronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "76151509-9109-4203-ae8a-a9e7d383fb4b",
+    "data": [
+      {
+        "text": "teknik mekatronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3f2bec45-b70f-4553-a982-53f753020992",
+    "data": [
+      {
+        "text": "MEKA",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "98811040-5fc5-443b-8726-4b7c1ab66497",
+    "data": [
+      {
+        "text": "Mekatronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

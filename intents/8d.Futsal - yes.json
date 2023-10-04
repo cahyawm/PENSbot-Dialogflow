@@ -1,0 +1,36 @@
+{
+  "id": "8b048552-2c36-4545-a9f1-468f35ea7088",
+  "parentId": "c732a637-035d-4722-a343-b034bc82c1db",
+  "rootParentId": "c732a637-035d-4722-a343-b034bc82c1db",
+  "name": "8d.Futsal - yes",
+  "auto": true,
+  "contexts": [
+    "8dFutsal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8dFutsal.8dFutsal-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

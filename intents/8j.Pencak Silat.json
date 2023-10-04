@@ -1,0 +1,55 @@
+{
+  "id": "92745d29-9969-4d3e-98e0-37503dcefe84",
+  "name": "8j.Pencak Silat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8jPencakSilat-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "42f204a6-c337-4816-aba6-74db0c6fd699",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Pencak Silat IPSI PENS ialah UKM yang mewadahi  seluruh jajaran pencak silat Indonesia (semuanya).\nDengan divisi utama ketua , sekertaris,dan bendahara. Untuk hari pelaksanaannya hari Senin dan Rabu.\nDari PENS sendiri terdapat perguruan yang mengadakan pelatihan perguruan yaitu PSHT\n\nUntuk informasi lebih lanjut mengenai UKM MHE silahkan hubungi wa.me/6285645856673 (Mas Alfin)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

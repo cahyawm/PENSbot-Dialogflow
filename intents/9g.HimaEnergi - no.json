@@ -1,0 +1,36 @@
+{
+  "id": "0c6f809f-0163-4a46-a45b-0c5353f1a5c5",
+  "parentId": "b4c4e52c-6fb4-4197-8e18-ae893a2c3345",
+  "rootParentId": "b4c4e52c-6fb4-4197-8e18-ae893a2c3345",
+  "name": "9g.HimaEnergi - no",
+  "auto": true,
+  "contexts": [
+    "9gHimaEnergi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "9gHimaEnergi.9gHimaEnergi-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

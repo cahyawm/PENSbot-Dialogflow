@@ -1,0 +1,36 @@
+{
+  "id": "3e1f93e6-0646-4ede-89c1-56ab23870003",
+  "parentId": "9ec415c7-1cc9-470e-bfed-05d9c7cf4dfa",
+  "rootParentId": "9ec415c7-1cc9-470e-bfed-05d9c7cf4dfa",
+  "name": "4.1b.ELIN - no",
+  "auto": true,
+  "contexts": [
+    "41bELIN-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "41bELIN.41bELIN-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

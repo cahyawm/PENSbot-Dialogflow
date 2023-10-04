@@ -1,0 +1,162 @@
+[
+  {
+    "id": "87d11c3b-b7f1-43bf-834b-36d4fd2de0cc",
+    "data": [
+      {
+        "text": "Lembaga minat bakat",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "04032995-25ce-4d68-9137-48d65a5ac08c",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "LMB",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b9da879a-3da4-461b-90a3-b0fab1b7b600",
+    "data": [
+      {
+        "text": "singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "LMB",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa/",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "52cfe3b0-7ae2-4e08-b46c-2d500c872ccd",
+    "data": [
+      {
+        "text": "LMB",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c3d29e11-5459-4820-9a74-04f3d31ed851",
+    "data": [
+      {
+        "text": "apa yang dimaksud dengan LMBkasih tau apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "LMB",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d5722553-01cc-4ddc-9378-3a240d33568c",
+    "data": [
+      {
+        "text": "apa yang dimaksud dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "LMB",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "44adf457-9612-4145-93f6-5f51c0375282",
+    "data": [
+      {
+        "text": "kepanjangan ",
+        "userDefined": false
+      },
+      {
+        "text": "LMB",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3c443e35-87bd-4e55-9efb-f9f3c2e84e27",
+    "data": [
+      {
+        "text": "LMB",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

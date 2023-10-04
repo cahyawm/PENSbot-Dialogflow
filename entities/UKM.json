@@ -1,0 +1,9 @@
+{
+  "id": "c69f7e5f-56d6-4329-a2f0-44cb3564fcf0",
+  "name": "UKM",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

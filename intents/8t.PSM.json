@@ -1,0 +1,55 @@
+{
+  "id": "6b1847d1-a701-44c4-9c0e-b22969e735de",
+  "name": "8t.PSM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8tPSM-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b3a3d3b1-3db7-4de7-9ab8-cb10f37bf26e",
+          "name": "UKM",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$UKM",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Paduan Suara Mahasiswa (PSM) PENS  adalah sebuah organisasi untuk berkumpulnya  mahasiswa PENS yang mempunyai kesamaan dalam hobi dan tujuan yaitu bernyanyi dan belajar olah vocal secara sistematis dan terpimpin. Kegiatan UKM PSM PENS  antara lain penerimaan anggota baru setiap tahunnya, mengadakan Up-Grading bagi anggota, mengisi setiap acara yang ada di dalam kampus PENS, dan mengikuti berbagai event Paduan Suara baik di Nasional maupun Internasional. \n\nUKM PSM PENS dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM PSM PENS silahkan hubungi wa.me/6283831640933 (Mbak Aulia)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

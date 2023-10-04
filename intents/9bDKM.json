@@ -1,0 +1,55 @@
+{
+  "id": "7d500327-3c13-485d-8f1d-401832ddb899",
+  "name": "9bDKM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9bDKM-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1bf32c5b-e489-4351-8cc8-a4df40737e0a",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "DKM ( Dewan Konstitusi Mahasiswa ) PENS merupakan badan yudikatif tertinggi di KM PENS yang memiliki fungsi peradilan atau dapat diartikan DKM merupakan badan peradilan yang memutuskan suatu perkara berdasarkan UUD KM PENS.\n\nDalam menjalankan fungsinya, DKM PENS terdiri dan tiga bidang yang memiliki ranah kerja sebagai berikut :\n1. Bidang Internal : memiliki ranah kerja dibidang administrasi dan keuangan, pengelolaan sumber daya mahasiswa, sekaligus bidang yang bertanggung jawab sebagai media informasi dari DKM PENS.\n2. Bidang Kepaniteraan : memiliki ranah kerja dalam membantu majelis hakim dalam bidang pengerjaan kebutuhan administrasi persidangan.\n3. Bidang Penelitian Hukum : memiliki ranah kerja dibidang penelitian hukum yang mencakup pengkajian peraturan perundang – undangan yang berlaku di KM PENS serta melakukan pengkajian dalam membangun kesadaran berkonstitusi bagi KM PENS\n\nApakah jawaban PENSbot cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

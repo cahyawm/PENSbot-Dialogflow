@@ -1,0 +1,116 @@
+[
+  {
+    "id": "a3ea4ab1-120b-46df-93c7-1c590acdb28c",
+    "data": [
+      {
+        "text": "kegiatan ",
+        "userDefined": false
+      },
+      {
+        "text": "mahetala",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e60e0651-bdab-4279-9800-61c5d90986aa",
+    "data": [
+      {
+        "text": "UKM mahetala",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3876733d-7d68-497e-9574-0a3bd3d302e5",
+    "data": [
+      {
+        "text": "jelaskan ",
+        "userDefined": false
+      },
+      {
+        "text": "mahetala",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "12b4baa5-2513-4a58-b605-3943167f1790",
+    "data": [
+      {
+        "text": "apa yang dimaksud dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "mahetala",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ea7e937e-9a79-4ac5-bf50-f2b8fc52560f",
+    "data": [
+      {
+        "text": "Mahetala",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "52ead7d2-e0c2-4823-9a3d-272d4a1f9c40",
+    "data": [
+      {
+        "text": "Mahetala",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

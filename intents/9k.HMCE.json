@@ -1,0 +1,55 @@
+{
+  "id": "4d09fdbc-6848-4abc-a3c8-d3627e87b438",
+  "name": "9k.HMCE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9kHMCE-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "27781b37-db48-4fe1-bbeb-b7636bc1ebfb",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Himpunan Mahasiswa (Students\u0027 Union) of Computer Engineering (HMCE) PENS merupakan salah satu himpunan mahasiswa yang berada di Departemen Teknik Informatika dan Komputer (DTIK). HMCE didirikan pada tanggal 22 Juli 2016 dengan warna identitas tosca.\nTujuan didirikannya HMCE adalah sebagai berikut.\n1. Mewadahi, memfasilitasi, dan menyalurkan aspirasi anggotanya\n2. Membina kekeluargaan antar anggota dan civitas akademika program studi Teknik Komputer PENS\n3. Mengembangkan minat bakat dan prestasi sesuai keprofesian Teknik Komputer\n4. Menanamkan rasa bangga dan cinta almamater\nIngin mengenal HMCE lebih lanjut bisa langsung menghubungi instagram HMCE di instagram.com/hmcepens"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

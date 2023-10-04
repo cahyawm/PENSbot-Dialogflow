@@ -1,0 +1,55 @@
+{
+  "id": "cdc10db3-6341-467c-8166-8a7a7b6ed3b2",
+  "name": "4.1e.ENERGI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41eENERGI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2f298364-5a0d-4050-94b9-f01fa6b68968",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi Sistem Pembangkit Energi berakreditasi B.\n\nSistem Pembangkit Energi (SPE) merupakan disiplin ilmu yang mempelajari proses konversi dan pembangkitan energi khususnya energi listrik. Dengan mempelajari konsep dasar termodinamika dan rangkaian listrik sebagai salah satu aspek penting dalam analisis teknik diharapkan menjadi dasar dalam pengembangan bidang kelistrikanan dan energi. Dengan kata lain, Program Studi SPE membekali mahasiswa dengan penguasaan ilmu dan pengetahuan tentang konversi energi secara mendalam.\nProgram Studi Sistem Pembangkit Energi merupakan pendidikan vokasi pertama yang berkonsentrasi dalam bidang energi kelistrikan dan sumber energi terbarukan (Tahun 2009 dan 2010, PENS – ITS mendapat juara pertama dalam keikutsertaan lomba lomba di bidang efisiensi energi). Prodi ini telah mulai menerima mahasiswa angkatan pertama pada September 2011.\n\nDengan telah dikeluarkannya Surat Keputusan Menteri Pendidikan dan Kebudayaan nomor 365/E/O/2012 tentang Penyelenggaraan Program Studi Sistem Pembangkit Energi (D-IV) di Politeknik Elektronika Negeri Surabaya, secara resmi SPE menjadi prodi yang telah diakui dan berada dibawah Departemen Mekanika dan Energi.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

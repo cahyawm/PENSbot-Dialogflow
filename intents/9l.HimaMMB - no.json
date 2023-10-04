@@ -1,0 +1,36 @@
+{
+  "id": "3312026b-a862-4587-8e76-ff75d2df90cb",
+  "parentId": "9f8f6a32-2732-4a34-b82a-ab2d5874c750",
+  "rootParentId": "9f8f6a32-2732-4a34-b82a-ab2d5874c750",
+  "name": "9l.HimaMMB - no",
+  "auto": true,
+  "contexts": [
+    "9lHimaMMB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "9lHimaMMB.9lHimaMMB-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

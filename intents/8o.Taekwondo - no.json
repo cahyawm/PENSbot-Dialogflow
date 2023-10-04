@@ -1,0 +1,36 @@
+{
+  "id": "99ea8654-3b37-4114-b1a7-2d563f2f51d3",
+  "parentId": "199a8598-ed76-4a71-8653-59ce62914c87",
+  "rootParentId": "199a8598-ed76-4a71-8653-59ce62914c87",
+  "name": "8o.Taekwondo - no",
+  "auto": true,
+  "contexts": [
+    "8oTaekwondo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8oTaekwondo.8oTaekwondo-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

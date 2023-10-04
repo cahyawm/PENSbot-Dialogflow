@@ -1,0 +1,70 @@
+[
+  {
+    "id": "84a63b82-3057-4251-bd53-962462bc5043",
+    "data": [
+      {
+        "text": "Himpunan Mahasiswa Teknik Elektro Industri",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "230481ca-9249-4e93-82b1-f182d30d600d",
+    "data": [
+      {
+        "text": "seputar ",
+        "userDefined": false
+      },
+      {
+        "text": "hima elin",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3ea285ba-5e03-4d4a-b5f4-1d1638ac5177",
+    "data": [
+      {
+        "text": "hima elin",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f8f83f11-a18a-41f8-9911-142a59391a9d",
+    "data": [
+      {
+        "text": "HIMA ELIN",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

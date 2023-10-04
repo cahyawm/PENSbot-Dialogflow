@@ -1,0 +1,169 @@
+[
+  {
+    "id": "3e542739-2504-4f19-9a63-482da5841cac",
+    "data": [
+      {
+        "text": "Himpunan Mahasiswa Teknik Informatika dan Data Sains Terapan",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "848732f6-c011-4b0d-916b-90da8d829255",
+    "data": [
+      {
+        "text": "HIMIT",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a196a331-8d62-4bfd-8d90-86ead052d614",
+    "data": [
+      {
+        "text": "Apa kepajangan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "HIMIT",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ff3ec552-ba03-45f2-a160-911714a81803",
+    "data": [
+      {
+        "text": "Himpunan Mahasiswa Teknik Informatika",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bcd843c5-6494-4af9-8f2b-55d38c1f4f3d",
+    "data": [
+      {
+        "text": "HIMA IT",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "05d14198-bc28-4ee4-8aef-662e99b56340",
+    "data": [
+      {
+        "text": "ada apa di ",
+        "userDefined": false
+      },
+      {
+        "text": "HIMIT",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "676810f9-ae67-4ccb-af5f-b9a256d2a0e0",
+    "data": [
+      {
+        "text": "jelaskan tujuan ",
+        "userDefined": false
+      },
+      {
+        "text": "HIMIT",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3b3480f1-4c13-44cf-bd2f-4f80d09d7e03",
+    "data": [
+      {
+        "text": "HIMIT",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5d5ca9f7-04ec-4927-94e1-cc6622b5caff",
+    "data": [
+      {
+        "text": "HIMIT",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "24dcebeb-dcca-4971-a1a7-435fc06fd83e",
+  "name": "8r.Softdev",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8rSoftdev-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "30dce812-ffed-4c4f-90f0-d00afe1cf33f",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Software Development adalah tempat berkumpulnya mahasiswa PENS yang mempunyai kesamaan minat bakat dalam pengembangan inovasi masa terkini hingga dapat menghasilkan karya yang baik, berkualitas dan bermanfaat bagi masyarakat. Softdev memiliki 3 divisi yaitu Hipster, Hacker, dan Hustler.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM Software Development silahkan hubungi wa.me/6281334656905 (Mas Fikli)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "475832d2-c05b-424e-90d6-9a26dbf198b3",
+    "data": [
+      {
+        "text": "jelaskan kegiatan ",
+        "userDefined": false
+      },
+      {
+        "text": "taekwondo",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b67e6b29-6c59-464e-a6bd-0f9174040b44",
+    "data": [
+      {
+        "text": "taekwondo",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": true
+      },
+      {
+        "text": " ngapain aja ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a359c589-9df8-449b-b7e7-4ce2b10ec821",
+    "data": [
+      {
+        "text": "UKM taekwondo",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "122b9b49-2f39-4186-93b5-5a98c8273869",
+    "data": [
+      {
+        "text": "Taekwondo",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

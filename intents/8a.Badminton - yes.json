@@ -1,0 +1,36 @@
+{
+  "id": "aa94307a-a5ba-45de-9a5d-a88e05f49567",
+  "parentId": "b4a35121-a09e-4cd9-a424-780ae56ed98f",
+  "rootParentId": "b4a35121-a09e-4cd9-a424-780ae56ed98f",
+  "name": "8a.Badminton - yes",
+  "auto": true,
+  "contexts": [
+    "8aBadminton-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8aBadminton.8aBadminton-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

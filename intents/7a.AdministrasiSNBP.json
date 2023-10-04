@@ -1,0 +1,69 @@
+{
+  "id": "47c878d7-f607-4b69-8b76-b0c2e48a47f8",
+  "name": "7a.AdministrasiSNBP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "7aAdministrasiSNBP-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "443bf3a7-ab71-4bfa-8ae2-db7668fb69be",
+          "name": "jalurpendaftaran",
+          "required": false,
+          "dataType": "@JalurPendaftaran",
+          "value": "$jalurpendaftaran",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "147dab53-7488-4997-bf5e-ccfb837c661f",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! Untuk jalur pendaftaran SNBP tidak dikenakan biaya.\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

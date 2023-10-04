@@ -1,0 +1,36 @@
+{
+  "id": "640089ed-5efd-4f16-9f91-04e100500e4c",
+  "parentId": "f35ccdc4-15b7-42a0-9501-b9babc154ea4",
+  "rootParentId": "f35ccdc4-15b7-42a0-9501-b9babc154ea4",
+  "name": "ikoma - yes",
+  "auto": true,
+  "contexts": [
+    "ikoma-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ikoma.ikoma-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

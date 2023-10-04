@@ -1,0 +1,41 @@
+{
+  "id": "1b6647b4-7568-4895-8951-a3d78aa7e8a6",
+  "parentId": "572e28f6-44d2-4736-abf7-3a9406dd45b4",
+  "rootParentId": "572e28f6-44d2-4736-abf7-3a9406dd45b4",
+  "name": "8h.Mahetala - yes",
+  "auto": true,
+  "contexts": [
+    "8hMahetala-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8hMahetala.8hMahetala-yes",
+      "affectedContexts": [
+        {
+          "name": "8hMahetala-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "bf7310e1-2eb3-404e-9af3-30e78ce26913",
+  "name": "4.1d.GT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41dGT-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6d05ea03-282e-4dcd-9bef-4beae67124c2",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi D4 Teknologi Game berakreditasi \"\"Unggul\"\".\n\nDalam Program Studi D4 Teknologi  Game, mahasiswa akan dibekali dengan kemampuan dasar yang dapat mendukung perkembangan industri game yaitu di bidang teknis, bidang  desain,  bidang social komunikasi, dan bidang bisnis untuk melakukan  usaha di bidang industri game.\n\nProgram studi ini ingin membentuk mahasiswa yang berkemampuan teknis meliputi merancang dan membuat  game,  menguasai  pemrograman computer khususnya  yang berhubungan  dengan game seperti kemanpuan grafik dan audio, penguasaan library dan tools dengan konsep yang kuat menghasilkan kemampuan membuat game platform dan game engine yang dibutuhkan untuk memasukkan konten local. Prodi D4 Teknologi Game ini bergerak dalam mengembangkan Industri Kreatif.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

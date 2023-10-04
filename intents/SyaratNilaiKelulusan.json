@@ -1,0 +1,40 @@
+{
+  "id": "2104acb2-7ac4-4da6-b48c-59bb666d552e",
+  "name": "SyaratNilaiKelulusan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "SyaratNilaiKelulusan-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! untuk jalur SNBP dan SNBT, nilai jalur akademik akan diseleksi berdasarkan urutan ranking nilai mahasiswa baru yang mendaftar oleh Panitia Seleksi Nasional Penerimaan Mahasiswa Baru (SNPMB), sedangkan untuk jalur SIMANDIRI akan diseleksi berdasarkan ranking nilai tes dari mahasiswa baru yang mendaftar.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

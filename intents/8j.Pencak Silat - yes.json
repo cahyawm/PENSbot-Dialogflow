@@ -1,0 +1,36 @@
+{
+  "id": "d06473d4-a0dc-4380-a059-6eedead001f4",
+  "parentId": "92745d29-9969-4d3e-98e0-37503dcefe84",
+  "rootParentId": "92745d29-9969-4d3e-98e0-37503dcefe84",
+  "name": "8j.Pencak Silat - yes",
+  "auto": true,
+  "contexts": [
+    "8jPencakSilat-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8jPencakSilat.8jPencakSilat-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

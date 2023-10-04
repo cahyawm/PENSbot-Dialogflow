@@ -1,0 +1,36 @@
+{
+  "id": "e0b4c3f1-6e3f-434a-adec-77a0a2775e7b",
+  "parentId": "655a46e2-fc62-4652-a071-67b7defe13a4",
+  "rootParentId": "655a46e2-fc62-4652-a071-67b7defe13a4",
+  "name": "8l.Cinemascope - yes",
+  "auto": true,
+  "contexts": [
+    "8lCinemascope-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8lCinemascope.8lCinemascope-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

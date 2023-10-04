@@ -1,0 +1,535 @@
+[
+  {
+    "id": "6073090b-2e6e-42a2-9450-b702d0fb72be",
+    "data": [
+      {
+        "text": "PENS ",
+        "userDefined": false
+      },
+      {
+        "text": "JOSS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fbab98aa-21c4-42cd-9339-74b3080167c8",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ae2c5210-b0b4-4f6b-b8cd-932a0b161c4e",
+    "data": [
+      {
+        "text": "Poltek",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Elektro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5c6c6512-17d1-41d6-9925-dedd561b794b",
+    "data": [
+      {
+        "text": "Poltek",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Elektro",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Surabaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7ca8a133-188d-4e91-903b-d6780d353246",
+    "data": [
+      {
+        "text": "1,",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4aa73749-68cc-4c2f-8d85-b3051ddd392a",
+    "data": [
+      {
+        "text": "1.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8c592b48-3d98-44c4-a8a0-2bad98e6ce5e",
+    "data": [
+      {
+        "text": "profil PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4191a852-83d3-469b-8d13-e5ebb5f1cecf",
+    "data": [
+      {
+        "text": "number ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bb361eb3-be8b-428d-aa54-52a33716be1f",
+    "data": [
+      {
+        "text": "nomor 1",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6c0e3292-483d-4a38-bca9-3899670b1728",
+    "data": [
+      {
+        "text": "one",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "41e25564-cf1a-48ce-8048-f354a5c79c16",
+    "data": [
+      {
+        "text": "satuuu",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "25a5b4a3-a07b-452a-8148-c7e65b35528c",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d4948d9b-7187-4710-8dfe-aa90e53e17c2",
+    "data": [
+      {
+        "text": "1,0",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c25d06b3-ec54-4950-b492-38987503050e",
+    "data": [
+      {
+        "text": "letak ",
+        "userDefined": false
+      },
+      {
+        "text": "pens",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "494d79d8-4f68-468e-b438-5e2955bba388",
+    "data": [
+      {
+        "text": "pens",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " dimana yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "db855b98-eef1-44e7-a7a7-8273f1c8747c",
+    "data": [
+      {
+        "text": "alamat ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b3d1a621-1da3-49c0-956c-543206c315df",
+    "data": [
+      {
+        "text": "informasi tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "pens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0682426a-f456-4ab0-9893-c0ad2d161d79",
+    "data": [
+      {
+        "text": "info pens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ae397536-1a97-4295-b270-5c43052c2d76",
+    "data": [
+      {
+        "text": "kepanjangan ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3618a2ab-64b3-499d-aeb4-a990a1b6eb2f",
+    "data": [
+      {
+        "text": "PENS",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      },
+      {
+        "text": " apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "53a52154-8ada-4603-9ab9-4b0280ee788e",
+    "data": [
+      {
+        "text": "jelaskan apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "pens",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "51e130fd-89d8-41b0-8179-e41f979db804",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b0644854-e996-4e77-b9bb-b9ddca46723c",
+    "data": [
+      {
+        "text": "PENS peringkat berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2bfdce70-b11a-40ef-bb1a-a4ab3db4721d",
+    "data": [
+      {
+        "text": "Politeknik nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e538ffef-b980-453f-bd3d-b0d9d5b84164",
+    "data": [
+      {
+        "text": "Peringkat PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6edbf66e-e652-45db-a304-1dec0961730a",
+    "data": [
+      {
+        "text": "satuu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2437da1f-bfc9-4b9a-b8bc-d424c4d6685c",
+    "data": [
+      {
+        "text": "nomor ",
+        "userDefined": false
+      },
+      {
+        "text": "satu",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fd92f488-5f44-4c90-be45-5e2f031dd177",
+    "data": [
+      {
+        "text": "satu",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6cd86a9a-24ab-4ad0-b49f-c87cb1c5291d",
+    "data": [
+      {
+        "text": "pens dimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2a521034-7d20-4b46-9dd1-e7504e0e6b49",
+    "data": [
+      {
+        "text": "Politeknik Elektronika Negeri Surabaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d9a7f54c-77f8-47bb-b98e-51ab9d06e1d2",
+    "data": [
+      {
+        "text": "PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  }
+]

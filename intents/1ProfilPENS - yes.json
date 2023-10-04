@@ -1,0 +1,45 @@
+{
+  "id": "bb07fac2-d323-48d2-b489-bb6224e94df3",
+  "parentId": "a220fad4-146e-4eef-a168-40dc4918c477",
+  "rootParentId": "a220fad4-146e-4eef-a168-40dc4918c477",
+  "name": "1ProfilPENS - yes",
+  "auto": true,
+  "contexts": [
+    "1ProfilPENS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "1ProfilPENS.1ProfilPENS-yes",
+      "affectedContexts": [
+        {
+          "name": "1ProfilPENS-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Terimakasih sudah menghubungi PENSbot! \nJika ada yang masih ingin ditanyakan silahkan mengetikkan /start"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,193 @@
+[
+  {
+    "id": "189b2315-c916-4841-a865-97b36d36ef05",
+    "data": [
+      {
+        "text": "TELKOM",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7bbf0878-c497-4374-8567-05fa2054b6ee",
+    "data": [
+      {
+        "text": "teknik telekomunikasi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "07636673-e00f-49f4-8317-1088c920a589",
+    "data": [
+      {
+        "text": "telekomunikasi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b4bb921f-3097-4701-a93c-88eb2bb4bc6a",
+    "data": [
+      {
+        "text": "ngapain aja ya ",
+        "userDefined": false
+      },
+      {
+        "text": "ditelkom",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d8551e73-9aab-4952-8b92-ff2b06243881",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "telkom",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "171ffaf6-46b8-4f90-8cf2-1b369249e8cb",
+    "data": [
+      {
+        "text": "di ",
+        "userDefined": false
+      },
+      {
+        "text": "telkom",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e42ba075-9f7c-446e-9d8e-9c81a13d8b53",
+    "data": [
+      {
+        "text": "program studi teknik telekomunikasi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1fc15cef-54dd-4aa2-bd9b-46020cbe046e",
+    "data": [
+      {
+        "text": "prodi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "telekomunikasi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "34566f89-7a5d-403f-9a01-346a8a04391b",
+    "data": [
+      {
+        "text": "prodi teknik telekomunikasi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0419a227-9709-4519-9fca-afc2e8656ca3",
+    "data": [
+      {
+        "text": "program studi telkom",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "070ea135-f99a-45e1-a584-93d5ea9fb7d1",
+    "data": [
+      {
+        "text": "prodi telkom",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

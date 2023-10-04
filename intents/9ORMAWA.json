@@ -1,0 +1,50 @@
+{
+  "id": "174e7d8f-c224-4869-81ec-98a07ee31c91",
+  "name": "9ORMAWA",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c18cfc68-c704-4813-aa06-149fe5d20d65",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! Berikut adalah 14 ORMAWA (Organisasi Mahasiswa) yang ada di PENS antara lain DPM, DKM, LMB, EBIO, UKKI, HIMA ELKA, HIMA TELKOM, HIMA ELIN, HIMIT, HIMA MMB, HIMA MEKA, HMCE, HIMA ENERGI, dan BEM.\n\nInformasi ORMAWA apakah yang kamu butuhkan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

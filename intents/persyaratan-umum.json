@@ -1,0 +1,40 @@
+{
+  "id": "94e64fca-40b2-446a-b304-98821e2933a9",
+  "name": "persyaratan-umum",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "persyaratan-umum-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Berikut adalah syarat umum mendaftar di PENS :\na.        Tamatan SMA (SMA, MA, SMK, SMA Luar Negeri, ujian persamaan, Lulus Paket C, dsb)\nb.        Mempunyai kesehatan fisik yang tidak menganggu kelancaran belajar di program studi pilihannya (sebagai contoh untuk program studi yang di dalam belajarnya diperlukan kemampuan membedakan warna, tidak boleh buta warna)\nc.        Usia maksimum 21 tahun per 1 September 2021\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,261 @@
+[
+  {
+    "id": "5c13122b-7e7b-406a-a3fc-e73922f4335b",
+    "data": [
+      {
+        "text": "Apakah ada biaya administrasi yang dikenakan untuk pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "snbp",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0d5df15f-3991-433e-8a06-db7ceed6ef53",
+    "data": [
+      {
+        "text": "apa aja yang perlu dibayar ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4ed87973-8475-490f-be62-69ea8448febf",
+    "data": [
+      {
+        "text": "pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " berapa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b462ffcf-1100-4038-bdf0-b7512f4b39ef",
+    "data": [
+      {
+        "text": "ada info administrasi ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "de79f5fe-01fd-45fb-a198-38178c4c57b4",
+    "data": [
+      {
+        "text": "7a",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " administrasi ",
+        "userDefined": false
+      },
+      {
+        "text": "snbp",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fb3104e9-1f9d-4f35-9761-2f04fc220657",
+    "data": [
+      {
+        "text": "perlu informasi adminitrasi ",
+        "userDefined": false
+      },
+      {
+        "text": "snbp",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4fa7a0e8-1f19-44b8-b70b-7bb086e0248b",
+    "data": [
+      {
+        "text": "7a",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " administrasi simandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bfdb69fc-53a0-49fb-acf4-0f9e5d0979da",
+    "data": [
+      {
+        "text": "Administrasi ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "83aef070-8f9d-4496-965e-eea45a882e14",
+    "data": [
+      {
+        "text": "7a.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " Administrasi ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "be4c486a-adb9-4fb4-a9da-a471722ba0f7",
+    "data": [
+      {
+        "text": "7a,",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fa4328c5-bcc8-48e6-904a-750c08e60182",
+    "data": [
+      {
+        "text": "7 a",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0895d219-2a86-4d30-8dd9-eb19b129f8ef",
+    "data": [
+      {
+        "text": "7a",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "956c47ec-5ac0-4f55-9887-86a734229032",
+    "data": [
+      {
+        "text": "7a.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

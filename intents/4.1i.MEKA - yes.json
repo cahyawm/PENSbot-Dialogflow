@@ -1,0 +1,36 @@
+{
+  "id": "b7ad6d40-0b2a-4948-8d61-c95f86b93633",
+  "parentId": "5edbdd61-bdda-4272-8bf7-8ae52016b47b",
+  "rootParentId": "5edbdd61-bdda-4272-8bf7-8ae52016b47b",
+  "name": "4.1i.MEKA - yes",
+  "auto": true,
+  "contexts": [
+    "41iMEKA-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "41iMEKA.41iMEKA-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

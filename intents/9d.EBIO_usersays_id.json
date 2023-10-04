@@ -1,0 +1,101 @@
+[
+  {
+    "id": "d3d43174-dc57-499a-9e39-eebf08e972c5",
+    "data": [
+      {
+        "text": "EBIO",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bc9cf456-fce7-404c-95de-b7d36ec324ba",
+    "data": [
+      {
+        "text": "kepo sama ",
+        "userDefined": false
+      },
+      {
+        "text": "EBIO",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "48758919-125a-4812-8ee7-965054ba03e8",
+    "data": [
+      {
+        "text": "EBIO",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa sih?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4750598c-2232-4a92-b618-cdfad23bdfea",
+    "data": [
+      {
+        "text": "Apa singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "EBIO",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "599a8fee-77c0-4b24-9aec-d5f8dd690148",
+    "data": [
+      {
+        "text": "EBIO",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

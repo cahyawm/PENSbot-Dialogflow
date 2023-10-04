@@ -1,0 +1,55 @@
+{
+  "id": "fe3ce59b-29af-4e17-b049-419eb603b067",
+  "name": "8n.Roboholic",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8nRoboholic-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "301a7579-a21b-4724-9206-603b86ac8ced",
+          "name": "UKM",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$UKM",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM ROBOHOLIC merupakan wadah atau tempat orang-orang yg ingin belajar mengenai robotika dimana ada 3 divisi yaitu program, mekanik dan hardware.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM ROBOHOLIC silahkan hubungi wa.me/628566651749 (Mbak Jelia)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

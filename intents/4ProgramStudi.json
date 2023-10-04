@@ -1,0 +1,78 @@
+{
+  "id": "0e6e0b9b-a9a3-412c-9406-e16b1ea4941e",
+  "name": "4ProgramStudi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5c8c6fbe-a52a-4be0-b8f7-ac6cc6780cc1",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "60567f44-1a8b-4ef2-b7e4-945440bf0f50",
+          "name": "ProgramStudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$ProgramStudi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cf658516-60db-4773-a193-1b38f24b41d8",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! Silahkan pilih salah satu diantara informasi program studi PENS dibawah ini : \n4a. List Prodi\n4b. Prodi Favorite"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

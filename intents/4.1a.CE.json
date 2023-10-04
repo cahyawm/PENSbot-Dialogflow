@@ -1,0 +1,55 @@
+{
+  "id": "2f06ba69-08f8-4a65-ab82-5d7174afdf2e",
+  "name": "4.1a.CE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41aCE-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "be8c1edc-43e2-4c37-bc71-7c24b460e456",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi D4 Teknik Komputer berakreditasi \"\"Unggul\"\".\n\nProgram Studi D4 (Setara S1) Teknik Komputer (PSTK) PENS berdiri sejak tahun 2007, dengan staf pengajar yang  berkualifikasi S2 dan S3, serta sudah dibekali dengan kompetensi profesional dibidang Teknik Komputer. Sehingga  mampu untuk meluluskan mahasiswa dengan gelar Sarjana Sain Terapan (SST), yang dilaksanakan dalam waktu  empat tahun penuh. Program Studi Teknik Komputer membekali mahasiswa dengan kemampuan dasar teori dan  praktek yang mempunyai komposisi seimbang (50%:50%), sehingga mahasiswa mampu mengikuti mata kuliah sekaligus mampu mengembangkan teknologi dibidang Komputer. Kurikulum Program Studi Teknik Komputer bersifat terstruktur , artinya hampir semua mata kuliah teori dan praktikum diselenggarakan di Laboratorium.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

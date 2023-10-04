@@ -1,0 +1,36 @@
+{
+  "id": "3d9ce46f-7233-4b4c-8e3c-c317bfa3ae23",
+  "parentId": "14c97912-ac99-44bf-abfd-c99b576c2288",
+  "rootParentId": "14c97912-ac99-44bf-abfd-c99b576c2288",
+  "name": "3d.CaraPendaftaranSNBT - yes",
+  "auto": true,
+  "contexts": [
+    "3dCaraPendaftaranSNBT-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3dCaraPendaftaranSNBT.3dCaraPendaftaranSNBT-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,169 @@
+[
+  {
+    "id": "72b5987b-3375-4b0e-aa0d-e8e42775c6ed",
+    "data": [
+      {
+        "text": "UKM fotografi",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9227c842-a4bf-450b-975c-b44913d413bc",
+    "data": [
+      {
+        "text": "FRENS",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "85d6dc09-af50-43b5-8141-88014c0edf4d",
+    "data": [
+      {
+        "text": "FRENS",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " apayaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3da94a28-0644-48cb-a329-ceb696b7bdcb",
+    "data": [
+      {
+        "text": "FRENS",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7777f673-5a66-424a-87e9-3ab2f39e0d7b",
+    "data": [
+      {
+        "text": "kasih tau info ",
+        "userDefined": false
+      },
+      {
+        "text": "FRENS",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2aa9d9ca-2390-4ed3-aeea-1190cdf9ea44",
+    "data": [
+      {
+        "text": "Fotografi PENS",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2d0c77c7-3b99-4457-b174-1e64cdb05277",
+    "data": [
+      {
+        "text": "FRENS",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6e9539a4-e072-4e35-a75b-22b4ed82b70f",
+    "data": [
+      {
+        "text": "kepo",
+        "userDefined": false
+      },
+      {
+        "text": " dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "FRENS",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0c8bf37c-f28f-4882-8674-4e7d33b86c61",
+    "data": [
+      {
+        "text": "info tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "FRENS",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

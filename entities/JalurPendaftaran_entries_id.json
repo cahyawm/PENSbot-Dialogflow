@@ -1,0 +1,37 @@
+[
+  {
+    "value": "SNBP",
+    "synonyms": [
+      "SNBP",
+      "Seleksi Nasional Berbasis Prestasi",
+      "snbp",
+      "seleksi nasional berbasis prestasi",
+      "SNBP PENS",
+      "snbp pens",
+      "Seleksi Nasional Berdasarkan Prestasi"
+    ]
+  },
+  {
+    "value": "SNBT",
+    "synonyms": [
+      "SNBT",
+      "Seleksi Nasional Berdasarkan Tes",
+      "snbt",
+      "seleksi nasional berdasarkan tes",
+      "snbt pens",
+      "SNBT PENS",
+      "Seleksi Nasional Berbasis Tes"
+    ]
+  },
+  {
+    "value": "SIMANDIRI",
+    "synonyms": [
+      "SIMANDIRI",
+      "mandiri",
+      "MANDIRI PENS",
+      "mandiri pens",
+      "SIMANDIRI PENS",
+      "simandiri pens"
+    ]
+  }
+]

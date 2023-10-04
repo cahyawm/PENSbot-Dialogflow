@@ -1,0 +1,36 @@
+{
+  "id": "a1703d1c-f3ae-4586-98a8-9bdbbaec68d2",
+  "parentId": "551b7077-4656-4426-b1d9-4ba0516ea1f6",
+  "rootParentId": "c2e462f6-6eb8-4a80-a4cc-0f79a11c0a56",
+  "name": "2.1SNBP - yes - no",
+  "auto": true,
+  "contexts": [
+    "21SNBP-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "21SNBP.21SNBP-yes.21SNBP-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

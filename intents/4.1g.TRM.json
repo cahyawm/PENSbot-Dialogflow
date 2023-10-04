@@ -1,0 +1,55 @@
+{
+  "id": "6d992661-8084-456c-b519-259e80489b3d",
+  "name": "4.1g.TRM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41gTRM-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "908c10f5-3dc4-4ed3-bf19-ebf83aac5f47",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi Teknologi Rekayasa Multimedia berakreditasi \"\"Baik\"\".\n\nProgram Studi Teknologi Rekayasa Multimedia merupakan program studi yang fokus pada ilmu terapan yang berhubungan dengan semua teknologi yang digunakan untuk memproses informasi yang diekspresikan pada media digital dalam bentuk seperti teks, grafik, animasi, video on demand (VOD), dan juga musik yang dibuat menggunakan komputer.\n\nProgram studi ini diharapkan kebutuhan masyarakat di era 4.0 dengan menyediakan ide-ide baru yang inovatif, yang akan berguna tidak hanya untuk industri IT tetapi juga untuk dunia pendidikan, periklanan, penyiaran, telekomunikasi, media cetak, seni, pariwisata, kesehatan, home appliance, dan bidang lainnya.\n\nTujuan dari program studi ini adalah untuk menciptakan para profesional yang dapat menerapkan pengetahuan tentang setiap elemen multimedia serta perangkat keras (hardware) dan perangkat lunak (software) yang diperlukan, dan turut memainkan peran penting di masa depan industri multimedia. Untuk itu, mahasiswa dididik secara mendalam di bidang teknologi komputer yang mencakup hardware dan software, grafik computer, database multimedia, web master, media proses, komunikasi multimedia, hak cipta multimedia, dunia maya, animasi digital, MIDI dan scoring musik.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

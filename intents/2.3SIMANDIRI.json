@@ -1,0 +1,60 @@
+{
+  "id": "a220eb56-606c-4421-b45f-ed25ee4b0644",
+  "name": "2.3SIMANDIRI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "23SIMANDIRI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bff6fd60-ed4d-4f94-a66c-a9539d07c1e9",
+          "name": "jalurpendaftaran",
+          "required": true,
+          "dataType": "@JalurPendaftaran",
+          "value": "$jalurpendaftaran",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Informasi jalur pendaftaran apa yang kamu butuhkan?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Berikut adalah informasi mengenai $JalurPendaftaran\n\nSeleksi Mandiri Politeknik Elektronika Negeri Surabaya dimaksudkan untuk memilih calon mahasiswa yang mempunyai kemampuan akademik untuk mengikuti dan menyelesaikan pendidikan di Politeknik sesuai dengan batas waktu yang telah ditetapkan.\n\nPendaftaran dan tes masuk dilaksanakan secara online dengan proses seleksi sebagai berikut. Semua peserta UTBK Online Simandiri akan diurutkan menurut nilai ujiannya, kemudian dialokasikan pada program studi pilhannya, dengan ketentuan bahwa peserta yang lebih baik mendapat prioritas untuk dialokasikan lebh dahulu. Jika masih ada tempat di program studi pilihan pertama, ia akan diterima di program studi pilihan pertama. Jika tempat pada program studi pertama telah penuh dan masih ada tempat di program studi pilihan kedua, ia akan diterima di program studi pilihan kedua. Jika tempat pada program studi pilihan kedua telah penuh dan masih ada tempat di program studi pilihan ketiga, ia akan diterima di program studi pilihan ketiga, dan seterusnya. Jika tempat pada program studi pilihan pertama, kedua dan ketiga telah penuh dengan peserta yang lebih baik dari peserta tersebut, maka ia tidak akan diterima walaupun nilainya masih cukup tinggi.\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

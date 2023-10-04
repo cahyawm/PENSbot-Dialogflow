@@ -1,0 +1,55 @@
+{
+  "id": "dbb3077c-93c9-4adc-9b3d-6066c39876d4",
+  "name": "8e.FRENS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8eFRENS-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "141f9afe-722f-4625-af8b-be9fa6b423b6",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Unit Kegiatan Mahasiswa Fotografi PENS atau FRENS adalah Organisasi kemahasiswaaan yang bergerak dibidang Fotografi di Politeknik Elektronika Negeri Surabaya yang didirikan oleh mahasiswa/i PENS, pada tahun 2011. FRENS memiliki fungsi penting sebagai wadah pengembangan karya seni mahasiswa PENS di bidang Fotografi.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM FRENS silahkan hubungi wa.me/6281228853343 (Mas Redo)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

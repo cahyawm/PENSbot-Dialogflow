@@ -1,0 +1,36 @@
+{
+  "id": "43fc49da-86f5-466a-b98a-e17d58402003",
+  "parentId": "4f7d88ff-0b92-406c-9997-dc19e81ee07e",
+  "rootParentId": "4f7d88ff-0b92-406c-9997-dc19e81ee07e",
+  "name": "8g.Karate - yes",
+  "auto": true,
+  "contexts": [
+    "8gKarate-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8gKarate.8gKarate-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

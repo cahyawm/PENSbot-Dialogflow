@@ -1,0 +1,55 @@
+{
+  "id": "14c97912-ac99-44bf-abfd-c99b576c2288",
+  "name": "3d.CaraPendaftaranSNBT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "3dCaraPendaftaranSNBT-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1073ecf4-a0af-457a-b88e-f78ef120e72b",
+          "name": "jalurpendaftaran",
+          "required": false,
+          "dataType": "@JalurPendaftaran",
+          "value": "$jalurpendaftaran",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! Berikut adalah cara daftar UTBK-SNBT 2023 antara lain :\n1. Membuka laman portal-snpmb.bppp.kemdikbud.go.id di perangkat kamu miliki.\n2. Login menggunakan akun SNPMB yang telah dibuat sebelumnya.\n3. Memilih menu verifikasi dan validasi data.\n4. Mengisi serta melengkapi biodata, unggah foto berwarna terbaru, verifikasi biodata serta unduh dan mengunggah pernyataan tunanetra/low vision.\n5. Memilih menu pendaftaran UTBK-SNBT.\n6. Memilih program studi, unggah portofolio jika diperlukan, pilih pusat UTBK PTN, dan dapatkan slip pembayaran biaya UTBK.\n7. Melakukan pembayaran biaya UTBK sesuai nominal tertera.\n8. Unduh dan cetak kartu peserta UTBK."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

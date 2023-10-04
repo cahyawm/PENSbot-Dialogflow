@@ -1,0 +1,330 @@
+[
+  {
+    "id": "763bd37e-bc8d-404b-abce-2f73fba46056",
+    "data": [
+      {
+        "text": "D4 IT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "122ad9a3-0c34-4dff-93c6-0729537ffc60",
+    "data": [
+      {
+        "text": "D3 IT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0d112de7-0f45-4f64-b8c3-df1f5d655166",
+    "data": [
+      {
+        "text": "D3 teknik informatika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b516cb74-0498-46fd-a8cb-a2c3dced075b",
+    "data": [
+      {
+        "text": "D4 Teknik informatika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1a48e323-f317-4ff5-8d5f-7602efc5a441",
+    "data": [
+      {
+        "text": "Informatic Engineering",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2dcd3bd4-4179-45ac-ae2e-9d4f0f3f0303",
+    "data": [
+      {
+        "text": "informatics engineering",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "27f9b096-9316-49f7-b974-284231101afd",
+    "data": [
+      {
+        "text": "Teknik informatika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bfc85bed-8587-4a6a-8415-0bf5b60c1547",
+    "data": [
+      {
+        "text": "jelaskan tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "IT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "749c378d-5a13-40a0-aef0-368b42bc1765",
+    "data": [
+      {
+        "text": "IT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f6a198a7-703b-4977-8eb8-481c90a59694",
+    "data": [
+      {
+        "text": "apa yang dimaksud dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "IT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0b3d7ac4-4117-4953-bb48-d711cb7cd1cc",
+    "data": [
+      {
+        "text": "IT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "65cd1d6f-4983-4cf3-8765-feabe576d514",
+    "data": [
+      {
+        "text": "program studi IT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "99a42a11-8a33-4a55-ac98-aafc8518fe2f",
+    "data": [
+      {
+        "text": "prodi IT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b2e92099-bfb5-4ae6-9242-0dbde3500772",
+    "data": [
+      {
+        "text": "program studi teknik informatika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "da40cb38-bcb2-4fb3-8de4-c389df65fabc",
+    "data": [
+      {
+        "text": "Teknik Informatika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cceeb6df-b26d-4991-8db0-6691a7091527",
+    "data": [
+      {
+        "text": "di ",
+        "userDefined": false
+      },
+      {
+        "text": "TI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9203eba7-ce39-49fc-98a7-0300df7719d9",
+    "data": [
+      {
+        "text": "program studi TI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0cd61b1a-ed32-44e6-a173-e99c78040ab8",
+    "data": [
+      {
+        "text": "prodi TI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "89a58e67-8ceb-4b67-9cd8-a66562234200",
+    "data": [
+      {
+        "text": "TI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4b2136f0-1480-4ad9-812b-42b8a95a64b7",
+    "data": [
+      {
+        "text": "IT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

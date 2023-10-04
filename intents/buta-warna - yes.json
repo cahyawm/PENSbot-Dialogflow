@@ -1,0 +1,36 @@
+{
+  "id": "7ad9c9a1-e7a0-4521-a138-02b1219c1f3d",
+  "parentId": "05fb1587-6fdd-4fa3-baec-a5d013ffb4b7",
+  "rootParentId": "05fb1587-6fdd-4fa3-baec-a5d013ffb4b7",
+  "name": "buta-warna - yes",
+  "auto": true,
+  "contexts": [
+    "buta-warna-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "buta-warna.buta-warna-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "9ec415c7-1cc9-470e-bfed-05d9c7cf4dfa",
+  "name": "4.1b.ELIN",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41bELIN-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3da947e5-b52a-4375-9e1e-6e1dbd41e7db",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi Teknik Elektro Industri (PSTEI) didirikan pada tahun 1991 berdasarkan Kepmen No. 0313/O/1991. Program Studi Teknik Elektro Industri menerima mahasiswa jenjang pendidikan Program D3 (3 tahun), Program D4 (4 tahun) dengan masing-masing memiliki akreditasi A.\n\nVISI:\nMenjadi pusat pendidikan unggulan teknologi rekayasa emerging technology yang terkait dengan bidang Elektro Industri untuk menghasilkan lulusan, penelitian, pengabdian masyarakat dan pelatihan untuk pelayanan industri dalam skala nasional maupun internasional.\n\nMISI:\n1. Menghasilkan lulusan yang berakhlak mulia, berpikiran terbuka dan siap bersaing dalam pasar global, dengan cara memberikan lingkungan dan suasana akademik yang baik kepada para mahasiswa.\n2. Menghasilkan tenaga-tenaga profesional bidang Teknik Elektro Industri dengan kompetensi pelayanan utilitas, otomasi industri dan kualitas daya, serta mampu menyesuaikan diri dengan perkembangan teknologi masa depan.\n3. Berperan secara aktif dalam pengembangan dan peningkatan pendidikan politeknik dalam skala nasional maupun internasional, khususnya di bidang Teknik Elektro Industri.\n4. Menyelenggarakan suatu kegiatan penelitian dan pengembangan inovasi yang secara nyata, mampu menyelesaikan masalah-masalah di bidang Teknik Elektro Industri dan menyelenggarakan kegiatan pengabdian kepada  masyarakat.\n5. Berperan aktif dalam ikut memberikan solusi terhadap permasalahan krisis energi.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

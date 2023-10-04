@@ -1,0 +1,188 @@
+[
+  {
+    "id": "1b38d1b1-0758-46c4-9e84-d9e91753aa5b",
+    "data": [
+      {
+        "text": "seleksi jalur tes",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5493963e-9718-4bb8-94dd-b8db3b6b7220",
+    "data": [
+      {
+        "text": "jalur ",
+        "userDefined": false
+      },
+      {
+        "text": "tes",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "28fade4a-aa89-4f0e-94b0-45caf346376f",
+    "data": [
+      {
+        "text": "Jalur ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6731c0f3-c05c-40ed-9d07-7d65ef755983",
+    "data": [
+      {
+        "text": "Seleksi Nasional Berbasis Tes",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c639b330-90a3-4756-bb19-0e889c31e97d",
+    "data": [
+      {
+        "text": "bingung tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bb9d3d1e-ea89-48e9-8c71-aa33ac882d7e",
+    "data": [
+      {
+        "text": "apa yang dimaksud ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a0fa5ff3-21ca-4641-b09a-e1cbcc249835",
+    "data": [
+      {
+        "text": "snbt",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " itu apasih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c86ab599-8e77-45c5-9303-a205af03ab33",
+    "data": [
+      {
+        "text": "Informasi ",
+        "userDefined": false
+      },
+      {
+        "text": "snbt",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c962dd16-d821-434a-a514-94d30681b336",
+    "data": [
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "75c6d6a0-06a2-45b1-9c4a-21e61074e44f",
+    "data": [
+      {
+        "text": "jelaskan ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

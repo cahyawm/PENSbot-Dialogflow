@@ -1,0 +1,127 @@
+[
+  {
+    "id": "aa53e6ea-a994-4e8d-a7fd-0dd444c221e5",
+    "data": [
+      {
+        "text": "PSM",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "08329402-3c85-4416-9c08-a8cd07b16f70",
+    "data": [
+      {
+        "text": "PSM",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "578a1d0f-21c5-4094-b13d-7ea3c981b8f7",
+    "data": [
+      {
+        "text": "kepanjangan ",
+        "userDefined": false
+      },
+      {
+        "text": "PSM",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2d566e30-390a-41a3-8bce-72c8b1ed9c8b",
+    "data": [
+      {
+        "text": "kegiatan ",
+        "userDefined": false
+      },
+      {
+        "text": "PSM",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "af689253-5ba5-48b6-837b-9ede3cf6653c",
+    "data": [
+      {
+        "text": "PSM",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1c81e1d0-b882-42c6-bb43-682132b77c1b",
+    "data": [
+      {
+        "text": "UKM PSM",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "10a910fb-1013-485d-8d43-11dcac2c95b2",
+    "data": [
+      {
+        "text": "PSM",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "697c7d4b-3b3c-494b-b24f-d6f637ee6d49",
+    "data": [
+      {
+        "text": "kepo ",
+        "userDefined": false
+      },
+      {
+        "text": "DKM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5898e0f6-3dd6-4a9d-b59a-9412c97bc74d",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "DKM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "09ddc951-5cc0-47de-8f3c-76975cbaa36b",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "DKM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d6d2767b-c69e-431e-88c6-c109f028158f",
+    "data": [
+      {
+        "text": "DKM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3e5a50ed-115b-4078-916e-4ed90806fac9",
+    "data": [
+      {
+        "text": "DKM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cee1d209-b2a4-45d1-b5ef-284fb04351f3",
+    "data": [
+      {
+        "text": "info ",
+        "userDefined": false
+      },
+      {
+        "text": "DKM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ec87d9a2-2db6-4a23-87d1-ed7a100e9505",
+    "data": [
+      {
+        "text": "Apasih ",
+        "userDefined": false
+      },
+      {
+        "text": "DKM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " itu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "88f7bbbb-d9fe-49cf-88c7-f7b51d6b1b8e",
+  "name": "9h.HimaMeka",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9hHimaMeka-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a6fb14c1-57af-403f-ae7e-cd5cb08dfb55",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "HIMA MEKA PENS adalah sebuah himpunan mahasiswa jurusan mekatronika yang mewakili mahasiswa untuk menyaring aspirasi dan mengadakan aktivitas yang bermanfaat bagi mahasiswa itu sendiri baik di lingkungan internal maupun eksternal kampus.\n\nTujuan HIMA MEKA :\n1. Menampung dan menyalurkan aspirasi seluruh anggota HIMA MEKA.\n2. Ikut serta mengusahakan tujuan pendidikan untuk membentuk mahasiswa yang berbudi pekerti, cakap, mandiri, disiplin, berwawasan luas, demokratis, dan bertanggung jawab.\n3. Memberikan dorongan kepada mahasiswa untuk menjadi pemimpin dan penggerak dalam kehidupan berbangsa dan bernegara.\n4. Mempererat rasa kekeluargaan antar mahasiswa dan civitas akademika PENS.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

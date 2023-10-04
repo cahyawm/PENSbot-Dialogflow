@@ -1,0 +1,55 @@
+{
+  "id": "ee8a6ff9-8c50-4573-a59e-31cdbf8284be",
+  "name": "4.1k.TELKOM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41kTELKOM-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "170e7489-5707-46d3-8ed7-ad4a2320cb4e",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi Teknik Telekomunikasi terdiri dari D3 dan D4 yang masing-masing memiliki akreditasi A.\n\nProgram studi D3 Teknik Telekomunikasi Politeknik Elektronika Negeri Surabaya, didirikan atas dasar besarnya kebutuhan masyarakat akan lulusan yang memiliki pengetahuan dan kemampuan dalam bidang Sistem Telekomunikasi. Program studi Teknik Telekomunikasi menyelenggarakan proses pendidikan yang berkualitas dengan menyelenggarakan suasana akademik yang kondusif untuk meningkatkan mutu pendidikan di bidang Jaringan Telekomunikasi.\n\nLulusan program studi Teknik Telekomunikasi memiliki pengetahuan dan keterampilan dalam merencanakan, mengimplementasikan dan menganalisa di bidang jaringan telekomunikasi dengan menjunjung tinggi nilai ketuhanan, beretika moral dan profesional untuk memasuki dunia kerja. Proses pendidikan ditekankan pada kemampuan praktis dengan porsi praktek di laboratorium seimbang dengan teori di ruang kelas.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

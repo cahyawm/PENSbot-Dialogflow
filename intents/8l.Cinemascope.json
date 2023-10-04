@@ -1,0 +1,55 @@
+{
+  "id": "655a46e2-fc62-4652-a071-67b7defe13a4",
+  "name": "8l.Cinemascope",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8lCinemascope-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e6ea87ce-1e9b-43e1-b5ac-c94ffa105cd1",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Cinemascope adalah UKM di PENS yang terbentuk pada bulan Mei 2020. UKM ini berfokus pada bidang sinema/perfilman. UKM Cinemascope diharapkan dapat memberikan wadah bagi para mahasiswa PENS yang memiliki minat dan bakat khususnya di bidang sinema/perfilman.\n\nUKM CINEMA SCOPE Memiliki 3 Target :\n1. Meningkatkan  kemampuan dan skill dari setiap individu anggota  CINEMASCOPE di bidang Produksi Film\n2. Membuat UKM CINEMASCOPE lebih di kenal, baik di dalam maupun di luar PENS\n3. Merealisasikan Program Kerja yang telah di susun oleh pengurus \n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM Cinemascope silahkan hubungi wa.me/6281803434366 (Mas Rifan)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

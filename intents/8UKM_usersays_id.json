@@ -1,0 +1,338 @@
+[
+  {
+    "id": "05e57a8f-3468-4946-9dc7-10a328fa3e71",
+    "data": [
+      {
+        "text": "no 8",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "df10c69a-504d-47f4-8b2c-1f1c8425e2b4",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " Unit Kegiatan Mahasiswa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7888eb6a-99b5-4a31-8d2c-8f6bb25f3031",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bfbd6a8a-5740-41c3-904a-4c81838e6ee5",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "865cc86c-52e3-485c-901e-b2690da512ac",
+    "data": [
+      {
+        "text": "UKM PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dab0e747-4d29-40ff-ac37-3a07382b9697",
+    "data": [
+      {
+        "text": "Unit Kegiatan Mahasiswa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0e59fc29-d023-4894-bae6-16b2dd78de21",
+    "data": [
+      {
+        "text": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "05807330-4242-4391-95af-703d6f9cbe17",
+    "data": [
+      {
+        "text": "delapannnnnn",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "17b246dc-9131-41f4-94b2-62f2713059dd",
+    "data": [
+      {
+        "text": "nomor 8",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6a9eca13-4ff8-44cc-a21f-3de598143c02",
+    "data": [
+      {
+        "text": "number eight",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ac171fa0-ed18-47c4-a222-0bcf1653143e",
+    "data": [
+      {
+        "text": "8,0",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "052c9e84-cc56-4c89-96be-7c9c2b272b37",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "67d8ceaa-4924-4772-af2a-74b37ece551f",
+    "data": [
+      {
+        "text": "8.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b172ce2f-7125-498f-bb68-94a5d963f162",
+    "data": [
+      {
+        "text": "delapan",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3ac118a0-f670-43a2-92b8-0d6a811e2a77",
+    "data": [
+      {
+        "text": "eight",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2e72ead3-71f2-42a0-b164-9629c90737d9",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "816b136b-8a0a-461a-ba1e-eb58c2da461e",
+    "data": [
+      {
+        "text": "info UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "69bd85d5-2c2a-465f-aa97-84f69f977f35",
+    "data": [
+      {
+        "text": "kasih info UKM dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b6066920-8f7e-4d61-af78-2f2767bc30f7",
+    "data": [
+      {
+        "text": "UKM lengkap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ffef12d9-28e8-40a8-ab67-03ae47271388",
+    "data": [
+      {
+        "text": "UKM di PENS lengkap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "96493013-81e3-4b85-a01b-82e5844f09c5",
+    "data": [
+      {
+        "text": "Informasi UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "93bf9a02-3603-4c1b-a20b-1267671aa7a6",
+    "data": [
+      {
+        "text": "Apa saja UKM yang ada di PENS?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

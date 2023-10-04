@@ -1,0 +1,222 @@
+[
+  {
+    "id": "4a48445b-f612-4c0f-9f1d-b98e3d0f3c70",
+    "data": [
+      {
+        "text": "Jalur ",
+        "userDefined": false
+      },
+      {
+        "text": "Simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "175b36f7-0ac7-4d25-840b-980ecea3b1bf",
+    "data": [
+      {
+        "text": "mandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "adae1d04-bf76-4372-808d-a3e6e002cd6f",
+    "data": [
+      {
+        "text": "MANDIRI PENS",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0d4b3779-7c7b-4d4b-b7cb-89fc21030fbf",
+    "data": [
+      {
+        "text": "info ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " terbaru",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c360a3cd-e01c-48ef-82ae-a00f98957b90",
+    "data": [
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8c9839a6-7270-45d3-9775-4e4f1fcfbddb",
+    "data": [
+      {
+        "text": "apa yang dimaksud dengan ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e9528e3b-a794-4ac5-8999-e7234d172052",
+    "data": [
+      {
+        "text": "simandiri pens",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3cbb2d4d-41dc-4073-bacc-0e8286764a96",
+    "data": [
+      {
+        "text": "butuh informasi ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7bf49c16-e7f5-455b-bdd4-f70e3a040cae",
+    "data": [
+      {
+        "text": "Apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a5d40aec-ad1d-4095-878e-ed5da8733f29",
+    "data": [
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b115e6fa-84d3-42b9-a739-5ce2fe66ce9a",
+    "data": [
+      {
+        "text": "Informasi ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c3b41f4f-075e-4f76-98ed-7de7bb53a4c9",
+    "data": [
+      {
+        "text": "Jelaskan apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

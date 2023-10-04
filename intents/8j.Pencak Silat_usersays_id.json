@@ -1,0 +1,93 @@
+[
+  {
+    "id": "85c1fcd4-40d9-49c9-ae36-587be2f8562f",
+    "data": [
+      {
+        "text": "UKM pencak silat",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "883f0616-ce1d-4767-b469-1dce91b19815",
+    "data": [
+      {
+        "text": "kepo sama ",
+        "userDefined": false
+      },
+      {
+        "text": "pencak silat",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "efb263b6-a634-4ffb-a412-97223f03ce30",
+    "data": [
+      {
+        "text": "jelasin ",
+        "userDefined": false
+      },
+      {
+        "text": "pencak silat",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d10f4617-7a05-4255-991e-1139ef090968",
+    "data": [
+      {
+        "text": "pencak silat",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ea6262f4-63c6-4a1a-a28d-d9a1ed1d839c",
+    "data": [
+      {
+        "text": "Pencak Silat",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

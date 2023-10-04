@@ -1,0 +1,55 @@
+{
+  "id": "98bf1dd2-83a2-466b-9d3d-ab3ae9ac36f5",
+  "name": "4.1f.IT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41fIT-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6ab0357a-90db-47b8-9903-7d2c87b88de2",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi Teknik Informatika terdiri dari D3 yang memiliki akreditasi \"\"Unggul\"\" dan D4 yang berakreditasi A.\n\nLulusan Program Studi D3 Teknik Informatika dibekali dengan kemampuan dan keahlian teknis, agar memiliki kompetensi di bidang pemrograman komputer, pembangunan sistem informasi dan teknologi basis data, pengembangan rekayasa perangkat lunak baik pada perangkat desktop, web maupun mobile, serta jaringan komputer. Selain kemampuan teknis, Lulusan Program Studi D3 Teknik Informatika juga dibekali dengan kemampuan non teknis(soft skill), berupa pengetahuan dan wawasan kehidupan sosial dan beragama, mendukung gerakan anti-korupsi, kepemimpinan,etika dan ketrampilan komunikasidalam membina kerjasama yang baik sesuai kebutuhan lapangan kerja, sehingga menjadi lulusan yang memiliki kualitas dan integritas intelektual dengan karakter Jujur, Orisinil, Semangat, dan Santun.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

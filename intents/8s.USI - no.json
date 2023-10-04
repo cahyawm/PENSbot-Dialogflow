@@ -1,0 +1,36 @@
+{
+  "id": "9a3773f5-79fc-477a-99f6-03abe5201f54",
+  "parentId": "14a11a2a-2e48-4306-a278-c5d8073f23ee",
+  "rootParentId": "14a11a2a-2e48-4306-a278-c5d8073f23ee",
+  "name": "8s.USI - no",
+  "auto": true,
+  "contexts": [
+    "8sUSI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8sUSI.8sUSI-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

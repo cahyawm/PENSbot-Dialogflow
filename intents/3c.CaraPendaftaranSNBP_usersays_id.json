@@ -1,0 +1,339 @@
+[
+  {
+    "id": "7656e13f-fd51-4512-af0f-7f7e78e84fbb",
+    "data": [
+      {
+        "text": "Bagaimana cara mengirimkan atau mengunggah dokumen pendaftaran dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "706487b7-833b-4e62-80be-4f53caeb5271",
+    "data": [
+      {
+        "text": "Apakah ada tahapan atau prosedur khusus yang harus diikuti dalam pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d16e4bb6-cff9-49be-b705-2e62421c4a2a",
+    "data": [
+      {
+        "text": "Apa saja dokumen yang diperlukan dalam proses pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "61557045-dfd5-4a23-bba1-57bc81061b59",
+    "data": [
+      {
+        "text": "Apakah ada formulir pendaftaran yang harus diisi untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "? Jika ya, bagaimana cara mengaksesnya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f29f2c2a-4ca4-45a0-99c6-223c3a765151",
+    "data": [
+      {
+        "text": "Bagaimana langkah-langkah untuk mendaftar dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "Seleksi Nasional Berbasis Prestasi (SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e35bbf07-5218-49f5-8f1f-ccb53495779d",
+    "data": [
+      {
+        "text": "Apa saja persyaratan yang harus dipenuhi dalam pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "42efc5ee-f533-4bad-a70e-e35e285d459c",
+    "data": [
+      {
+        "text": "Bagaimana cara mendaftar untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c03693c7-65be-4668-be15-568548173690",
+    "data": [
+      {
+        "text": "3c",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": ". Cara Pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b5b2119e-bc4e-4fa3-8d5a-2ea2ae5b0ed3",
+    "data": [
+      {
+        "text": "3c.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4bc3b775-6ea7-4931-ad8d-64ee8aaed559",
+    "data": [
+      {
+        "text": "3c",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6988ec9f-f79a-467b-b850-eb31a6f052d0",
+    "data": [
+      {
+        "text": "gimana yaa tutorial daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "snbp",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0fdd5a03-c1a3-48e6-8aed-524ef90a3f84",
+    "data": [
+      {
+        "text": "kasih tahu cara daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "snbp",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "808320db-d89e-4dd6-bae7-b65bf0b05fd9",
+    "data": [
+      {
+        "text": "saya kepo cara daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "snbp",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7db4ac16-3967-45a9-9c84-c1132c01da9c",
+    "data": [
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " gimana sih cara daftarnya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "97a7ccaa-7894-427a-ba7e-6a89d2e275c5",
+    "data": [
+      {
+        "text": "Cara pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "814da357-455d-4335-a581-ae43efc81dda",
+    "data": [
+      {
+        "text": "3c",
+        "userDefined": false
+      },
+      {
+        "text": " plis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "65956e4c-c6af-4176-a258-95b4d04a7234",
+    "data": [
+      {
+        "text": "3 c",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

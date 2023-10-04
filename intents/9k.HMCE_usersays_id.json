@@ -1,0 +1,101 @@
+[
+  {
+    "id": "7b794a60-5338-4330-aefd-e5e190c1a5d7",
+    "data": [
+      {
+        "text": "Apa aja yang dilakuin di ",
+        "userDefined": false
+      },
+      {
+        "text": "HMCE",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "40026240-555d-4f4a-ac43-4784b17e6089",
+    "data": [
+      {
+        "text": "Apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "HMCE",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e5861722-8574-4932-911f-54c1551ed625",
+    "data": [
+      {
+        "text": "Singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "HMCE",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "53cc755c-436e-4a48-98f3-d523e43fcbcd",
+    "data": [
+      {
+        "text": "Himpunan Mahasiswa Teknik Komputer",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "eb43f5f1-72b9-4ee5-bc36-6db51e98d212",
+    "data": [
+      {
+        "text": "HMCE",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

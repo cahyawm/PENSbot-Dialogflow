@@ -1,0 +1,36 @@
+{
+  "id": "32f4d47c-7bcb-4c4c-8d70-a4ab8a2ae979",
+  "parentId": "6df12d92-0d6f-4ae6-be89-a65c9d8e0e14",
+  "rootParentId": "6df12d92-0d6f-4ae6-be89-a65c9d8e0e14",
+  "name": "3b.DaftarUlang - no",
+  "auto": true,
+  "contexts": [
+    "3bDaftarUlang-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3bDaftarUlang.3bDaftarUlang-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

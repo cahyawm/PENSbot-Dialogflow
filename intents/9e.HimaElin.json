@@ -1,0 +1,55 @@
+{
+  "id": "9d69c5dc-f1db-48af-b7b5-55f08e0c0366",
+  "name": "9e.HimaElin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9eHimaElin-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "51eb88d6-1b85-4cf9-be52-3ab59497d232",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Himpunan Mahasiswa Teknik Elektro Industri adalah salah satu organisasi mahasiswa yang ada di Politeknik Elektronika Negeri Surabaya (PENS), yang menghimpun mahasiswa dari Program Studi Teknik Elektro Industri PENS.\n\nVisi :\nMenjadi pusat pengembangan potensi mahasiswa yang mendorong pertumbuhan pribadi, serta keterlibatan dalam sosial kemasyarakatan baik lokal maupun global yang cerdas, bertaqwa, terampil, dan mandiri.\n\nMisi :\n1. Mendukung kegiatan mahasiswa dalam bidang keilmuan, kepemimpinan dan kewirausahaan\n2. Memfasilitasi kegiatan mahasiswa dalam pengembangan kecakapan hidup\n3. Mendorong sebuah lingkungan yang toleran dan menghormati perbedaan\n4. Mengembangkan organisasi mahasiswa yang responsif\n5. Menyelenggarakan program pelayanan dan pembinaan kewirausahaan mahasiswa untuk meningkatkan kompetensi berwirausaha\n\nApakah jawaban PENSbot cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

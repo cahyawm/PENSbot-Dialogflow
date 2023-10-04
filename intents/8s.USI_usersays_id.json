@@ -1,0 +1,108 @@
+[
+  {
+    "id": "118f9d22-e2a7-4035-8763-6b6f9ef635d6",
+    "data": [
+      {
+        "text": "UKM USI",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "687b21c8-d76d-488a-960a-9dfd75d0718c",
+    "data": [
+      {
+        "text": "USI",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4b078e0a-da7f-470e-bb22-ae268f01c317",
+    "data": [
+      {
+        "text": "UKM USI",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a3db68b4-c5dd-4e2e-88fb-feb4a75061d6",
+    "data": [
+      {
+        "text": "UKM Seni Islami",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4570c14b-9911-404f-9f01-84d3199da509",
+    "data": [
+      {
+        "text": "USI",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "14ba7757-c53c-4f95-b756-0abf0a0adce8",
+    "data": [
+      {
+        "text": "USI",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

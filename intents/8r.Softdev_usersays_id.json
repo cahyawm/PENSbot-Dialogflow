@@ -1,0 +1,85 @@
+[
+  {
+    "id": "be8328ce-e287-4b93-ba97-ff35eeb02357",
+    "data": [
+      {
+        "text": "Softdev",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b87c2429-6c8d-4694-8094-0b66ea72c70d",
+    "data": [
+      {
+        "text": "Softdev",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f0d10b6a-68b0-4761-971f-69855a20c52c",
+    "data": [
+      {
+        "text": "UKM Softdev",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6e4c78ed-a021-4d7e-943f-319415bc9fc2",
+    "data": [
+      {
+        "text": "Softdev",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "267d4e84-fbca-419b-8bb9-4b182f78840e",
+    "data": [
+      {
+        "text": "Software Development",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

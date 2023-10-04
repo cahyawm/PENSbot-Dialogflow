@@ -1,0 +1,268 @@
+[
+  {
+    "id": "59470c9b-d52d-4ad1-91a9-09ceeede92bd",
+    "data": [
+      {
+        "text": "Tes",
+        "userDefined": false
+      },
+      {
+        "text": " masuk ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "-nya biasanya diadain kapan, ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "15701581-4d1d-4145-9a8e-4acd1af16b44",
+    "data": [
+      {
+        "text": "Kapan kita bisa tahu hasil ",
+        "userDefined": false
+      },
+      {
+        "text": "seleksi SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9155033a-b98d-4ad3-809c-b72e5e139268",
+    "data": [
+      {
+        "text": "Periode pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " berapa lama",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": " ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "30a8548e-2206-49db-966a-c2c5395d4211",
+    "data": [
+      {
+        "text": "Jadi",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": " kapan nih pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " dimulai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d69cf49f-921a-4acb-86bc-b6608f3727ed",
+    "data": [
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": true
+      },
+      {
+        "text": " kapan ya kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "700d84d4-02bd-4d69-b945-2c420d938e7a",
+    "data": [
+      {
+        "text": "jadwal pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "snbp",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": true
+      },
+      {
+        "text": " kapan sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e6a2c469-6566-4844-a3fd-6f138ac639db",
+    "data": [
+      {
+        "text": "kasih tau timeline ",
+        "userDefined": false
+      },
+      {
+        "text": "snbp",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": true
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "53b0f6ff-5a30-4873-9371-a0dd94b87bf6",
+    "data": [
+      {
+        "text": "timeline ",
+        "userDefined": false
+      },
+      {
+        "text": "snbp",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "373030fa-68b3-4663-b150-8649b3739b1c",
+    "data": [
+      {
+        "text": "5b.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      },
+      {
+        "text": " Timeline ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBP",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a22244a0-7534-4dd0-825f-006582d09027",
+    "data": [
+      {
+        "text": "5b,",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "74ca2f07-2887-453b-b412-fbfd7d5240d2",
+    "data": [
+      {
+        "text": "5b.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fad5a257-bf5a-4984-9d2f-0547b693ad19",
+    "data": [
+      {
+        "text": "5b",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

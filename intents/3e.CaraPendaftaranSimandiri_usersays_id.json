@@ -1,0 +1,331 @@
+[
+  {
+    "id": "c00ac6a1-6035-4ed5-9ebf-f00dbd15eedc",
+    "data": [
+      {
+        "text": "Apakah ada biaya pendaftaran yang harus dibayarkan untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI?",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " Jika ya",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      },
+      {
+        "text": " berapa?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d926864b-f468-4de8-953a-b4f53611cb16",
+    "data": [
+      {
+        "text": "Bagaimana cara mengunggah dokumen pendaftaran yang diperlukan untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI?",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ba860432-114f-4ba8-9b56-a27b6004d3d1",
+    "data": [
+      {
+        "text": "Apakah ada persyaratan khusus yang harus dipenuhi saat mendaftar ke ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI?",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ccd261da-b631-47f3-a5c7-0d0197e45ad2",
+    "data": [
+      {
+        "text": "Apa saja dokumen yang dibutuhkan dalam proses pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI?",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3b847c5b-a3a2-4fb7-ba15-646eb22095f4",
+    "data": [
+      {
+        "text": "Bagaimana saya bisa mengakses formulir pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI?",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3d8d9315-97a2-4eb8-ba6e-c3e5713351f8",
+    "data": [
+      {
+        "text": "Bagaimana langkah-langkah untuk mendaftar dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI?",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "836aeeb1-ba4b-4ff0-8428-0b83cd8bb004",
+    "data": [
+      {
+        "text": "gimana sih cara daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "07ca52e1-48fb-4b8d-ab53-6eb219f99a1e",
+    "data": [
+      {
+        "text": "cara daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "624faf88-6ac8-4e0e-b6a7-8dc0a64723bd",
+    "data": [
+      {
+        "text": "3e. ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ed54055a-5aa4-46e0-93ea-1d9f4cdde335",
+    "data": [
+      {
+        "text": "3e. Cara Pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a509b40d-6716-4404-be7d-e306582ec2c0",
+    "data": [
+      {
+        "text": "3e.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "19592158-fe99-47bc-ad39-4eef289c00ed",
+    "data": [
+      {
+        "text": "kasih tahu dong ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " daftarnya gimana",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "11cca3ea-0bb4-4b90-aa53-ff82a71eb1ec",
+    "data": [
+      {
+        "text": "bingung banget nih daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "Simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " gimanaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cd5963e5-9138-4b8e-87a4-1bb77d8d011e",
+    "data": [
+      {
+        "text": "gimana yaa cara daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8d354eec-afa5-48be-81fc-bffe80a77acc",
+    "data": [
+      {
+        "text": "Cara pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9126662b-0fae-4ead-9ed9-2b5b935ad04e",
+    "data": [
+      {
+        "text": "3 e",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c1cab508-22f9-4734-9471-9f58d20779d1",
+    "data": [
+      {
+        "text": "3e",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

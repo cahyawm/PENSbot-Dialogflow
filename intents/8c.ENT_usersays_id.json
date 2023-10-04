@@ -1,0 +1,188 @@
+[
+  {
+    "id": "00d87a17-fdb4-4bca-bd33-7ab0ba677b0d",
+    "data": [
+      {
+        "text": "UKM",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " Jurnalistik",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d2b6fd8a-87be-4bf3-90ea-ab77b41171c3",
+    "data": [
+      {
+        "text": "Singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "ENT",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0e28a67a-6852-4b2e-ae91-852ea4867f98",
+    "data": [
+      {
+        "text": "EEPIS News and Network Team",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "78bd3552-b51c-4ced-9c60-b05c3d8ac6ee",
+    "data": [
+      {
+        "text": "kasih info tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "ENT",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " plis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bc1f9124-5d60-41e3-9c8b-53f99c4e5590",
+    "data": [
+      {
+        "text": "penasaran sama ",
+        "userDefined": false
+      },
+      {
+        "text": "ENT",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "083338d4-6cf6-40a8-8251-21677f5f3821",
+    "data": [
+      {
+        "text": "ENT",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7bdc7950-4091-4fe9-93bf-a2b74fcbb4fe",
+    "data": [
+      {
+        "text": "kepo sama ",
+        "userDefined": false
+      },
+      {
+        "text": "ENT",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "612a9722-1e70-44f8-9cc6-88b6013f66b7",
+    "data": [
+      {
+        "text": "Tim jurnalistik",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a7eaabe0-31b7-4912-9d0f-a5d80693a337",
+    "data": [
+      {
+        "text": "ENT",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8b2f3667-a787-438b-b705-bccbaa1c73f3",
+    "data": [
+      {
+        "text": "ENT",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

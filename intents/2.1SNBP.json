@@ -1,0 +1,60 @@
+{
+  "id": "c2e462f6-6eb8-4a80-a4cc-0f79a11c0a56",
+  "name": "2.1SNBP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "21SNBP-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "681b1c41-a7f2-45a2-8059-c69f6e66812a",
+          "name": "jalurpendaftaran",
+          "required": true,
+          "dataType": "@JalurPendaftaran",
+          "value": "$jalurpendaftaran",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "id",
+              "value": "Informasi jalur pendaftaran apa yang kamu butuhkan?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Berikut adalah informasi mengenai $JalurPendaftaran\n\nDimulai dengan nama Seleksi Nasional Masuk Perguruan Tinggi Negeri (SNMPTN) merupakan seleksi Jalur Undangan yang diperuntukkan bagi calon peserta/siswa sekolah yang akan melanjutkan pendidikan di Perguruan Tinggi (khusus jenjang Sarjana Terapan) yang dilaksanakan serentak seluruh Indonesia. SNMPTN diselenggarakan pertama kali oleh Ditjen Dikti tahun 2008. \n\nPada awalnya, SNMPTN terdiri dari dua jalur yaitu SNMPTN undangan (seperti PMDK) melalui nilai rapot dan SNMPTN tulis melalui ujian tulis. Pada tahun 2013, SNMPTN tulis diubah nama menjadi Seleksi Bersama Masuk Perguruan Tinggi Negeri (SBMPTN). dan SNMPTN Undangan kemudian berganti nama menjadi SNMPTN (tidak pakai undangan) dengan kriteria seleksi penerimaan berdasarkan nilai rapot, nilai Ujian Nasional, dan prestasi akademis lainnya. Di tahun 2022 resmi dengan nama Seleksi Nasional Berbasis Prestasi (SNBP) bentukan tim dari Mendikbusristek dan diselenggarakan oleh Tim Seleksi Nasional Penerimaan Mahasiswa Baru (SNPMB) PTN 2023.\n\nPendaftaran calon peserta/Siswa melalui jalur SNBP tidak dikenakan biaya apapun karena semua biaya telah dibebankan pada anggaran pemerintah. Jalur SNBP ini juga mengakomodir calon peserta/siswa yang diterima dan berasal dari keluarga ekonomi lemah tetapi mempunyai prestasi akademik tinggi.\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "def4f9f4-bcf3-4cd7-b57a-b17e68d9f7e5",
+  "name": "9j.HIMIT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9jHIMIT-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "afc1f2c6-cd15-4276-8886-9fc56b86a8cf",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Himpunan Mahasiswa Teknik Informatika (HIMIT) PENS merupakan himpunan yang berkedudukan di Departemen Teknik Informatika dan Komputer Politeknik Elektronika Negeri Surabaya. HIMIT terdiri dari program Studi D3 Teknik Informatika, D4 Teknik Informatika, dan D4 Sains Data Terapan. HIMIT PENS didirikan pada tanggal 11 Nopember 2000.\n\nHIMIT Bertujuan Untuk :\n1. Mewadahi, memfasilitasi, dan menyalurkan aspirasi anggotanya.\n2. Membina kekeluargaan antar anggota khususnya dan civitas akademika program studi D3 dan D4 teknik Informatika Politeknik Elektronika Negeri Surabaya pada umumnya.\n3. Mengusahakan dan memperjuangkan kepentingan peningkatan kualitas sumber daya mahasiswa (hard skill dan soft skill) anggotanya.\n4. Membantu meningkatkan prestasi akademik maupun non-akademik mahasiswa program studi D3 dan D4 Teknik Informatika Politeknik Elektronika Negeri Surabaya tidak termasuk Lanjut Jenjang (LJ) dan Program Jarak Jauh (PJJ).\n4. Menanamkan rasa bangga dan cinta almamater."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

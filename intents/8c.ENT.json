@@ -1,0 +1,55 @@
+{
+  "id": "c03d9f01-5340-40bf-9296-089f7ca254ce",
+  "name": "8c.ENT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8cENT-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "45f0f055-603d-4f21-b59d-ddb40c53e39c",
+          "name": "UKM",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$UKM",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Tim jurnalistik dan jaringan yang dinaungi oleh UPT Jaringan Komputer dan Sistem Informasi Politeknik Elektronika Negeri Surabaya (PENS). ENT terdiri dari beberapa divisi kreatif yang selalu berusaha untuk menghasilkan karya seperti reporter, vidiografer, desain grafis, footografer, dan webmaster.\n\nUntuk informasi lebih lanjut mengenai UKM ENT silahkan hubungi wa.me/6287810994684 (Mas Althaf)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

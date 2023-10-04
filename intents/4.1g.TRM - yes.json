@@ -1,0 +1,36 @@
+{
+  "id": "aa4250b2-eb7b-4d97-a384-97748d076968",
+  "parentId": "6d992661-8084-456c-b519-259e80489b3d",
+  "rootParentId": "6d992661-8084-456c-b519-259e80489b3d",
+  "name": "4.1g.TRM - yes",
+  "auto": true,
+  "contexts": [
+    "41gTRM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "41gTRM.41gTRM-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

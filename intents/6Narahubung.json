@@ -1,0 +1,55 @@
+{
+  "id": "ea5f2e70-2b41-4113-b087-25e1490b8eec",
+  "name": "6Narahubung",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "5Narahubung-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "48802add-dd88-4deb-95b1-d6003565b71b",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Hi! Berikut adalah contact person PENS yang bisa kamu hubungi :\n\n- Email Address \npmb@pens.ac.id\n\n- Lokasi \nJl. Raya ITS Sukolilo, Kampus Politeknik Elektronika Negeri Surabaya, 60111\n\n- Phone Number \nTelepon +62 31 594 7280 atau +62 31 594 6114\nWhatsapp +62 811 3330 5005\n\n- Media Sosial\ninstagram : penseepis\n\n- Link Website \nWebsite PENS : pens.ac.id\nWebsite Penerimaan Mahasiswa Baru : pmb.pens.ac.id\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

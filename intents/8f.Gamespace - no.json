@@ -1,0 +1,36 @@
+{
+  "id": "eec3e28e-bcc5-478c-b4d9-d40021bae9ee",
+  "parentId": "60fdbbb3-0ad7-49bb-acf2-a25d4581584b",
+  "rootParentId": "60fdbbb3-0ad7-49bb-acf2-a25d4581584b",
+  "name": "8f.Gamespace - no",
+  "auto": true,
+  "contexts": [
+    "8fGamespace-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8fGamespace.8fGamespace-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

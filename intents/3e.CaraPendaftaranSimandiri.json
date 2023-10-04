@@ -1,0 +1,69 @@
+{
+  "id": "ebffd2b6-0594-47f3-b0ac-4e505359dbf8",
+  "name": "3e.CaraPendaftaranSimandiri",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "3eCaraPendaftaranSimandiri-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "11e32a57-c67d-4eec-90f4-2ec59d53f24d",
+          "name": "jalurpendaftaran",
+          "required": false,
+          "dataType": "@JalurPendaftaran",
+          "value": "$jalurpendaftaran",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "973d4df2-f3ff-49c3-8aab-58cec7c74c5c",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! Berikut adalah tata cara pendaftaran SIMANDIRI PENS :\n1. Pendaftaran Dibuka Mulai Tanggal 29-05-2023 Jam 00:00:00 WIB\n2. UTBK Online dirumah masing-masing, siapkan browser internet dan aplikasi zoom meeting, serta wajib menggunakan WebCam\n3. Tata Cara UTBK Online akan diumumkan melalui laman http://pmb.pens.ac.id\n4. Cetak Ulang Kartu Peserta, Klik link Cetak Kartu Pendaftaran\n5. Biaya Pendaftaran : Rp. 300.000, Biaya Pendaftaran Yang Sudah Ditransfer Tidak Bisa Ditarik     Dengan Alasan Apapun\n6. NISN Terdaftar di Kemendikbud dan Hanya diperkenankan 1x pendaftaran\n7. Bila Lolos Seleksi, Wajib Membayar UKT/Semester\n    Rp 500.000 sd Rp 10.000.000     \n8. Bila Lolos Seleksi, Wajib Membayar IPI (Sekali Bayar)\n    Min Rp 3.000.000 sd Maks Rp 40.000.000     \n9. Pendaftaran Gunakan Browser Chrome Atau Mozilla Firefox Versi PC\n\n* Cetak Kartu Pendaftaran bila selesai registrasi final, ditutup sd tanggal :08-07-2023 Jam 23:00:00 WIB\n** Registrasi dan pembayaran PMB SIMANDIRI ditutup tanggal 23-06-2023 jam 16:00:00 WIB\n** Entri Data dan Finalisasi PMB SIMANDIRI ditutup tanggal 23-06-2023 jam 23:45:00 WIB\nSegala permasalahan atau pertanyaan dapat menghubungi Call Center 031-594 7280 Ext 7101 atau email ke pmb@pens.ac.id pada hari dan jam kerja"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

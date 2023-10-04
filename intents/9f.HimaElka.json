@@ -1,0 +1,55 @@
+{
+  "id": "338333a7-f4bd-4033-8544-b7acc65e84f1",
+  "name": "9f.HimaElka",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9fHimaElka-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "20c0cafa-d3ba-40e5-8d60-b4df11c8ec09",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Himpunan Mahasiswa Teknik Elektronika Politeknik Elektronika Negeri Surabaya yang bisa disebut HIMA ELKA PENS didirikan pada tahun 1991 di surabaya. tepatnya pada program studi Teknik Elektronika PENS. HIMA ELKA beranggotakan mahasiswa aktif Elektronika PENS melingkupi prodi D3, D4 dan LJ.\n\nHIMA ELKA PENS bertujuan untuk :\na. Membentuk pribadi mahasiswa yang memiliki sikap kepemimpinan, kemandirian, keilmiahan, keteladanan, rasa tanggung jawab, dan, profesionalisme.\nb. Mewujudkan dan membina rasa kekeluargaan antar-civitas akademika Program Studi Teknik Elektronika PENS.\nc. Ikut berpartisipasi dalam usaha pengabdian masyarakat.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

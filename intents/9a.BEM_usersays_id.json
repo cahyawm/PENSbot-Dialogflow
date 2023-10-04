@@ -1,0 +1,97 @@
+[
+  {
+    "id": "96faf5b6-0f94-4ab7-b01c-ed3e0e3960dd",
+    "data": [
+      {
+        "text": "jelaskan apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "BEM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f6511298-d63f-4db4-b424-67462d0d9261",
+    "data": [
+      {
+        "text": "apa singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "BEM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a21b3e27-ddd3-4bf6-ac92-3185912471eb",
+    "data": [
+      {
+        "text": "BEM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9289f778-5550-46e2-a8a7-58933a3d34b7",
+    "data": [
+      {
+        "text": "Badan Eksekutif Mahasiswa",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d73684ed-cd3e-46f8-90f8-eec76f92fc05",
+    "data": [
+      {
+        "text": "BEM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

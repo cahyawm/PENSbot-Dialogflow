@@ -1,0 +1,55 @@
+{
+  "id": "b7f5b330-2dbd-4250-82de-44857cc2f6b2",
+  "name": "9n.UKKI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9nUKKI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a472d62a-9e33-448b-940d-883501f0b6b7",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Unit Kegiatan Kerohanian Islam (UKKI) PENS didirikan 2 tahun setelah berdirinya kampus PENS, tepatnya pada tahun 1989. Sebelum Lembaga Dakwah Kampus ini berdiri, terdapat sebuah mushola yang sangat sederhana di kampus PENS. Para pemuda masjid yang saat itu juga sebagai mahasiswa PENS menemui sebuah sarang lebah yang berukuran cukup besar. Dan akhirnya, muncullah gagasan untuk memberi nama musholla sederhana itu dengan istilah \"An-Nahl\" (yang artinya lebah). Menyusullah dibuatnya sebuah perkumpulan remaja masjid An Nahl dengan menggunakan logo berunsur lebah. Beberapa tahun kemudian, dibuatlah perkumpulan itu menjadi sebuah organisasi ysng bernama UKKI PENS-ITS pada tahun 2001. Kemudian berganti nama menjadi UKKI PENS dengan susunan organisasi yang sudah lengkap.\n\nApakah jawaban PENSbot cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

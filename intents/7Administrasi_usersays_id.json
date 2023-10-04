@@ -1,0 +1,351 @@
+[
+  {
+    "id": "40335e89-36b8-45f8-8098-6fb0666bb414",
+    "data": [
+      {
+        "text": "Apakah ada biaya yang harus dibayar untuk pengurusan administrasi tertentu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0b217967-4eb3-4517-97e4-fd91426027b8",
+    "data": [
+      {
+        "text": "7.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " administrasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "469cee88-8cb4-459e-8dbf-0a02fa138e6d",
+    "data": [
+      {
+        "text": "ini perlunya bayar apa aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "52c7f6f1-8c77-4691-9530-969a19321f29",
+    "data": [
+      {
+        "text": "Administrasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8039d015-148d-4466-9b1a-b7854bb40790",
+    "data": [
+      {
+        "text": "7",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " administrasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9859233c-a069-40a2-ad5d-d62ad25d1324",
+    "data": [
+      {
+        "text": "7.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " Administrasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4c6e4a83-71e1-40b5-a202-e9c039b8690c",
+    "data": [
+      {
+        "text": "7.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d331a1e0-8545-4d58-a544-6d64905aff14",
+    "data": [
+      {
+        "text": "no ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6b683eab-1d53-4176-a443-641b1f6f69cf",
+    "data": [
+      {
+        "text": "tujuh",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "51bc5503-e8c0-4170-bb29-c307e447a50e",
+    "data": [
+      {
+        "text": "keuangan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "29e1cf4a-1d68-4fff-9957-7f2f8e08e239",
+    "data": [
+      {
+        "text": "pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0e741e46-3482-4dfe-894d-37d4761ac8cf",
+    "data": [
+      {
+        "text": "Administrasi pembayaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2d456c69-0d09-4650-addf-94e3db9d3afd",
+    "data": [
+      {
+        "text": "Administrasi pendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c07900b2-034e-4805-8ebf-602e6f59357a",
+    "data": [
+      {
+        "text": "number 7",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6d5f82ae-15dc-4e45-914a-406b93e6a36d",
+    "data": [
+      {
+        "text": "number seven",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1491ee2a-bcff-4b2d-becd-f1594b60a4e6",
+    "data": [
+      {
+        "text": "nomor 7",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "29d66fc7-110f-42e2-87be-587d6509fe6a",
+    "data": [
+      {
+        "text": "seven",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c51f50ae-a7a0-47f0-9e3e-82e0df7df719",
+    "data": [
+      {
+        "text": "tuju",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "65794797-b87e-4999-85c2-7c2973025751",
+    "data": [
+      {
+        "text": "tujuhhh",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3edb2a61-1c70-4a38-9e60-17707809bcf8",
+    "data": [
+      {
+        "text": "7,0",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a63a9c48-532c-4e48-951c-8f2ad2cc6341",
+    "data": [
+      {
+        "text": "7",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": ",",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fdf4e165-ffb4-49cb-84e0-57a3d9390682",
+    "data": [
+      {
+        "text": "7",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a973cb23-db2e-4a40-93d5-4f351018b8fc",
+    "data": [
+      {
+        "text": "rincian administrasi apa aja yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

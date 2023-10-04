@@ -1,0 +1,55 @@
+{
+  "id": "ecdf70ee-1821-4f2b-ba18-b324594e5b97",
+  "name": "4.1l.TRI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41lTRI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1ff8a976-1b82-4cb3-b745-46c95a9b24d3",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi Sarjana Terapan Teknologi Internet berakreditasi \"\"Baik Sekali\"\".\n\nSarjana Terapan Teknologi Rekayasa Internet akan mendapatkan materi teori dan praktek tentang elektronika umum, pengembangan aplikasi website, network security, cloud computing, mobile computing, dan Internet of Things (IoT).\n\nDengan dosen yang berpengalaman dalam akademik dan praktisi, maka lulusan akan memiliki kompetensi antara lain Internet Developer, Internet Network Engineer, Network Security Engineer, Cloud Computing Engineer, Mobile dan IoT Engineer, dan masih banyak lainnya.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

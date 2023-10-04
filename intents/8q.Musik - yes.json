@@ -1,0 +1,36 @@
+{
+  "id": "a076afd0-c9f1-4cd8-a119-8f4917b77d9d",
+  "parentId": "0677d1e1-75a9-4cdd-8c32-d3442c74bb81",
+  "rootParentId": "0677d1e1-75a9-4cdd-8c32-d3442c74bb81",
+  "name": "8q.Musik - yes",
+  "auto": true,
+  "contexts": [
+    "8qMusik-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8qMusik.8qMusik-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

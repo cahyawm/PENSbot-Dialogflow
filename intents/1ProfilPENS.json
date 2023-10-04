@@ -1,0 +1,83 @@
+{
+  "id": "a220fad4-146e-4eef-a168-40dc4918c477",
+  "name": "1ProfilPENS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "1ProfilPENS-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4de093cf-57db-4bfe-ac99-0328efe24253",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0218b7d2-6733-4510-a855-6f5012fceebf",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a2c58357-a05d-4663-90cb-e38c0c74b4e4",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Hi! Berikut adalah profil PENS yang sudah PENSbot rangkum buat kamu🤩\n\nPoliteknik Elektronika Negeri Surabaya (PENS) atau Electronic Engineering Polytechnic Institute of Surabaya (EEPIS) adalah perguruan tinggi negeri yang terdapat di Kota Surabaya, Provinsi Jawa Timur, Indonesia. Alamat tepat dari PENS adalah di Institut Teknologi Sepuluh Nopember, Kampus Jl. Raya ITS, Keputih, Kec. Sukolilo, Surabaya, Jawa Timur 60111. Politeknik Elektronika Negeri Surabaya secara resmi berdiri sejak tahun 1988. PENS menempati posisi pertama untuk politeknik terbaik di Indoneisa versi Webometrics 2023. Sebagai sebuah perguruan tinggi politeknik, PENS menyelenggarakan pendidikan vokasi / terapan yang lebih banyak berorientasi pada praktik ketimbang teori. PENS adalah satu-satunya politeknik yang mengkhususkan diri pada bidang teknik elektro. \n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

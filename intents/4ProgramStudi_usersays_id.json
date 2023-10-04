@@ -1,0 +1,364 @@
+[
+  {
+    "id": "5b74266d-d787-4944-8fec-5f95d37e0e13",
+    "data": [
+      {
+        "text": "no 4",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "acf822dc-a4d0-4681-90d9-c42cd175a3cc",
+    "data": [
+      {
+        "text": "empatttt",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a6d9bffc-9c22-4bd0-bd9b-be3fcf1e1fba",
+    "data": [
+      {
+        "text": "nomor 4",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "74d88430-66e6-4100-9304-63e76115eb06",
+    "data": [
+      {
+        "text": "number four",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1e472ea2-77ae-4f8d-b3de-e8507bd5ea81",
+    "data": [
+      {
+        "text": "four",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3c837b8f-a305-4c75-9e6f-f98d4b8b14f9",
+    "data": [
+      {
+        "text": "4.0",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "510427fd-925b-44ab-9e26-539da241677a",
+    "data": [
+      {
+        "text": "4,0",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f1065b13-3116-4771-8a82-99a1e39cd677",
+    "data": [
+      {
+        "text": "4,",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3200fb87-260c-4a1d-95f5-481ba68f3f0a",
+    "data": [
+      {
+        "text": "4.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2c7114cf-8cac-45d8-ba29-f1c25c05761d",
+    "data": [
+      {
+        "text": "Program Studi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": false
+      },
+      {
+        "text": " PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8fde2f06-6a10-4b7a-abf8-fda2f6c77065",
+    "data": [
+      {
+        "text": "program studi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f8304037-37ef-456f-bc6e-f6fcaf377f4f",
+    "data": [
+      {
+        "text": "macam macam ",
+        "userDefined": false
+      },
+      {
+        "text": "program studi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      },
+      {
+        "text": " di PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bec62250-d094-4d24-8498-a4079a0335d7",
+    "data": [
+      {
+        "text": "list ",
+        "userDefined": false
+      },
+      {
+        "text": "prodi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      },
+      {
+        "text": " ada apa aja yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "19cd6397-f478-44ac-8af3-962e9e4f8af3",
+    "data": [
+      {
+        "text": "kasih tahu info ",
+        "userDefined": false
+      },
+      {
+        "text": "program studi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      },
+      {
+        "text": " plis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "821f4857-5cb1-43af-a6f0-3271b4617fc4",
+    "data": [
+      {
+        "text": "perogram setudi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3c696b97-8686-4dc5-a6c7-bf491196e7ce",
+    "data": [
+      {
+        "text": "prodi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "32618b4c-a491-4734-a5e6-854709a4bb36",
+    "data": [
+      {
+        "text": "nomor empat",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3f7f102e-8489-4511-8c93-6874fdb460e6",
+    "data": [
+      {
+        "text": "empattt",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fa7f6559-014d-4e6a-9c49-45b0c65b4d53",
+    "data": [
+      {
+        "text": "EMPATT",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "21291bef-2a0d-4088-9e0c-c5cfacd649d7",
+    "data": [
+      {
+        "text": "empat",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bd1816d2-9cc6-4c77-bca0-5fd7e396cb88",
+    "data": [
+      {
+        "text": "Informasi program studi PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7d9ca6d0-18dd-4f17-8d98-631d9321c5da",
+    "data": [
+      {
+        "text": "4",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "ab3c9467-cb22-43c8-ac75-5b6b4e58ec6b",
+  "parentId": "7c424be4-33be-4bd2-931c-736c6395bc9c",
+  "rootParentId": "7c424be4-33be-4bd2-931c-736c6395bc9c",
+  "name": "materi-tes - yes",
+  "auto": true,
+  "contexts": [
+    "materi-tes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "materi-tes.materi-tes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

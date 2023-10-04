@@ -1,0 +1,127 @@
+[
+  {
+    "id": "5dcf86ec-3770-4996-9b54-a2bbb3f358c7",
+    "data": [
+      {
+        "text": "Apakah ada fokus ",
+        "userDefined": false
+      },
+      {
+        "text": "utama",
+        "userDefined": false
+      },
+      {
+        "text": " dalam materi tes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "88826bba-463e-42a1-9f0f-867f4c9fa418",
+    "data": [
+      {
+        "text": "Apa saja materi yang diujikan dalam tes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "281beb61-34dc-4624-aced-7a029233f67b",
+    "data": [
+      {
+        "text": "materi UTBK SNBT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "13d56702-5233-40a6-9c47-4a3c7203f25f",
+    "data": [
+      {
+        "text": "info materi snbt yang diujikan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3590654b-aecf-4f9e-9c47-44988fd4339f",
+    "data": [
+      {
+        "text": "materi tes SNBT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "04fb00db-3102-47b4-af20-65cbe1618870",
+    "data": [
+      {
+        "text": "apakah ada materi tes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2fa34a8c-287a-4120-89c5-91ba3b007fbc",
+    "data": [
+      {
+        "text": "materi tes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "eaa15710-bd94-49fd-8a8e-c58b85c8926f",
+    "data": [
+      {
+        "text": "informasi materi tes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8426e89c-0a66-4b14-bfac-4a8cc22d74aa",
+    "data": [
+      {
+        "text": "Apa saja materi tes yang diujikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

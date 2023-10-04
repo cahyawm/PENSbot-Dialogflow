@@ -1,0 +1,55 @@
+{
+  "id": "6d95d5d0-f2f3-476a-80e7-713348cf97c9",
+  "name": "8w.Voli",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8wVoli-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "411c795f-2f35-4f36-9657-98f8ca23a8b7",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Volley merupakan sebuah unit kegiatan kemahasiswaan yang berfungsi sebagai wadah dalam mengembangkan potensi dan minat yang dimiliki mahasiswa Politeknik Elektronika Negeri Surabaya terhadap bidang olahraga, khususnya Volley, selain itu juga sebagai sarana untuk melakukan pembinaan baik dalam hal permainan Volley juga sebagai wadah untuk berorganisasi. Dengan demikian selain mendapatkan ilmu akademik, diharapkan melaui aktifitas di dalam suatu UKM, mahasiswa PENS dapat meningkatkan keterampilan dalam permainan Volley, membina persahabatan dan persaudaraan antar mahasiswa serta sebagai ajang untuk meraih prestasi dalam olahraga Volley.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM Volley silahkan hubungi wa.me/6287881573089 (Mas Yuda)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

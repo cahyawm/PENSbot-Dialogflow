@@ -1,0 +1,66 @@
+[
+  {
+    "id": "0b78a2a4-9ac8-4272-85a7-bb6608961422",
+    "data": [
+      {
+        "text": "sejarah ",
+        "userDefined": false
+      },
+      {
+        "text": "hima mmb",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ee6a595b-5900-44a1-8b70-0f712a790d1a",
+    "data": [
+      {
+        "text": "Himpunan Mahasiswa Multimedia Broadcasting",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e4f0f196-5781-44ce-933b-26376fdca797",
+    "data": [
+      {
+        "text": "Himpunan Mahasiswa MMB",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "55e0d024-de10-4f31-9558-14aa06982554",
+    "data": [
+      {
+        "text": "HIMA MMB",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "9f8f6a32-2732-4a34-b82a-ab2d5874c750",
+  "name": "9l.HimaMMB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9lHimaMMB-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c554da70-52b7-44e9-9e5e-5900e8ed8002",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "HIMA MMB \nPengertian : Organisasi mahasiswa jurusan dalam Departemen Teknologi Multimedia Kreatif ( DTMK ) yang beranggotakan mahasiswa aktif Departemen\nTeknologi Multimedia Kreatif\n\nFungsi : HIMA MMB memiliki fungsi sebagai wadah bagi mahasiswa DTMK untuk mengembangkan potensinya baik secara soft-skill maupun hard-skill seperti dalam bidang keprofesian dan lainnya\n\nTujuan : \n1. Mewujudkan dan membina rasa kekeluargaan antar anggota.\n2. Membentuk pribadi mahasiswa yang memiliki jiwa pemimpin, mandiri, kreatif dan tanggung jawab.\n3. Mengimplementasikan bidang multimedia kreatif kepada masyarakat.\n4. Memperjuangkan serta menyalurkan aspirasi dan kepentingan anggota.\n5. Membimbing, menampung dan menyalurkan potensi anggota untuk pengabdian, perjuangan dan pembangunan Negara Kesatuan Republik Indonesia.\n6. Menjunjung tinggi Undang - undang Dasar KM PENS dan Haluan Dasar Pengembangan Kemahasiswaan KM PENS.\n\nKarakteristik : Kekeluargaan dan Kreativitas"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

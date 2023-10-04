@@ -1,0 +1,39 @@
+{
+  "id": "4bad314d-8330-4e2b-8d2d-26087f3b9baa",
+  "parentId": "ea5f2e70-2b41-4113-b087-25e1490b8eec",
+  "rootParentId": "ea5f2e70-2b41-4113-b087-25e1490b8eec",
+  "name": "5Narahubung - yes",
+  "auto": true,
+  "contexts": [
+    "5Narahubung-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "5Narahubung.5Narahubung-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Terimakasih sudah menghubungi PENSbot! \nJika ada yang masih ingin ditanyakan silahkan mengetikkan /start"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

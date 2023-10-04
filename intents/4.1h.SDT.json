@@ -1,0 +1,55 @@
+{
+  "id": "145afbab-aea0-46b5-b6eb-2a1617f70e35",
+  "name": "4.1h.SDT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41hSDT-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ad06779c-feac-439d-aa31-ace1b2d439d1",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi Sains Data Terapan berakreditasi \"\"Baik\"\".\n\nSains Data (Data Science) adalah bidang antar-disiplin yang menggunakan metode, proses, algoritma, dan sistem ilmiah untuk mengekstraksi pengetahuan dan wawasan dari banyak data struktural dan tidak terstruktur. Ilmu data terkait dengan penambangan data, pengolahan data dan interpretasi data dengan menggunakan formula statistika, bahasa pemrograman, serta tools yang sesuai. Diperlukan  pengetahuan empat bidang mendasar, yaitu: Domain bisnis, Matematika dan Statistik, Ilmu Komputer (Kecerdasan Buatan), dan Komunikasi.\n\nProgram Studi ini dibentuk untuk menjawab tantangan tersebut. Tujuan dari program studi ini adalah untuk menciptakan para profesional data dibidang data scientist, data analyst dan data engineer yang dapat menerapkan pengetahuan yang diperlukan yang turut memainkan peran penting di masa depan . Untuk itu, mahasiswa dididik secara mendalam di domain bisnis, Matematika dan Statistik, Ilmu Komputer (Kecerdasan Buatan), dan Komunikasi.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ceec674b-dbff-4e57-bcd4-e23836399419",
+  "name": "3InformasiPendaftaran",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d31b12a8-92d3-42d3-866e-705dce367a04",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! Informasi pendaftaran apa yang kamu butuhkan?\n3a. Kuota Pendaftaran\n3b. Cara Daftar Ulang Mahasiswa Baru\n3c. Cara pendaftaran SNBP\n3d. Cara pendaftaran SNBT\n3e. Cara Pendaftaran SIMANDIRI"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

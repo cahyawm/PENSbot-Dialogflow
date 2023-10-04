@@ -1,0 +1,55 @@
+{
+  "id": "c732a637-035d-4722-a343-b034bc82c1db",
+  "name": "8d.Futsal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8dFutsal-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6ad2a9c0-48b2-4311-8093-84abe0a750d2",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Futsal adalah jenis UKM yang bergerak di bidang olahraga terutama bola (futsal). UKM ini hanya mengikuti kegiatan-kegiatan yang ada guna menyalurkan minat dan bakat mahasiswa. UKM futsal dapat mengembangkan bakat dan minat olahraga futsal di lingkungan Politeknik Elektronika Negeri Surabaya. Kegiatan dari UKM Futsal antara lain melaksanakan latihan futsal secara rutin serta mengikuti kompetisi-kompetisi futsal dalam skala regional dan nasional.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM Futsal silahkan hubungi wa.me/628970415214 (Mas Diananta)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

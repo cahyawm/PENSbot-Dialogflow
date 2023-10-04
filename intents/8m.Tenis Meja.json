@@ -1,0 +1,55 @@
+{
+  "id": "5ece506a-977f-479d-896c-da4bf0f2be5d",
+  "name": "8m.Tenis Meja",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8mTenisMeja-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5b252c11-1599-4600-9478-a296348457b2",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Tenis Meja merupakan salah satu unit kegiatan mahasiswa Politeknik Elektronika Negeri Surabaya yang berfungsi sebagai tempat penyaluran minat dan bakat mahasiswa dalam bidang olahraga khususnya Tenis Meja. Maksud dan tujuan didirikan UKM ini agar menjadi sebuah UKM yang berperan aktif dalam memajukan olahraga cabang tenis meja dan menjadikan kegiatan-kegiatan UKM sebagai sarana untuk mengembangkan kreativitas dan potensi anggota UKM enis Meja serta mencari bibit unggul melalalui mahasiswa maupun mahasiswi yang ada di PENS.\n\nSemua UKM dilaksanakan setiap hari senin bertepatan dengan UKM Day.\nUntuk informasi lebih lanjut mengenai UKM Tenis Meja silahkan hubungi wa.me/6288234136003 (Mas Faza)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

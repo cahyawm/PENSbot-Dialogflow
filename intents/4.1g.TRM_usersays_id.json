@@ -1,0 +1,256 @@
+[
+  {
+    "id": "3b635a6d-a270-450c-ba13-cdb232e91c06",
+    "data": [
+      {
+        "text": "multimedia rekayasa",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "49811d6e-1599-4db3-a9a3-92b92777063b",
+    "data": [
+      {
+        "text": "rekayasa multimedia",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5bf3f9fd-0c37-4132-9ddc-3df08d19c27e",
+    "data": [
+      {
+        "text": "mau dong",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "TRM",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cb950057-b105-4a2f-9a94-8bd81fe2d1ce",
+    "data": [
+      {
+        "text": "bingung soal ",
+        "userDefined": false
+      },
+      {
+        "text": "TRM",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f7e3cebd-3386-4f4c-b240-213837afb4d4",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "TRM",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4b8d34a7-d280-46d5-84cd-afcc0a24d14b",
+    "data": [
+      {
+        "text": "TRM",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " itu singkatan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      },
+      {
+        "text": " apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "66f8c78b-f45d-4f29-b0d4-84df35f1e468",
+    "data": [
+      {
+        "text": "program studi TRM",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "607f345c-0654-4242-8504-95c2930b978f",
+    "data": [
+      {
+        "text": "prodi Teknik Rekayasa Multimedia",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "77fb8015-3593-41a3-a07d-c14a166f0db6",
+    "data": [
+      {
+        "text": "program studi Teknik Rekayasa Multimedia",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f315fffa-1389-4218-8526-bbd8439111bc",
+    "data": [
+      {
+        "text": "prodi TRM",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e967ac78-e916-4026-8858-2c2e31d8b989",
+    "data": [
+      {
+        "text": "Teknologi ",
+        "userDefined": false
+      },
+      {
+        "text": "Rekayasa Multimedia",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1b63f399-73df-45b6-bf18-a1d02f900cd4",
+    "data": [
+      {
+        "text": "TRM",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c1fb1b6d-fa50-4285-acfb-98bf4bc9ed55",
+    "data": [
+      {
+        "text": "Teknik Rekayasa Multimedia",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1d5d96bd-add5-47b9-ba9e-fd174d7875e1",
+    "data": [
+      {
+        "text": "Teknik Rekayasa Multimedia",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

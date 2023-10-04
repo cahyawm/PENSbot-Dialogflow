@@ -1,0 +1,36 @@
+{
+  "id": "cfec9412-36a0-43b4-91e8-fa9969d8b13c",
+  "parentId": "2812d6da-44f0-4fb9-a6c5-a8a0f65a28b6",
+  "rootParentId": "2812d6da-44f0-4fb9-a6c5-a8a0f65a28b6",
+  "name": "5a.AwalPerkuliahan - yes",
+  "auto": true,
+  "contexts": [
+    "5aAwalPerkuliahan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "5aAwalPerkuliahan.5aAwalPerkuliahan-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

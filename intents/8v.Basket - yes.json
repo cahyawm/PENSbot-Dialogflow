@@ -1,0 +1,36 @@
+{
+  "id": "bddc0283-b210-42f9-bdc6-eb38f5818072",
+  "parentId": "c580021b-2444-4806-b62c-68f4ce880704",
+  "rootParentId": "c580021b-2444-4806-b62c-68f4ce880704",
+  "name": "8v.Basket - yes",
+  "auto": true,
+  "contexts": [
+    "8vBasket-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8vBasket.8vBasket-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "7b3e5401-90dc-4a02-a694-7fbbe0be4e35",
+  "name": "3a.kuota-pendaftaran",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "3akuota-pendaftaran-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "PENS memiliki 13 program studi, dimana masing-masing terdiri dari 2 kelas. Per kelas kuotanya adalah 30 mahasiswa. Detail daya tampung atau kuota mahasiswa baru PENS 2023 dapat diakses melalui link berikut https://pmb.pens.ac.id/index.php/dayatampung/\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "a24f63f9-4ff2-4e08-9a65-f2bf94bc0d51",
+    "data": [
+      {
+        "text": "list",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "prodi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "50cca937-9074-45af-a48a-36e5f4bd0ce3",
+    "data": [
+      {
+        "text": "4 a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e4c99bbb-221e-47b5-8601-c498fd8c6613",
+    "data": [
+      {
+        "text": "4a.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c185c1db-5e1f-441e-9f69-4c0651654cd6",
+    "data": [
+      {
+        "text": "4a",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "202d5cc9-f627-4b03-a176-166e1a8be5cf",
+    "data": [
+      {
+        "text": "List ",
+        "userDefined": false
+      },
+      {
+        "text": "Program studi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e7555134-bb3e-40b8-b7e4-3457e201f7c6",
+    "data": [
+      {
+        "text": "List ",
+        "userDefined": false
+      },
+      {
+        "text": "Prodi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3857e9de-f8ba-4fd1-9989-5b4d89d0aa55",
+    "data": [
+      {
+        "text": "program studi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      },
+      {
+        "text": " pens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1da2c58d-e9ac-4c8f-8234-efb8fd5d20a2",
+    "data": [
+      {
+        "text": "Prodi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      },
+      {
+        "text": " yang ada di ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      },
+      {
+        "text": " apa aja sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7e2a7f74-90b5-407e-833a-377a70470e36",
+    "data": [
+      {
+        "text": "List jurusan atau ",
+        "userDefined": false
+      },
+      {
+        "text": "program studi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      },
+      {
+        "text": " yang ada di ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a359c3af-fed7-4404-9dc4-f31f1d358819",
+    "data": [
+      {
+        "text": "berapa jumlah ",
+        "userDefined": false
+      },
+      {
+        "text": "program studi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      },
+      {
+        "text": " di ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b3597670-53e2-44df-93e7-3b8a205cf2a4",
+    "data": [
+      {
+        "text": "Program studi",
+        "meta": "@ProgramStudi",
+        "alias": "ProgramStudi",
+        "userDefined": true
+      },
+      {
+        "text": " yang ada di ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      },
+      {
+        "text": " apa aja ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

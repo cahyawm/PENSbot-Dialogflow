@@ -1,0 +1,328 @@
+[
+  {
+    "id": "5893e88d-19de-4cd5-ad9a-bcc4d6fd9ae0",
+    "data": [
+      {
+        "text": "program teknik elektronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8bafb7be-d917-4f70-821c-bc4bdcb9bdd9",
+    "data": [
+      {
+        "text": "prodi teknik elektronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "62235600-ec99-42a1-91c0-d182c0401f28",
+    "data": [
+      {
+        "text": "d3 teknik elektro",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c5c0c97a-33f4-4651-81b1-947359b817c9",
+    "data": [
+      {
+        "text": "D",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": "3 Teknik elektronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9c464192-b783-4c3f-9160-8e361b29450e",
+    "data": [
+      {
+        "text": "d4 teknik elektro",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "57c1cb65-0f66-427e-9e4b-af0cc19690e1",
+    "data": [
+      {
+        "text": "d4 teknik elektronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9ec26116-7768-4459-8dcf-40c0caa71da4",
+    "data": [
+      {
+        "text": "ELKA",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "16ad310c-8948-40ce-adcb-2dd17c0f53ea",
+    "data": [
+      {
+        "text": "D4 ELKA",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "355ac45b-2285-45ab-a46b-b87281dd71ca",
+    "data": [
+      {
+        "text": "teknik elektronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0947ba6c-4937-4282-a8f2-50796025f1b7",
+    "data": [
+      {
+        "text": "jelaskan tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "elka",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3e97d14f-1350-455f-b4fe-448d7c89dae4",
+    "data": [
+      {
+        "text": "ELKA",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "22fd3416-5499-463b-9217-d42bbcb20090",
+    "data": [
+      {
+        "text": "Program Studi teknik elektronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "21f5c612-4319-44ce-b592-a245ffe8f32e",
+    "data": [
+      {
+        "text": "program studi elektro",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "daf3d86a-6884-4da8-bee9-78a4912d554d",
+    "data": [
+      {
+        "text": "prodi elektro",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "28cc4bbd-b85f-4140-8739-c460e2bf7079",
+    "data": [
+      {
+        "text": "elektro",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "123c9dc7-1c31-4be9-9a70-95478369b653",
+    "data": [
+      {
+        "text": "Prodi ELKA",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8e437d73-e35a-4a5f-8288-6a60fdad6d78",
+    "data": [
+      {
+        "text": "apasih ",
+        "userDefined": false
+      },
+      {
+        "text": "elka",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " itu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a14297b6-14b5-4f25-a410-9bccd71b8653",
+    "data": [
+      {
+        "text": "Teknik Elektro Industri",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dfe19b7b-7781-4d43-a74a-e063aec8abc6",
+    "data": [
+      {
+        "text": "Elektronika",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c4137350-ae8a-401a-9915-0d2b9dab5982",
+    "data": [
+      {
+        "text": "Teknik ",
+        "userDefined": false
+      },
+      {
+        "text": "ELKA",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

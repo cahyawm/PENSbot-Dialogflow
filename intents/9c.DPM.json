@@ -1,0 +1,55 @@
+{
+  "id": "2d794f0d-c485-4afb-b304-0760d1faf9ec",
+  "name": "9c.DPM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9cDPM-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "135c5f22-2e53-4105-82ec-01e84dcbfc93",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Dewan Perwakilan Mahasiswa (DPM) merupakan perwakilan mahasiswa untuk manampung dan menyalurkan aspirasi mahasiswa dalam lingkungan PENS. DPM bertugas merencanakan dan menetapkan garis – garis program kegiatan kemahsaiswaan di lingkungan PENS.\n\nApakah jawaban PENSbot cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

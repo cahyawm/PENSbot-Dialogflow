@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5ce324e7-f06c-45ab-b528-d007cac68253",
+    "data": [
+      {
+        "text": "UKM MUSIK",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "dbc60ef3-ca6b-46af-b818-222a741dc807",
+    "data": [
+      {
+        "text": "jelaskan ",
+        "userDefined": false
+      },
+      {
+        "text": "UKM musik",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "45802196-7f6c-4dc4-b5a3-1ae2b63c1502",
+    "data": [
+      {
+        "text": "UKM MUSIK",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c35554b1-c481-4928-a297-7ae54dc31998",
+    "data": [
+      {
+        "text": "MUSIK",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "b5e4f05a-59fe-4db5-b63d-09ec288ee98e",
+  "parentId": "5a3ae36c-bacb-46ca-b877-f8f2bf7e336f",
+  "rootParentId": "5a3ae36c-bacb-46ca-b877-f8f2bf7e336f",
+  "name": "9d.EBIO - yes",
+  "auto": true,
+  "contexts": [
+    "9dEBIO-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "9dEBIO.9dEBIO-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

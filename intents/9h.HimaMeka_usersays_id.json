@@ -1,0 +1,47 @@
+[
+  {
+    "id": "4fc80268-30d9-40f1-9555-51411ababc97",
+    "data": [
+      {
+        "text": "Himpunan mahasiswa teknik mekatronika",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7cbbc012-ebbc-4472-9660-dd53dcc52397",
+    "data": [
+      {
+        "text": "Hima MEKA",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7cedcd9b-01a9-4bfd-b9a1-d66b5f3174ce",
+    "data": [
+      {
+        "text": "hima mekatronika",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

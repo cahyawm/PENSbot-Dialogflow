@@ -1,0 +1,55 @@
+{
+  "id": "abc5e346-a722-4c68-8366-dd93cac3d7da",
+  "name": "8k.E2C",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8kE2C-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "bdcaacc0-a8bd-4a65-a13f-727610d5586e",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM EEPIS ENGLISH CLUB (E2C) adalah UKM yang menaungi mahasiswa PENS yang tertarik atau berminat di bidang Bahasa Inggris. Tapi tidak hanya berkutat pada lingkup Bahasa Inggris saja, kita juga sering mengadakan kegiatan yang bertujuan untuk menumbuhkan atau mengasah soft skill mahasiswa, seperti public speaking, scientific writing, dll. Divisi di E2C ada 5, yaitu Debate, Speech, Newscasting, Storytelling, dan Writing.\n\nHari pelaksanaannya di hari Senin, bersamaan dengan UKM lainnya karena UKM Day di PENS diadakan di hari Senin. Tetapi kita juga ada meet sendiri² per divisi, dan itu harinya berbeda dengan UKM Day. Untuk penentuan harinya pun kondisional, sesuai dengan kesepakatan bersama.\n\nUntuk informasi lebih lanjut mengenai UKM E2C silahkan hubungi wa.me/6281333443663 (Mas Dhimas)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

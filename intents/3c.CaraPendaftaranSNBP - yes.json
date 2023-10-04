@@ -1,0 +1,36 @@
+{
+  "id": "a9674c2e-09df-4256-8575-899b4f11edb8",
+  "parentId": "cae9fc57-714c-43e1-9b5d-3102ecd942f3",
+  "rootParentId": "cae9fc57-714c-43e1-9b5d-3102ecd942f3",
+  "name": "3c.CaraPendaftaranSNBP - yes",
+  "auto": true,
+  "contexts": [
+    "3cCaraPendaftaranSNBP-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3cCaraPendaftaranSNBP.3cCaraPendaftaranSNBP-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

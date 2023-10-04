@@ -1,0 +1,295 @@
+[
+  {
+    "id": "b17b17fd-1be2-4e28-84e7-340bbe00d93d",
+    "data": [
+      {
+        "text": "Kapan waktu yang ditentukan untuk melakukan daftar ulang setelah dinyatakan diterima di ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI?",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2c22cb66-1452-4501-9db2-ab248f012901",
+    "data": [
+      {
+        "text": "Kapan pengumuman kelulusan ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " biasanya diumumkan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "de635f20-4aa8-40ad-9961-1ccd79a0d2c0",
+    "data": [
+      {
+        "text": "Kapan biasanya dilakukan proses seleksi atau ujian masuk untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI?",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e050e983-f7b5-40ad-84dc-d4feeaabcde4",
+    "data": [
+      {
+        "text": "Kapan tahap verifikasi dokumen pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " dilakukan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "66b22322-cc9f-419b-b39b-b98ef20c0e26",
+    "data": [
+      {
+        "text": "Kapan pengumuman hasil pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " akan diberikan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7f11bff5-58d6-41f1-ba9d-836fddee8bb2",
+    "data": [
+      {
+        "text": "Berapa lama periode pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " berlangsung?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1f90f307-25e6-432c-b3c9-b3e74706098a",
+    "data": [
+      {
+        "text": "Kapan dimulainya periode pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI?",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "94a90011-f1cb-4e88-819f-8166eac15105",
+    "data": [
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": true
+      },
+      {
+        "text": " kapan ya kak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "44337a73-5fa3-4d37-aee1-983159dfacff",
+    "data": [
+      {
+        "text": "waktu daftar simandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "178f50d1-c0fa-4c3c-afce-64b120693294",
+    "data": [
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " timeline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "30aa65a4-a5b7-4655-b1fb-28bbd6d11d69",
+    "data": [
+      {
+        "text": "timeline simandiri",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9dadd27b-3b4d-484e-b2c2-fc7aa664d637",
+    "data": [
+      {
+        "text": "5c",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " timeline ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bdcd3eae-7958-4c2b-a11f-76601bbc5aaf",
+    "data": [
+      {
+        "text": "5c.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " Timeline ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "JalurPendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7c205489-3242-4119-8f21-332d8659d9ec",
+    "data": [
+      {
+        "text": "5c.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9cc72ab5-3871-40ba-9ca7-137e81c5619b",
+    "data": [
+      {
+        "text": "5c",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

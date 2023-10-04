@@ -1,0 +1,40 @@
+{
+  "id": "27f0c8f0-8117-463f-b2de-2309b76561d9",
+  "parentId": "a220fad4-146e-4eef-a168-40dc4918c477",
+  "rootParentId": "a220fad4-146e-4eef-a168-40dc4918c477",
+  "name": "1ProfilPENS - no",
+  "auto": true,
+  "contexts": [
+    "1ProfilPENS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "1ProfilPENS.1ProfilPENS-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "PENSbot sangat sedih tidak bisa menjawab dengan baik😣\nUntuk informasi lebih lanjut silahkan hubungi nomor berikut wa.me/6281133305005 atau kembali ke halaman utama dengan mengetik /start"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

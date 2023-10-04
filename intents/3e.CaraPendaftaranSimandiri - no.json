@@ -1,0 +1,36 @@
+{
+  "id": "af86d448-bc61-4519-ba99-61cd4b419fab",
+  "parentId": "ebffd2b6-0594-47f3-b0ac-4e505359dbf8",
+  "rootParentId": "ebffd2b6-0594-47f3-b0ac-4e505359dbf8",
+  "name": "3e.CaraPendaftaranSimandiri - no",
+  "auto": true,
+  "contexts": [
+    "3eCaraPendaftaranSimandiri-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3eCaraPendaftaranSimandiri.3eCaraPendaftaranSimandiri-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

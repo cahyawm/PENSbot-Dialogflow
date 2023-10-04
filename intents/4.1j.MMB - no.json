@@ -1,0 +1,36 @@
+{
+  "id": "e48cfc43-8057-4b7e-a444-5846c07efed6",
+  "parentId": "c535773f-a68e-4ecc-ab86-ba94b662b7e5",
+  "rootParentId": "c535773f-a68e-4ecc-ab86-ba94b662b7e5",
+  "name": "4.1j.MMB - no",
+  "auto": true,
+  "contexts": [
+    "41jMMB-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "41jMMB.41jMMB-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

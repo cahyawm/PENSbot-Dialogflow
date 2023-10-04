@@ -1,0 +1,36 @@
+{
+  "id": "17d7f468-29b2-4df3-90c1-aa6191397358",
+  "parentId": "2d4fffb0-29b1-4efc-96da-f8830851df41",
+  "rootParentId": "2d4fffb0-29b1-4efc-96da-f8830851df41",
+  "name": "7c.AdministrasiSIMANDIRI - yes",
+  "auto": true,
+  "contexts": [
+    "7cAdministrasiSIMANDIRI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "7cAdministrasiSIMANDIRI.7cAdministrasiSIMANDIRI-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

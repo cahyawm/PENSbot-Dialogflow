@@ -1,0 +1,70 @@
+[
+  {
+    "id": "66ea1f69-1087-46f1-930b-1f370b02df86",
+    "data": [
+      {
+        "text": "kegiatan ",
+        "userDefined": false
+      },
+      {
+        "text": "cinemascope",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3ac89424-35d4-49c5-be51-3d1955ac2a19",
+    "data": [
+      {
+        "text": "ngapain sih ",
+        "userDefined": false
+      },
+      {
+        "text": "cinemascope",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8d94d526-337f-4288-84c3-6308d2de0a3d",
+    "data": [
+      {
+        "text": "UKM Cinemascope",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5109bee2-6556-41e8-83f4-901cb1ab61d2",
+    "data": [
+      {
+        "text": "Cinemascope",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

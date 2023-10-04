@@ -1,0 +1,68 @@
+{
+  "id": "d65e388d-08e1-4ddf-8de1-5420a9e13140",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e3000e81-0788-44d7-b612-9924d77b07d2",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "7a2eed77-5ff0-4327-a434-5be05a071f78",
+          "name": "time-period",
+          "required": false,
+          "dataType": "@sys.time-period",
+          "value": "$time-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Hi! PENSbot siap membantumu🤗\n\nSilahkan sampaikan pertanyaanmu atau pilih beberapa topik yang PENSbot sediakan berikut :\n1. Profil PENS \n2. Jalur Penerimaan Mahasiswa Baru\n3. Informasi Pendaftaran\n4. Program Studi PENS\n5. Timeline Pendaftaran \n6. Narahubung (Contact Person)\n7. Administrasi\n8. UKM PENS\n9. ORMAWA PENS"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

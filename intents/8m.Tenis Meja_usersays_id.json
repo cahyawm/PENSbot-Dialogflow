@@ -1,0 +1,150 @@
+[
+  {
+    "id": "3192f33a-df94-4419-957d-3b6e0e5119f9",
+    "data": [
+      {
+        "text": "tenis",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d575a93d-3ab7-4cb0-b30e-c402bf66ca5b",
+    "data": [
+      {
+        "text": "tenis meja",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9b667df7-161a-4d82-b868-7f52b25b4890",
+    "data": [
+      {
+        "text": "tenis meja",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "eaa86e60-1ab5-4b28-8c3c-d228b9716e5d",
+    "data": [
+      {
+        "text": "kasih tahu info ",
+        "userDefined": false
+      },
+      {
+        "text": "tenis meja",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b6b1ff7f-e53a-439a-b319-ad1eeeeb80d6",
+    "data": [
+      {
+        "text": "info ",
+        "userDefined": false
+      },
+      {
+        "text": "tenis meja",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " plis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "55f92cc0-3bcb-4337-9dbe-afc6f2c41894",
+    "data": [
+      {
+        "text": "tenis meja",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " dong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3656b804-942d-4203-99c9-71b5d6c817c7",
+    "data": [
+      {
+        "text": "Tenis meja",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "af8d062c-391c-45fc-a54b-e8189114b2bb",
+    "data": [
+      {
+        "text": "Tenis",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

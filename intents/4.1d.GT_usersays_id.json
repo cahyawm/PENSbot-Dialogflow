@@ -1,0 +1,226 @@
+[
+  {
+    "id": "a5969484-c957-48d1-961b-fe76bc22fac4",
+    "data": [
+      {
+        "text": "teknologi game",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0a4e9291-4267-45bc-b24a-f591fcc0bcbf",
+    "data": [
+      {
+        "text": "Game Teknologi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2c05f1b0-e19c-4578-9d35-f4a0804f80cc",
+    "data": [
+      {
+        "text": "GameTek",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f60391f8-ef33-410a-859b-7ac747c67120",
+    "data": [
+      {
+        "text": "Gemtek",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "46e18616-f141-4fa1-b930-09afc3e4d24c",
+    "data": [
+      {
+        "text": "Apa yang dilakukan di ",
+        "userDefined": false
+      },
+      {
+        "text": "GT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1a51479c-3fe3-49ac-a5e5-7c8096744165",
+    "data": [
+      {
+        "text": "Game Teknologi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0063216d-2060-4e85-91fb-920bb4553456",
+    "data": [
+      {
+        "text": "Prodi D4 Game Teknologi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "aae3d728-2e29-414c-93eb-8d83f32df5d7",
+    "data": [
+      {
+        "text": "Gametech",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ff4950c1-7933-4d09-801e-7739fba02db2",
+    "data": [
+      {
+        "text": "Prodi GameTek",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ecb36ff6-7fd5-4624-8c03-5a9004c74cb9",
+    "data": [
+      {
+        "text": "Program studi GT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e00bb449-e572-43e8-876f-37fb5d87e4fb",
+    "data": [
+      {
+        "text": "Prodi GT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "31020206-11c4-4cea-b347-c44fd20ae03c",
+    "data": [
+      {
+        "text": "Teknologi  Game",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0c5c9717-33d9-4e4e-9e18-f91991d19e35",
+    "data": [
+      {
+        "text": "akreditasi ",
+        "userDefined": false
+      },
+      {
+        "text": "GT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": true
+      },
+      {
+        "text": " apa yaa kira kira",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "6bbda826-8578-46d5-88e8-08724c830448",
+    "data": [
+      {
+        "text": "GT",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "c80ec61f-98f1-44b8-9a26-34ed5b7fa770",
+  "parentId": "1d7a5e27-98a2-4dfa-861c-42adf7367369",
+  "rootParentId": "1d7a5e27-98a2-4dfa-861c-42adf7367369",
+  "name": "bobot-soal - yes",
+  "auto": true,
+  "contexts": [
+    "bobot-soal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bobot-soal.bobot-soal-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

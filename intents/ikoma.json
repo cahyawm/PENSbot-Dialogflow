@@ -1,0 +1,40 @@
+{
+  "id": "f35ccdc4-15b7-42a0-9501-b9babc154ea4",
+  "name": "ikoma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ikoma-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Biaya IKOMA (Ikatan Orang Tua Mahasiswa) adalah iuran yang dibayarkan sekali di awal masuk, penggunaannya adalah untuk keperluan yang berkaitan dengan kemahasiswaan.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

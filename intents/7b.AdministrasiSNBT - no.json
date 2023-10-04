@@ -1,0 +1,36 @@
+{
+  "id": "4d3aeb93-0867-487f-9979-7ca49c382008",
+  "parentId": "2153bf90-32fe-457a-88ea-dc3c0f67f383",
+  "rootParentId": "2153bf90-32fe-457a-88ea-dc3c0f67f383",
+  "name": "7b.AdministrasiSNBT - no",
+  "auto": true,
+  "contexts": [
+    "7bAdministrasiSNBT-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "7bAdministrasiSNBT.7bAdministrasiSNBT-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

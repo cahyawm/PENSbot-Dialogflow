@@ -1,0 +1,36 @@
+{
+  "id": "cd0ce73d-d39e-410a-8786-7187bb56778f",
+  "parentId": "a220eb56-606c-4421-b45f-ed25ee4b0644",
+  "rootParentId": "a220eb56-606c-4421-b45f-ed25ee4b0644",
+  "name": "2.3SIMANDIRI - yes",
+  "auto": true,
+  "contexts": [
+    "23SIMANDIRI-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "23SIMANDIRI.23SIMANDIRI-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

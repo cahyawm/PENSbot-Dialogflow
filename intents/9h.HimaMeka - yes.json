@@ -1,0 +1,36 @@
+{
+  "id": "5578b084-d7f0-475b-96bd-b56ca37bd9df",
+  "parentId": "88f7bbbb-d9fe-49cf-88c7-f7b51d6b1b8e",
+  "rootParentId": "88f7bbbb-d9fe-49cf-88c7-f7b51d6b1b8e",
+  "name": "9h.HimaMeka - yes",
+  "auto": true,
+  "contexts": [
+    "9hHimaMeka-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "9hHimaMeka.9hHimaMeka-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

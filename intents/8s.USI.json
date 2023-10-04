@@ -1,0 +1,55 @@
+{
+  "id": "14a11a2a-2e48-4306-a278-c5d8073f23ee",
+  "name": "8s.USI",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8sUSI-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cdad81a6-97e6-4b80-ab7e-e4cf1d044ec1",
+          "name": "UKM",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$UKM",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "USI (UKM Seni Islami) merupakan UKM yang menaungi kegiatan atau pengembangan seni islam yang umumnya ada di Indonesia seperti banjari, tilawah dan lain-lain. Untuk divisi yang ada di USI yaitu divisi banjari, divisi tilawah, divisi kaligrafi, divisi hafiz dan yang baru divisi manaqib. Pelaksanaan kegiatan USI pada umumnya dilaksanakan pada hari Senin malam saat UKM day dan hari Kamis malam dimana pada hari tersebut ada rutinitas pembacaan sholawat maulid diba\u0027 atau simtuddutor. Setiap semester menjelang UAS juga dilaksanakan majelis Dzikir serta do\u0027a bersama dengan pembacaan manaqib syekh Abdul Qadir al Jaelani.\n\nUntuk informasi lebih lanjut mengenai UKM Software Development silahkan hubungi wa.me/6285606313139 (Mas Humaidi)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

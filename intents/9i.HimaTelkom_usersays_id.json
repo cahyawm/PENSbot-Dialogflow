@@ -1,0 +1,85 @@
+[
+  {
+    "id": "2d034372-3ae4-437f-9169-96facd617d74",
+    "data": [
+      {
+        "text": "profil ",
+        "userDefined": false
+      },
+      {
+        "text": "HIMA Telkom",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3114527e-8d1f-4853-9a81-9dca2ee0ad41",
+    "data": [
+      {
+        "text": "HIMA telkom",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f47b2633-5f4f-4195-b6e2-72693d5827e9",
+    "data": [
+      {
+        "text": "himpunan Telekomunikasi",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f04b3e76-0e21-4df2-a76a-578179c4fef5",
+    "data": [
+      {
+        "text": "Himpunan Mahasiswa Teknik Telekomunikasi",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0d3cb68c-b672-476d-833a-7a6c2de16991",
+    "data": [
+      {
+        "text": "HIMA TELKOM",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

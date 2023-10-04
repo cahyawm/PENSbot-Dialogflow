@@ -1,0 +1,9 @@
+{
+  "id": "7690dfec-bf06-4cb5-8186-f276113c8f09",
+  "name": "ORMAWA",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

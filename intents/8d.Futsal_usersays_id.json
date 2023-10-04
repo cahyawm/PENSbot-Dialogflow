@@ -1,0 +1,131 @@
+[
+  {
+    "id": "a5a2fd7e-cf59-424e-b64c-fb3673c92675",
+    "data": [
+      {
+        "text": "futsal",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fe006e6e-3609-4901-9032-32677f7549d0",
+    "data": [
+      {
+        "text": "kegiatan ",
+        "userDefined": false
+      },
+      {
+        "text": "futsal",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a742dd26-20cf-4ddf-a834-3a2c86328b23",
+    "data": [
+      {
+        "text": "futsal",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ecd5bb01-0762-4198-b8d8-d5946732354c",
+    "data": [
+      {
+        "text": "jelaskan ",
+        "userDefined": false
+      },
+      {
+        "text": "futsal",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1b36a907-f28a-4b02-87a8-397aaeb243f8",
+    "data": [
+      {
+        "text": "Futsal",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8993113c-f2de-4ff3-a7b3-48fd675b02d3",
+    "data": [
+      {
+        "text": "UKM FUTSAL",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9df10414-b862-4363-bab9-1c593ed4ca06",
+    "data": [
+      {
+        "text": "FUTSAL",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

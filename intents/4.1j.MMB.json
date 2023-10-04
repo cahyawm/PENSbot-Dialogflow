@@ -1,0 +1,55 @@
+{
+  "id": "c535773f-a68e-4ecc-ab86-ba94b662b7e5",
+  "name": "4.1j.MMB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "41jMMB-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e486b349-d5fe-4df3-b670-6d7e4e067f6f",
+          "name": "programstudi",
+          "required": false,
+          "dataType": "@ProgramStudi",
+          "value": "$programstudi",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Program Studi D3 Teknologi Multimedia Broadcasting berakreditasi \"\"Baik Sekali\"\".\n\nProgram studi D3 Teknologi Multimedia Broadcasting merupakan salah satu program studi di bawah naungan Departemen Teknologi Multimedia Kreatif – PENS. Prodi ini dikenal juga dengan sebutan D3 MMB. Melalui pendidikan di program studi D3 Teknologi Multimedia Broadcasting mahasiswa akan mendapatkan pengetahuan tentang elektronika umum, sistem pemancar radio dan televisi, sistem studio siaran radio dan TV, tools untuk pengembangan konten multimedia seputar animasi 2D/3D, editing foto/video, penggunaan kamera, lighting, dan untuk segi broadcasting-nya melalui jaringan internet. Lulusan dari program studi D3 MMB akan mampu terlibat dalam pekerjaan terkait pengoperasikan dan pemeliharaan fasilitas broadcasting dan peralatan-peralatan di stasiun pemancar radio ataupun televisi, atau di industri media yang lain.\n\nApakah jawaban PENSbot sudah cukup memuaskan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

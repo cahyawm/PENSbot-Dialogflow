@@ -1,0 +1,50 @@
+{
+  "id": "3e28e9e8-10be-45c5-ad9d-fa002d390fd7",
+  "name": "8UKM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b1d4535b-1893-4712-8d61-dc6d6107ab14",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Hi! Berikut adalah daftar 23 UKM (Unit Kegiatan Mahasiswa) di PENS antara lain Badminton, Basket, Cinemascope, Dirgantara, E2C, ENT, FRENS, Futsal, Karate, Mahetala, MHE, Musik, Pencak Silat, PSM, Roboholic, Taekwondo, Tari, TEKKES, Tenis Meja, USI, Voli, Softdev, dan Gamespace.\n\nInformasi UKM apa yang kamu butuhkan?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

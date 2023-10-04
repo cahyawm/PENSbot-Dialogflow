@@ -1,0 +1,226 @@
+[
+  {
+    "value": "Badminton",
+    "synonyms": [
+      "Badminton",
+      "badminton",
+      "bulu tangkis",
+      "bulutangkis",
+      "UKM Badminton"
+    ]
+  },
+  {
+    "value": "Basket",
+    "synonyms": [
+      "Basket",
+      "basketball",
+      "baskett",
+      "UKM Basket"
+    ]
+  },
+  {
+    "value": "Cinemascope",
+    "synonyms": [
+      "Cinemascope",
+      "film",
+      "UKM film",
+      "UKM Cinemascope"
+    ]
+  },
+  {
+    "value": "Dirgantara",
+    "synonyms": [
+      "Dirgantara",
+      "aviasi",
+      "dirgantara",
+      "DIRGANTARA",
+      "kedirgantaraan",
+      "keaviasian"
+    ]
+  },
+  {
+    "value": "E2C",
+    "synonyms": [
+      "E2C",
+      "EEPIS English Community",
+      "UKM E2C",
+      "eepis english community"
+    ]
+  },
+  {
+    "value": "ENT",
+    "synonyms": [
+      "ENT",
+      "EEPIS News and Network Team",
+      "eepis news and network team",
+      "UM ENT",
+      "ent"
+    ]
+  },
+  {
+    "value": "FRENS",
+    "synonyms": [
+      "FRENS",
+      "Unit Kegiatan Mahasiswa Fotografi",
+      "UKM FRENS",
+      "frens",
+      "unit kegiatan mahasiswa fotografi",
+      "fotografi",
+      "UKM fotografi"
+    ]
+  },
+  {
+    "value": "Futsal",
+    "synonyms": [
+      "Futsal",
+      "futsal",
+      "UKM FUTSAL",
+      "ukm futsal"
+    ]
+  },
+  {
+    "value": "Karate",
+    "synonyms": [
+      "Karate",
+      "UKM Karate"
+    ]
+  },
+  {
+    "value": "Mahetala",
+    "synonyms": [
+      "Mahetala",
+      "UKM Mahetala",
+      "pecinta alam",
+      "cinta alam",
+      "alam"
+    ]
+  },
+  {
+    "value": "MHE",
+    "synonyms": [
+      "MHE",
+      "UKM MHE",
+      "Mobil Hemat Energi",
+      "UKM Mobil Hemat Energi",
+      "mhe"
+    ]
+  },
+  {
+    "value": "Musik",
+    "synonyms": [
+      "Musik",
+      "musik",
+      "UKM MUSIK",
+      "UKM Musik"
+    ]
+  },
+  {
+    "value": "Pencak Silat",
+    "synonyms": [
+      "Pencak Silat",
+      "UKM Pencak Silat"
+    ]
+  },
+  {
+    "value": "PSM",
+    "synonyms": [
+      "PSM",
+      "UKM PSM",
+      "Paduan Suara Mahasiswa",
+      "UKM Paduan Suara Mahasiswa"
+    ]
+  },
+  {
+    "value": "Roboholic",
+    "synonyms": [
+      "Roboholic",
+      "ROBOHOLIC",
+      "Robot",
+      "Robotika",
+      "UKM Robotika"
+    ]
+  },
+  {
+    "value": "Taekwondo",
+    "synonyms": [
+      "Taekwondo",
+      "taekwondo",
+      "UKM taekwondo"
+    ]
+  },
+  {
+    "value": "Tari",
+    "synonyms": [
+      "Tari",
+      "UKM Tari",
+      "ukm tari",
+      "TARI"
+    ]
+  },
+  {
+    "value": "Tekkes",
+    "synonyms": [
+      "Tekkes",
+      "UKM Tekkes",
+      "Teknologi Kesehatan",
+      "UKM Teknologi Kesehatan"
+    ]
+  },
+  {
+    "value": "Tenis Meja",
+    "synonyms": [
+      "Tenis Meja",
+      "UKM Tenis Meja",
+      "UKM tenis meja",
+      "ukm tenis meja",
+      "tenismeja"
+    ]
+  },
+  {
+    "value": "USI",
+    "synonyms": [
+      "USI",
+      "UKM Seni Islami",
+      "Seni Islami",
+      "UKM USI"
+    ]
+  },
+  {
+    "value": "Voli",
+    "synonyms": [
+      "Voli",
+      "UKM VOLI",
+      "ukm voli",
+      "Volley",
+      "UKM Volley"
+    ]
+  },
+  {
+    "value": "Softdev",
+    "synonyms": [
+      "Softdev",
+      "Software Development",
+      "UKM Softdev",
+      "ukm softdev",
+      "software development"
+    ]
+  },
+  {
+    "value": "Gamespace",
+    "synonyms": [
+      "Gamespace",
+      "UKM Gamespace"
+    ]
+  },
+  {
+    "value": "UKM",
+    "synonyms": [
+      "UKM",
+      "ukm",
+      "U K M",
+      "Unit Kegiatan Mahasiswa",
+      "unit kegiatan mahasiswa",
+      "UNIT KEGIATAN MAHASISWA"
+    ]
+  }
+]

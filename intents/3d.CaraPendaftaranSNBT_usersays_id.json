@@ -1,0 +1,313 @@
+[
+  {
+    "id": "8b3d3744-0436-4ab9-a086-e359f760a289",
+    "data": [
+      {
+        "text": "Bagaimana cara mengirimkan dokumen pendaftaran yang diperlukan untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "bc64ffe7-3c44-45dd-822b-287a2d3e2e55",
+    "data": [
+      {
+        "text": "Bagaimana cara mendapatkan formulir pendaftaran untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8237197b-7ed1-4925-8cb8-16d3a4fa5b5a",
+    "data": [
+      {
+        "text": "Apakah ada persyaratan khusus yang harus dipenuhi saat mendaftar ke ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "1a2e7836-1f11-49a3-a137-a11923375379",
+    "data": [
+      {
+        "text": "Di mana saya bisa mendapatkan informasi mengenai tata cara pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "eb5f7ecc-ae51-4c5e-91fb-aab8259c324a",
+    "data": [
+      {
+        "text": "Apa yang harus saya lakukan untuk mendaftar dalam ",
+        "userDefined": false
+      },
+      {
+        "text": "Seleksi Nasional Berbasis Tes (SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": ")?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "8001d7f9-d9d2-433d-92d5-79de9629e589",
+    "data": [
+      {
+        "text": "3d. ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "35d141f0-6e5a-4541-83ca-80ce0757547a",
+    "data": [
+      {
+        "text": "3d. Cara pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fc69861f-b581-403e-8441-c905bcf8bb7e",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "260e44bb-ffc9-4360-bb43-6b20c4e24c8c",
+    "data": [
+      {
+        "text": "3d.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ccdaf169-78c1-4cb8-b78f-82570c3522a6",
+    "data": [
+      {
+        "text": "mau tahu dong cara daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "74f3aedb-0be4-4770-be35-835af3a8d00a",
+    "data": [
+      {
+        "text": "yaampun",
+        "userDefined": false
+      },
+      {
+        "text": " daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " gimana sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "674f9728-1430-4a4d-a180-85763c372f37",
+    "data": [
+      {
+        "text": "bingung cara daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      },
+      {
+        "text": " nih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0299543d-0d51-4019-b8ab-bfb990f07d79",
+    "data": [
+      {
+        "text": "kaih tahu dong cara daftar ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "50dd3f94-22bc-49bd-b2c4-0ddfc0036daf",
+    "data": [
+      {
+        "text": "Cara pendaftaran ",
+        "userDefined": false
+      },
+      {
+        "text": "SNBT",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c6a11d34-54f8-4cf2-bfb1-9a8eff904366",
+    "data": [
+      {
+        "text": "3",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "d",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

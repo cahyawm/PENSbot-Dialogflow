@@ -1,0 +1,89 @@
+[
+  {
+    "id": "efaa2bdc-db4f-496b-8aaf-4a5629268640",
+    "data": [
+      {
+        "text": "UKM TEKKES",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "3b7eadfb-64b4-4ba5-9c39-f8f572c516f8",
+    "data": [
+      {
+        "text": "TEKKES",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "98b0eb20-bc4d-4e9b-87a7-f35074d0813e",
+    "data": [
+      {
+        "text": "UKM TEKKES",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "134dc297-e7be-4562-b1fe-cb61a2517a6e",
+    "data": [
+      {
+        "text": "apa yang dimaksud ",
+        "userDefined": false
+      },
+      {
+        "text": "TEKKES",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cfd02bda-a78e-46ef-905a-583bb0a2c1ba",
+    "data": [
+      {
+        "text": "Apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "TEKKES",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

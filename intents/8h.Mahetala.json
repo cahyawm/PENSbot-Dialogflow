@@ -1,0 +1,55 @@
+{
+  "id": "572e28f6-44d2-4736-abf7-3a9406dd45b4",
+  "name": "8h.Mahetala",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8hMahetala-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5ecb2015-c2a8-40b7-ba6b-04f319d1dd87",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Unit Kegiatan Mahasiswa (UKM) Mahasiswa EEPIS Pecinta Alam adalah organisasi mahasiswa di Politeknik Elektronika Negeri Surabaya (PENS) yang berfokus pada kegiatan pecinta alam dan eksplorasi alam. Tujuan UKM ini adalah mengembangkan minat dan bakat mahasiswa dalam bidang alam dan lingkungan, sambil membangun persaudaraan dan hubungan sosial di antara anggota.\n\nUntuk informasi lebih lanjut mengenai UKM E2C silahkan hubungi wa.me/62895706016410 (Mas Sahal)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

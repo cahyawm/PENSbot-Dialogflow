@@ -1,0 +1,117 @@
+[
+  {
+    "id": "f8205379-d3a4-475c-8201-134d91724d4a",
+    "data": [
+      {
+        "text": "akreditasi ",
+        "userDefined": false
+      },
+      {
+        "text": "pens",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "21df386f-0d28-4010-97b1-8b0f2e720af6",
+    "data": [
+      {
+        "text": "akreditasi ",
+        "userDefined": false
+      },
+      {
+        "text": "politeknik elektronika negeri surabaya",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4c06f9d5-d33d-4290-ba92-8011120558ff",
+    "data": [
+      {
+        "text": "akreditasi institusi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7d9f1922-5895-4a4d-a20d-f5281ccd5bdc",
+    "data": [
+      {
+        "text": "akreditasi PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b82fc870-d424-4079-b2e7-0ab3e42ddfc8",
+    "data": [
+      {
+        "text": "informasi akreditasi pens",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "5a103170-6644-4534-b85c-b4f19296d05a",
+    "data": [
+      {
+        "text": "akreditasi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "4426444a-4396-4e5b-b28a-1aa3ee412d18",
+    "data": [
+      {
+        "text": "akreditasi PENS",
+        "userDefined": true
+      },
+      {
+        "text": " apaya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

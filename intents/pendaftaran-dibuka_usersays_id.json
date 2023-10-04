@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e73fc59c-ff1a-4c99-ade8-7c6f2c734392",
+    "data": [
+      {
+        "text": "kapan pendaftaran dibuka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "31dd0ed5-ef35-4b6a-81e9-1cca89e1bae9",
+    "data": [
+      {
+        "text": "pendaftaran dipens dibuka kapan yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "067d8e07-864e-4f3f-b44e-275961ef973c",
+    "data": [
+      {
+        "text": "Kapan pendaftaran akan dibuka?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

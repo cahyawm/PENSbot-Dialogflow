@@ -1,0 +1,36 @@
+{
+  "id": "80ccec84-ec47-4c86-9a0a-9f1f5729c889",
+  "parentId": "ee8a6ff9-8c50-4573-a59e-31cdbf8284be",
+  "rootParentId": "ee8a6ff9-8c50-4573-a59e-31cdbf8284be",
+  "name": "4.1k.TELKOM - no",
+  "auto": true,
+  "contexts": [
+    "41kTELKOM-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "41kTELKOM.41kTELKOM-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

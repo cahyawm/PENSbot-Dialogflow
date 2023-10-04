@@ -1,0 +1,55 @@
+{
+  "id": "6df12d92-0d6f-4ae6-be89-a65c9d8e0e14",
+  "name": "3b.DaftarUlang",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "3bDaftarUlang-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dd1ffae3-0cfa-4f0c-ad86-d41b2bba05a7",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Hi! Berikut adalah timeline daftar ulang SNBP, SNBT, dan SIMANDIRI :\nSNBP 29 Maret s.d. 14 April 2023\nSNBT 21 Juni s.d. 07 Juli 2023\nSIMANDIRI 17 s.d. 23 Juli 2023\n\nUntuk informasi lebih lanjut silahkan unduh kalender akademik PENS berikut :\nhttps://intip.in/KalenderAkademikPENS\n\nBerikut adalah tata cara daftar ulang mahasiswa baru PENS antara lain :\n1. Buka laman http://pmb.pens.ac.id/daftarulang kemudian masukkan No. pendaftaran dan tanggal lahir Anda kemudian klik login\n2. Klik kode pembayaran bank Mandiri\n3. Anda akan mendapatkan informasi kode transaksi pembayaran Uang Kuliah Tunggal  (UKT) Bank Mandiri, silahkan anda print informasi tersebut. Bayar biaya pendidikan anda melalui ATM, Internet Banking ataupun Teller Bank Mandiri Terdekat di seluruh Indonesia\n4. Bilamana anda sudah melunasi pembayaran UKT, maka login di site http://pmb.pens.ac.id/daftarulang, maka secara otomatis aplikasi menuju form Isian Data Mahasiswa Baru, Entri secara lengkap Biodata Pribadi Anda, Lalu klik tombol Simpan\n5. Lihat dan Cetak Form Biodata, Form Pernyataan Bebas Narkoba, Form Mentaati Peraturan, Form Pembuatan KTM dan Form Pernyataan Pembayaran, dengan klik masing-masing link\n6. Selesai Anda Menjadi Mahasiswa PENS\n7. Datang Ke BAAK PENS sesuai pengumuman untuk penyerahan berkas\n8. Apabila kesulitan, silahkan hubungi BAAK PENS atau email ke eis@pens.ac.id\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

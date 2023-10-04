@@ -1,0 +1,36 @@
+{
+  "id": "2d3975e8-8d04-49ac-82ab-989bd38442bb",
+  "parentId": "41c5f7e6-1ed1-4c3d-8240-b8884caa4435",
+  "rootParentId": "41c5f7e6-1ed1-4c3d-8240-b8884caa4435",
+  "name": "pendaftaran-dibuka - yes",
+  "auto": true,
+  "contexts": [
+    "pendaftaran-dibuka-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "pendaftaran-dibuka.pendaftaran-dibuka-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

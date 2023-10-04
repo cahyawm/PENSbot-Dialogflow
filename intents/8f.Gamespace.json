@@ -1,0 +1,55 @@
+{
+  "id": "60fdbbb3-0ad7-49bb-acf2-a25d4581584b",
+  "name": "8f.Gamespace",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8fGamespace-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "27f8c5d8-c015-4a25-929b-e90ddeeaf1cc",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM GameSpace sendiri merupakan sebuah tempat untuk mewadahi mahasiswa PENS yang memiliki minat dan bakat pada game development. UKM ini berfokus akan sharing antar anggota, pendalaman setiap role dalam gamedev dan melaksanakan berbagai kegiatan yang berkaitan dengan game development seperti game jam. Ada 7 divisi yang disesuaikan pada industri gamedev seperti Game Design, Artist 2D dan 3D, Game-Writing, Sound Enginer, UI/UX dan Programmer.\n\nUKM GameSpace dilaksanakn setiap hari senin jam 5 sore sesuai jam UKM Day.\nUntuk mengetahui informasi lebih lanjut mengenai UKM GameDev, dapat menghubungi wa.me/6285155187499 (Rayhan)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

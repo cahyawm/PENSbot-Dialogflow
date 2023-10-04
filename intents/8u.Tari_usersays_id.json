@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0f1b1348-4bb2-4e66-96f9-1390f975465f",
+    "data": [
+      {
+        "text": "jelasin ",
+        "userDefined": false
+      },
+      {
+        "text": "ukm tari",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ce7b86ba-4983-4bf3-a861-b8b98f4535b6",
+    "data": [
+      {
+        "text": "ukm tari",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": true
+      },
+      {
+        "text": " itu apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "08a90acf-b00d-43d6-922d-f5b7f644fa44",
+    "data": [
+      {
+        "text": "kegiatan ",
+        "userDefined": false
+      },
+      {
+        "text": "ukm tari",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": true
+      },
+      {
+        "text": " ngapain aja yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "205a3315-b189-4626-bc3f-cc49b15e0f23",
+    "data": [
+      {
+        "text": "tari",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7c89048b-ca63-4471-8ec1-9b820669a718",
+    "data": [
+      {
+        "text": "UKM TARI",
+        "meta": "@UKM",
+        "alias": "UKM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

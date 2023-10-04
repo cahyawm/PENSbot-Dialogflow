@@ -1,0 +1,196 @@
+[
+  {
+    "id": "6faeeb46-bb4d-48d1-b588-05d8eb080afd",
+    "data": [
+      {
+        "text": "pengelompokkan ",
+        "userDefined": false
+      },
+      {
+        "text": "UKT",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7d6458d1-d31c-469a-a0ec-6e9b7ae9a5b9",
+    "data": [
+      {
+        "text": "pembayaran ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "eab6f799-9ce7-4445-9beb-410955c7bbbc",
+    "data": [
+      {
+        "text": "ada info administrasi ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri?",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "abc17509-5d2b-466e-849c-7fcfcf02a35f",
+    "data": [
+      {
+        "text": "administrasi ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b9253570-6a7d-4e88-ade9-0055206be982",
+    "data": [
+      {
+        "text": "7c",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " administrasi ",
+        "userDefined": false
+      },
+      {
+        "text": "simandiri",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "f48709ac-01fd-427f-94ff-eb67ebe7f8e4",
+    "data": [
+      {
+        "text": "7c.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": " Administrasi ",
+        "userDefined": false
+      },
+      {
+        "text": "SIMANDIRI",
+        "meta": "@JalurPendaftaran",
+        "alias": "jalurpendaftaran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d83efe6e-b8d9-48af-a742-09ad2260a082",
+    "data": [
+      {
+        "text": "7c,",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "42293453-06d3-4a9b-bc80-383f1a66e8e7",
+    "data": [
+      {
+        "text": "7 c",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c1aac166-ee8a-4873-a59c-4c375978b712",
+    "data": [
+      {
+        "text": "7c.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7a75287b-9199-471d-bbf0-0ac195bbb46b",
+    "data": [
+      {
+        "text": "7c",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

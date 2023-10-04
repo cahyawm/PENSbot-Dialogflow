@@ -1,0 +1,55 @@
+{
+  "id": "b4c4e52c-6fb4-4197-8e18-ae893a2c3345",
+  "name": "9g.HimaEnergi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "9gHimaEnergi-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2cf164f2-9734-4146-8ad6-1cfb11a4987e",
+          "name": "ormawa",
+          "required": false,
+          "dataType": "@ORMAWA",
+          "value": "$ormawa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Himpunan Mahasiswa Sistem Pembangkit Energi Politeknik Elektronika Negeri Surabaya (HIMA ENERGI PENS) didirikan pada tahun 2014 setelah melalui proses pengembangan dan persiapan. Sebelumnya, mahasiswa SPE dinaungi oleh HIMA MEKA. Namun, karena perbedaan karakteristik dan kebutuhan, mahasiswa SPE merasa perlu memiliki himpunan sendiri. Setelah mediasi, dibentuklah Badan Semi Otonom (BSO) SPE sebagai persiapan pendirian himpunan. Pada tanggal 29 Desember 2014, Himpunan Mahasiswa Sistem Pembangkit Energi Politeknik Elektronika Negeri Surabaya secara resmi didirikan berdasarkan SK Direktur No.4297.01/PI.14/KM/2014 dan dideklarasikan pada 12 Januari 2015."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

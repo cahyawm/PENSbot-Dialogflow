@@ -1,0 +1,69 @@
+{
+  "id": "cae9fc57-714c-43e1-9b5d-3102ecd942f3",
+  "name": "3c.CaraPendaftaranSNBP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "3cCaraPendaftaranSNBP-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "3d00568b-0099-4d1f-aabf-3176cb195f15",
+          "name": "jalurpendaftaran",
+          "required": false,
+          "dataType": "@JalurPendaftaran",
+          "value": "$jalurpendaftaran",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "93cd03a8-6902-4b52-8fe8-d0966877fd7e",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! Berikut adalah tata cara pendaftaran SNBP PENS :\n1. Registrasi Akun SNPMB 2023\n- Pembuatan Akun SNPMB bagi Sekolah dan Siswa dimulai pada 09 Januari 2023, pukul 15.00 WIB pada laman Portal SNPMB.\n- Sekolah dan Siswa yang sudah mengikuti uji coba kedua/lanjutan pembuatan Akun SNPMB dan berhasil, tidak perlu membuat akun SNPMB lagi.\n- Pembuatan Akun SNPMB berakhir pada: 09 Februari 2023 bagi Sekolah, dan 15 Februari 2023 bagi Siswa.\n2. Login terlebih dahulu melalui portal SNPMB atau https://snpmb.bppp.kemdikbud.go.id Persyaratan siswa yang diperbolehkan masuk ke aplikasi SNBP 2023 :\n- Sudah memiliki akun SNPMB yang berstatus permanen.\n- Merupakan siswa eligible yang telah diisikan nilainya secara lengkap dan difinalisasi melalui aplikasi PDSS oleh sekolah.\n- Merupakan siswa lulusan 2023.\n3. Validasi data profil\n4. Pemilihan program studi (prodi)\n5. Pengisian portofolio\n6. Pengisian prestasi\n7. Finalisasi. Siswa hanya bisa melakukan finalisasi jika sudah mengisi jumlah tanggungan, memilih prodi, dan mengunggah portofolio (hanya untuk prodi seni dan olahraga)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

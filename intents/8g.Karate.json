@@ -1,0 +1,55 @@
+{
+  "id": "4f7d88ff-0b92-406c-9997-dc19e81ee07e",
+  "name": "8g.Karate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "8gKarate-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4eb4e22d-cf59-479d-9e4e-9895a5885cb7",
+          "name": "ukm",
+          "required": false,
+          "dataType": "@UKM",
+          "value": "$ukm",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "UKM Karate adalah salah satu UKM di PENS yang menaungi mahasiswa yang berminat di olahraga beladiri karate. UKM Karate dilaksanakan setiap hari Senin sesuai dengan UKM Day yang ada di PENS. Bila ingin menggali informasi lebih lanjut bisa menghubungi wa.me/+6282219334300 (Mas Firman)\n\nApakah jawaban PENSbot sudah cukup membantu?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

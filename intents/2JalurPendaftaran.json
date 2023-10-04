@@ -1,0 +1,50 @@
+{
+  "id": "89138e09-1daa-4b79-bdfb-21b83bb0d1e1",
+  "name": "2JalurPendaftaran",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bea5195d-55f3-47a9-b4ad-c53701f630d8",
+          "name": "Nomor",
+          "required": false,
+          "dataType": "@Nomor",
+          "value": "$Nomor",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "speech": [
+            "Halo! untuk jalur pendaftaran di PENS antara lain SNBP, SNBT, SIMANDIRI, Pascasarjana, Lanjut Jenjang D4, Pendidikan Jarak Jauh (PJJ) diantaranya PMB PJJ Reguler, PMB PJJ Lanjut Jenjang, D3 PJJ untuk PMI Luar Negeri.\n\nUntuk saat ini PENSbot hanya menyediakan informasi mengenai SNBP, SNBT, dan SIMANDIRI. Kamu ingin mengetahui informasi jalur pendaftaran apa?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "9a6f3cc6-3895-407b-a50c-4ca8f010f150",
+  "parentId": "223f7c23-bc9a-4823-a732-788382150f1e",
+  "rootParentId": "223f7c23-bc9a-4823-a732-788382150f1e",
+  "name": "akreditasi-pens - no",
+  "auto": true,
+  "contexts": [
+    "akreditasi-pens-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "akreditasi-pens.akreditasi-pens-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

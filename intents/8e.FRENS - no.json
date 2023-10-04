@@ -1,0 +1,36 @@
+{
+  "id": "b157a10e-a798-47e5-8340-b185632c8bfc",
+  "parentId": "dbb3077c-93c9-4adc-9b3d-6066c39876d4",
+  "rootParentId": "dbb3077c-93c9-4adc-9b3d-6066c39876d4",
+  "name": "8e.FRENS - no",
+  "auto": true,
+  "contexts": [
+    "8eFRENS-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8eFRENS.8eFRENS-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

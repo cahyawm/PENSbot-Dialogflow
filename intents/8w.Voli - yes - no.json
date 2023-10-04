@@ -1,0 +1,36 @@
+{
+  "id": "4d532485-8181-4139-b631-80a697a08afb",
+  "parentId": "8841bf3c-32e6-4376-92e4-3f39d0bcf13e",
+  "rootParentId": "6d95d5d0-f2f3-476a-80e7-713348cf97c9",
+  "name": "8w.Voli - yes - no",
+  "auto": true,
+  "contexts": [
+    "8wVoli-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "8wVoli.8wVoli-yes.8wVoli-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "id",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

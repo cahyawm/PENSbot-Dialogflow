@@ -1,0 +1,78 @@
+[
+  {
+    "id": "9017baa4-6898-45c4-a5ec-4bfb93ae091a",
+    "data": [
+      {
+        "text": "kepo",
+        "userDefined": false
+      },
+      {
+        "text": " sama ",
+        "userDefined": false
+      },
+      {
+        "text": "gamespace",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "14238108-d47d-4744-8641-067dc56b9810",
+    "data": [
+      {
+        "text": "jelaskan kegiatan ",
+        "userDefined": false
+      },
+      {
+        "text": "gamespace",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cef5f968-1655-4dc8-be2d-1b7af23fee65",
+    "data": [
+      {
+        "text": "Gamespace",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9eabbd35-4c02-45e7-97b8-4c281fb27aab",
+    "data": [
+      {
+        "text": "Gamespace",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

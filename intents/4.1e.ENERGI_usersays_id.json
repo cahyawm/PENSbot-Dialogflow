@@ -1,0 +1,217 @@
+[
+  {
+    "id": "06c1c9a6-0c17-4c8f-aa5d-a8b8977d6e6e",
+    "data": [
+      {
+        "text": "jelaskan tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "energi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ddbc6713-1247-4f77-bcca-aa36cc3a1075",
+    "data": [
+      {
+        "text": "jelaskan tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "SPE",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9161112f-c92e-4745-8afc-9334a8f788e6",
+    "data": [
+      {
+        "text": "SPE",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "2dccb3d7-61c8-43c9-aebe-9dfe5a4cf2de",
+    "data": [
+      {
+        "text": "program studi sistem pembangkit energi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "fc1e7c0f-b61c-4a2a-85b3-38da3f57443a",
+    "data": [
+      {
+        "text": "teknik energi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "717b395d-808f-4cf9-bff2-70d6db1a4dc8",
+    "data": [
+      {
+        "text": "Sistem pembangkit energi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "60b87440-f732-436c-a2d0-99a25086cd7a",
+    "data": [
+      {
+        "text": "program studi energi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "52113a4d-3e60-4175-bde2-cc0a25524bbe",
+    "data": [
+      {
+        "text": "program studi SPE",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d774a42b-9e27-4acc-82d5-5a1c4fe40809",
+    "data": [
+      {
+        "text": "apa yang dilakukan di ",
+        "userDefined": false
+      },
+      {
+        "text": "SPE",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9216ddb2-e1a8-400e-a845-877d4f4fe9b4",
+    "data": [
+      {
+        "text": "prodi SPE",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "21a54a57-65ff-4201-9080-5be4a4cc1025",
+    "data": [
+      {
+        "text": "prodi energi",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      },
+      {
+        "text": " ngapain aja yaa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "716f6915-32a9-41e2-8510-cf1e2d41e2a4",
+    "data": [
+      {
+        "text": "ENERGI",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a55c0b74-8272-420a-a9d6-f95f73e0c734",
+    "data": [
+      {
+        "text": "SPE",
+        "meta": "@ProgramStudi",
+        "alias": "programstudi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

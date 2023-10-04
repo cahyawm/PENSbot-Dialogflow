@@ -1,0 +1,96 @@
+[
+  {
+    "id": "3d60f8dd-bd90-4d4c-bf76-11d61823b026",
+    "data": [
+      {
+        "text": "Bagaimana informasi lebih lanjut mengenai bobot soal dapat diperoleh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "de086543-25af-4d4f-8943-fb28cc3f3a6f",
+    "data": [
+      {
+        "text": "Apakah ada penyesuaian bobot soal untuk ",
+        "userDefined": false
+      },
+      {
+        "text": "jalur pendaftaran",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " tertentu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a05798f3-5a5c-44ed-bdb1-34891da99f71",
+    "data": [
+      {
+        "text": "Apakah semua soal memiliki bobot yang sama?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "565b3063-912a-4e0e-93a8-21c357a0ce59",
+    "data": [
+      {
+        "text": "Bagaimana bobot soal dalam proses pendaftaran?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b19cf48d-eef0-4b26-bf86-b1f584ce0109",
+    "data": [
+      {
+        "text": "bobot soal tes masuk ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "263db7a7-af2c-4b24-a5d5-f531e31dca1a",
+    "data": [
+      {
+        "text": "Apakah ada perbedaan bobot soal untuk SMA dan SMK?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

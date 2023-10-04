@@ -1,0 +1,77 @@
+[
+  {
+    "id": "6ded75f3-a8cf-4267-bb68-02ce77d906c3",
+    "data": [
+      {
+        "text": "Himpunan SPE",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "ede2b12f-779e-4fd3-8046-400008b86c05",
+    "data": [
+      {
+        "text": "himpunan mahasiswa sistem pembangkit energi",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "28508411-c1d3-4cf9-b8b0-d5f9137e2b09",
+    "data": [
+      {
+        "text": "Hima sistem pembangkit energi",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "786d15b7-64d4-407b-bd67-4ed537d491bc",
+    "data": [
+      {
+        "text": "HIMA SPE",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d7c07e31-6ddf-4aea-aa7b-8d50d0dccf60",
+    "data": [
+      {
+        "text": "HIMA ENERGI",
+        "meta": "@ORMAWA",
+        "alias": "ormawa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]

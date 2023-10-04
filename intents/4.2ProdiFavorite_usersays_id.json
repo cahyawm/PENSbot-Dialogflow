@@ -1,0 +1,224 @@
+[
+  {
+    "id": "e9902ef1-ef93-41c6-a419-5d02bc99ed9c",
+    "data": [
+      {
+        "text": "Apa saja ",
+        "userDefined": false
+      },
+      {
+        "text": "prodi",
+        "userDefined": false
+      },
+      {
+        "text": " unggulan yang ditawarkan oleh ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0892dd07-3d76-416f-8e22-4f7036f1d266",
+    "data": [
+      {
+        "text": "4 b.",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "63ea6fc9-fd29-4735-b4fd-05e600d18fb5",
+    "data": [
+      {
+        "text": "4 b",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "9cde2a1b-e705-49c2-9ec7-703c311431c4",
+    "data": [
+      {
+        "text": "4b",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "b1e5cc75-34de-4ef5-932c-c1d181ece36b",
+    "data": [
+      {
+        "text": "4b",
+        "meta": "@Nomor",
+        "alias": "Nomor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "981a6e45-c731-4d15-9b2a-cac583833dad",
+    "data": [
+      {
+        "text": "jurusan kesukaan di ",
+        "userDefined": false
+      },
+      {
+        "text": "PENS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "23565924-7084-4456-b26d-200d8d3531ce",
+    "data": [
+      {
+        "text": "program studi yang paling banyak dipilih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "d2c7bc9b-44bb-45c8-ade4-ed816c24fbb2",
+    "data": [
+      {
+        "text": "program studi yang paling banyak diminati apa ya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e6c40ef0-501a-4b13-975b-8e116b23ff3d",
+    "data": [
+      {
+        "text": "Program studi favorite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a3ba855f-a0aa-43bb-a839-99f5e53513fc",
+    "data": [
+      {
+        "text": "prodi",
+        "userDefined": false
+      },
+      {
+        "text": " favorite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "a44980ed-b3bc-45d0-bf78-c107213e4ac0",
+    "data": [
+      {
+        "text": "program studi yang paling digemari ",
+        "userDefined": false
+      },
+      {
+        "text": "tahun ini",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c4d35984-b39c-4e7d-8786-cc3e63e2810a",
+    "data": [
+      {
+        "text": "program studi paling banyak digemari ditahun ini apa ya?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "da977443-1a6e-494f-adbe-f8573251a61d",
+    "data": [
+      {
+        "text": "informasi program studi favorite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "cecb4287-e775-421b-9db8-224af08c44fa",
+    "data": [
+      {
+        "text": "program studi yang paling banyak diambil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "id",
+    "updated": 0
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ff3a7e22-645d-4259-be6a-b664b2b8e68e",
+    "data": [
+      {
+        "text": "kepanjangan ",
+        "userDefined": false
+      },
+      {
+        "text": "dari",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "E2C",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " apa sih",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "e385a766-de0c-4670-a23d-e49bcacbc3f8",
+    "data": [
+      {
+        "text": "jelasin ",
+        "userDefined": false
+      },
+      {
+        "text": "E2C",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " itu apa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "0607d514-3a1b-4651-9686-7b6b6d7eaa84",
+    "data": [
+      {
+        "text": "E2C",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " adalahkasih tau info tentang ",
+        "userDefined": false
+      },
+      {
+        "text": "E2C",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "c7dc3192-d391-434b-872f-463a79cfdfe0",
+    "data": [
+      {
+        "text": "E2C",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      },
+      {
+        "text": " adalah",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "10f91a82-5522-41dc-88f9-b120a4dcdfb5",
+    "data": [
+      {
+        "text": "apa itu ",
+        "userDefined": false
+      },
+      {
+        "text": "E2C",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  },
+  {
+    "id": "7487fb28-1ac4-4842-850d-0170e33072b4",
+    "data": [
+      {
+        "text": "E2C",
+        "meta": "@UKM",
+        "alias": "ukm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "id",
+    "updated": 0
+  }
+]
